@@ -23,7 +23,7 @@ The museums sit within the marvellous 18-hectare Parque de Serralves. Lily ponds
       <Address>Rua Dom João de Castro 210</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20Dom%20Jo%C3%A3o%20de%20Castro%20210</AddressUrl>
       <WebPage>www.serralves.pt</WebPage>
-      <WebPageUrl>//www.serralves.pt</WebPageUrl>
+      <WebPageUrl>https://www.serralves.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Attractions</PlaceType>
       <RegionType>Porto</RegionType>
@@ -37,7 +37,7 @@ Requisitioned by Napoleonic invaders, the neoclassical palace was abandoned so r
       <Address>Rua Dom Manuel II 44</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20Dom%20Manuel%20II%2044</AddressUrl>
       <WebPage>www.museusoaresdosreis.pt</WebPage>
-      <WebPageUrl>//www.museusoaresdosreis.pt</WebPageUrl>
+      <WebPageUrl>https://www.museusoaresdosreis.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Attractions</PlaceType>
       <RegionType>Porto</RegionType>
@@ -53,7 +53,7 @@ The highlight is a stupendous ballroom known as the Salão Árabe (Arabian Hall)
       <Address>Rua Ferreira Borges</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20Ferreira%20Borges</AddressUrl>
       <WebPage>www.palaciodabolsa.com</WebPage>
-      <WebPageUrl>//www.palaciodabolsa.com</WebPageUrl>
+      <WebPageUrl>https://www.palaciodabolsa.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Attractions</PlaceType>
       <RegionType>Porto</RegionType>
@@ -79,7 +79,7 @@ The wonky cuboid conceals a shoebox-style concert hall lauded for some of the wo
       <Address>Avenida da Boavista 604-610</Address>
       <AddressUrl>https://www.google.com/maps?q=Avenida%20da%20Boavista%20604-610</AddressUrl>
       <WebPage>www.casadamusica.com</WebPage>
-      <WebPageUrl>//www.casadamusica.com</WebPageUrl>
+      <WebPageUrl>https://www.casadamusica.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Attractions</PlaceType>
       <RegionType>Porto</RegionType>
@@ -93,7 +93,7 @@ The €5 entry is redeemable if you buy a book.</Description>
       <Address>Rua das Carmelitas 144</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20das%20Carmelitas%20144</AddressUrl>
       <WebPage>www.livrarialello.pt</WebPage>
-      <WebPageUrl>//www.livrarialello.pt</WebPageUrl>
+      <WebPageUrl>https://www.livrarialello.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Attractions</PlaceType>
       <RegionType>Porto</RegionType>
@@ -153,7 +153,7 @@ The museum centres on a sky-lit atrium, and a visit begins on the 3rd floor, gra
       <Address>Rua das Flores 5</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20das%20Flores%205</AddressUrl>
       <WebPage>www.mmipo.pt</WebPage>
-      <WebPageUrl>//www.mmipo.pt</WebPageUrl>
+      <WebPageUrl>https://www.mmipo.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Attractions</PlaceType>
       <RegionType>Porto</RegionType>
@@ -257,7 +257,7 @@ More like a private dining experience and gastronomic event than just another go
       <Address>Rua de Santo Ildefonso 404</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20de%20Santo%20Ildefonso%20404</AddressUrl>
       <WebPage>www.euskaldunastudio.pt</WebPage>
-      <WebPageUrl>//www.euskaldunastudio.pt</WebPageUrl>
+      <WebPageUrl>https://www.euskaldunastudio.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Porto</RegionType>
@@ -271,7 +271,7 @@ Breakfast is a cracking deal at €6 a head, with fresh juice and a tempting arr
       <Address>Rua de Belomonte 104</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20de%20Belomonte%20104</AddressUrl>
       <WebPage>www.facebook.com/belosairesrestaurante</WebPage>
-      <WebPageUrl>//www.facebook.com/belosairesrestaurante</WebPageUrl>
+      <WebPageUrl>https://www.facebook.com/belosairesrestaurante</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Porto</RegionType>
@@ -285,7 +285,7 @@ Breakfast is a cracking deal at €6 a head, with fresh juice and a tempting arr
       <Address>Yeatman Hotel, Rua do Choupelo 88</Address>
       <AddressUrl>https://www.google.com/maps?q=Yeatman%20Hotel,%20Rua%20do%20Choupelo%2088</AddressUrl>
       <WebPage>www.the-yeatman-hotel.com</WebPage>
-      <WebPageUrl>//www.the-yeatman-hotel.com</WebPageUrl>
+      <WebPageUrl>https://www.the-yeatman-hotel.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Porto</RegionType>
@@ -299,7 +299,7 @@ Breakfast is a cracking deal at €6 a head, with fresh juice and a tempting arr
       <Address>Rua do Padre Luís Cabral 974</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20do%20Padre%20Lu%C3%ADs%20Cabral%20974</AddressUrl>
       <WebPage>www.pedrolemos.net</WebPage>
-      <WebPageUrl>//www.pedrolemos.net</WebPageUrl>
+      <WebPageUrl>https://www.pedrolemos.net</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Porto</RegionType>
@@ -314,7 +314,7 @@ Breakfast is a cracking deal at €6 a head, with fresh juice and a tempting arr
       <Address>Rua de Costa Cabral 2343</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20de%20Costa%20Cabral%202343</AddressUrl>
       <WebPage>www.opaparico.com</WebPage>
-      <WebPageUrl>//www.opaparico.com</WebPageUrl>
+      <WebPageUrl>https://www.opaparico.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Porto</RegionType>
@@ -328,7 +328,7 @@ The slickly urban decor has an industrial edge, with brick walls, statement ligh
       <Address>Rua do Almada 149A</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20do%20Almada%20149A</AddressUrl>
       <WebPage>www.muusteakhouse.com</WebPage>
-      <WebPageUrl>//www.muusteakhouse.com</WebPageUrl>
+      <WebPageUrl>https://www.muusteakhouse.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Porto</RegionType>
@@ -342,7 +342,7 @@ The slickly urban decor has an industrial edge, with brick walls, statement ligh
       <Address>Rua das Flores 32</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20das%20Flores%2032</AddressUrl>
       <WebPage>www.cantina32.com</WebPage>
-      <WebPageUrl>//www.cantina32.com</WebPageUrl>
+      <WebPageUrl>https://www.cantina32.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Porto</RegionType>
@@ -356,7 +356,7 @@ The slickly urban decor has an industrial edge, with brick walls, statement ligh
       <Address>Graham's Port Lodge, Rua do Agro 141</Address>
       <AddressUrl>https://www.google.com/maps?q=Graham's%20Port%20Lodge,%20Rua%20do%20Agro%20141</AddressUrl>
       <WebPage>www.vinumatgrahams.com</WebPage>
-      <WebPageUrl>//www.vinumatgrahams.com</WebPageUrl>
+      <WebPageUrl>https://www.vinumatgrahams.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Porto</RegionType>
@@ -370,7 +370,7 @@ The slickly urban decor has an industrial edge, with brick walls, statement ligh
       <Address>Rua de Entre Quintas 220</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20de%20Entre%20Quintas%20220</AddressUrl>
       <WebPage>www.antiqvvm.pt</WebPage>
-      <WebPageUrl>//www.antiqvvm.pt</WebPageUrl>
+      <WebPageUrl>https://www.antiqvvm.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Porto</RegionType>
@@ -384,7 +384,7 @@ Everything from veal to sea bream is cooked and seasoned to a T. The must-try 'T
       <Address>Travessa dos Congregados 11</Address>
       <AddressUrl>https://www.google.com/maps?q=Travessa%20dos%20Congregados%2011</AddressUrl>
       <WebPage>www.flordoscongregados.pt</WebPage>
-      <WebPageUrl>//www.flordoscongregados.pt</WebPageUrl>
+      <WebPageUrl>https://www.flordoscongregados.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Porto</RegionType>
@@ -398,7 +398,7 @@ Everything from veal to sea bream is cooked and seasoned to a T. The must-try 'T
       <Address>Rua Passos Manuel 226</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20Passos%20Manuel%20226</AddressUrl>
       <WebPage>www.caferestaurantesantiago.com.pt</WebPage>
-      <WebPageUrl>//www.caferestaurantesantiago.com.pt</WebPageUrl>
+      <WebPageUrl>https://www.caferestaurantesantiago.com.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Porto</RegionType>
@@ -412,7 +412,7 @@ Everything from veal to sea bream is cooked and seasoned to a T. The must-try 'T
       <Address>Palácio das Artes, Largo de São Domingos 18</Address>
       <AddressUrl>https://www.google.com/maps?q=Pal%C3%A1cio%20das%20Artes,%20Largo%20de%20S%C3%A3o%20Domingos%2018</AddressUrl>
       <WebPage>www.doprestaurante.pt</WebPage>
-      <WebPageUrl>//www.doprestaurante.pt</WebPageUrl>
+      <WebPageUrl>https://www.doprestaurante.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Porto</RegionType>
@@ -426,7 +426,7 @@ Wine pairings are available for an extra €90 per head and, given the quality o
       <Address>Avenida da Liberdade 1681. Leça da Palmeira, Matosinhos</Address>
       <AddressUrl>https://www.google.com/maps?q=Avenida%20da%20Liberdade%201681.%20Le%C3%A7a%20da%20Palmeira,%20Matosinhos</AddressUrl>
       <WebPage>www.ruipaula.com</WebPage>
-      <WebPageUrl>//www.ruipaula.com</WebPageUrl>
+      <WebPageUrl>https://www.ruipaula.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Porto</RegionType>
@@ -440,7 +440,7 @@ The fresh produce market does a brisk trade in fish and shellfish, meat, fruit a
       <Address>Praça Bom Sucesso</Address>
       <AddressUrl>https://www.google.com/maps?q=Pra%C3%A7a%20Bom%20Sucesso</AddressUrl>
       <WebPage>www.mercadobomsucesso.pt</WebPage>
-      <WebPageUrl>//www.mercadobomsucesso.pt</WebPageUrl>
+      <WebPageUrl>https://www.mercadobomsucesso.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Porto</RegionType>
@@ -454,7 +454,7 @@ Food envy is a valid concern when seated within gawking distance of fellow diner
       <Address>Rua Campo Mártires da Pátria 103</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20Campo%20M%C3%A1rtires%20da%20P%C3%A1tria%20103</AddressUrl>
       <WebPage>www.facebook.com/brickclerigos</WebPage>
-      <WebPageUrl>//www.facebook.com/brickclerigos</WebPageUrl>
+      <WebPageUrl>https://www.facebook.com/brickclerigos</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Porto</RegionType>
@@ -468,7 +468,7 @@ Don’t miss the cute enclosed terrace out the back with a calming collection of
       <Address>Rua do Carmo 11</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20do%20Carmo%2011</AddressUrl>
       <WebPage>www.facebook.com/noshicoffee</WebPage>
-      <WebPageUrl>//www.facebook.com/noshicoffee</WebPageUrl>
+      <WebPageUrl>https://www.facebook.com/noshicoffee</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Porto</RegionType>
@@ -482,7 +482,7 @@ Choose from hot and cold options such as octopus and chestnut risotto or beef ta
       <Address>Largo de São Domingos 84</Address>
       <AddressUrl>https://www.google.com/maps?q=Largo%20de%20S%C3%A3o%20Domingos%2084</AddressUrl>
       <WebPage>www.puro4050.com</WebPage>
-      <WebPageUrl>//www.puro4050.com</WebPageUrl>
+      <WebPageUrl>https://www.puro4050.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Porto</RegionType>
@@ -496,7 +496,7 @@ Gather around the central share table or settle along the window seat for a spot
       <Address>Rua do Rosário 22</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20do%20Ros%C3%A1rio%2022</AddressUrl>
       <WebPage>www.epocaporto.com</WebPage>
-      <WebPageUrl>//www.epocaporto.com</WebPageUrl>
+      <WebPageUrl>https://www.epocaporto.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Porto</RegionType>
@@ -510,7 +510,7 @@ Cool can also mean crowded, so expect a wait to get in, but with a view of the p
       <Address>Praça de Carlos Alberto 86</Address>
       <AddressUrl>https://www.google.com/maps?q=Pra%C3%A7a%20de%20Carlos%20Alberto%2086</AddressUrl>
       <WebPage>www.facebook.com/zenithporto</WebPage>
-      <WebPageUrl>//www.facebook.com/zenithporto</WebPageUrl>
+      <WebPageUrl>https://www.facebook.com/zenithporto</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Porto</RegionType>
@@ -524,7 +524,7 @@ Cool can also mean crowded, so expect a wait to get in, but with a view of the p
       <Address>Rua dos Caldeireiros 85</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20dos%20Caldeireiros%2085</AddressUrl>
       <WebPage>www.asandeira.pt</WebPage>
-      <WebPageUrl>//www.asandeira.pt</WebPageUrl>
+      <WebPageUrl>https://www.asandeira.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Porto</RegionType>
@@ -538,7 +538,7 @@ Cool can also mean crowded, so expect a wait to get in, but with a view of the p
       <Address>Av de Camilo 325</Address>
       <AddressUrl>https://www.google.com/maps?q=Av%20de%20Camilo%20325</AddressUrl>
       <WebPage>www.facebook.com/mesa325</WebPage>
-      <WebPageUrl>//www.facebook.com/mesa325</WebPageUrl>
+      <WebPageUrl>https://www.facebook.com/mesa325</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Porto</RegionType>
@@ -564,7 +564,7 @@ With a succinct but special menu and well-edited wine list, insiders are already
       <Address>Rua do General Torres 344</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20do%20General%20Torres%20344</AddressUrl>
       <WebPage>http://theblini.com</WebPage>
-      <WebPageUrl>//theblini.com</WebPageUrl>
+      <WebPageUrl>https://theblini.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Porto</RegionType>
@@ -578,7 +578,7 @@ Save room for palate-cleansing desserts such as coconut and lychee pudding with 
       <Address>Rua da Madeira 222</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20da%20Madeira%20222</AddressUrl>
       <WebPage>www.tapabento.com</WebPage>
-      <WebPageUrl>//www.tapabento.com</WebPageUrl>
+      <WebPageUrl>https://www.tapabento.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Porto</RegionType>
@@ -592,7 +592,7 @@ Save room for palate-cleansing desserts such as coconut and lychee pudding with 
       <Address>Rua da Restauração 336</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20da%20Restaura%C3%A7%C3%A3o%20336</AddressUrl>
       <WebPage>www.torelavantgarde.com</WebPage>
-      <WebPageUrl>//www.torelavantgarde.com</WebPageUrl>
+      <WebPageUrl>https://www.torelavantgarde.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Porto</RegionType>
@@ -606,7 +606,7 @@ Save room for palate-cleansing desserts such as coconut and lychee pudding with 
       <Address>Rua do Almada 151A</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20do%20Almada%20151A</AddressUrl>
       <WebPage>www.facebook.com/pg/soldoutarena</WebPage>
-      <WebPageUrl>//www.facebook.com/pg/soldoutarena</WebPageUrl>
+      <WebPageUrl>https://www.facebook.com/pg/soldoutarena</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Porto</RegionType>
@@ -620,7 +620,7 @@ Save room for palate-cleansing desserts such as coconut and lychee pudding with 
       <Address>Rua do Bom Sucesso 241</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20do%20Bom%20Sucesso%20241</AddressUrl>
       <WebPage>www.casa-agricola.com</WebPage>
-      <WebPageUrl>//www.casa-agricola.com</WebPageUrl>
+      <WebPageUrl>https://www.casa-agricola.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Porto</RegionType>
@@ -641,12 +641,6 @@ The place is tiny so make sure you book ahead.</Description>
       <Name>All In Porto</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
-      <Description>Wine-barrel tables, lanterns and funky Porto murals create a hip, laid-back space for sampling a stellar selection of Portuguese wines and nicely prepared petiscos (tapas). These range from flame-grilled chouriço (spicy sausage) to spicy sardine roe, cheeses and conservas (canned fish). Quiet enough for conversing, it's also a chilled spot to begin or end an evening over drinks.
-</Description>
-      <Address>Rua Arquitecto Nicolau Nasoni 17</Address>
-      <AddressUrl>https://www.google.com/maps?q=Rua%20Arquitecto%20Nicolau%20Nasoni%2017</AddressUrl>
-      <WebPage>www.facebook.com/allinporto</WebPage>
-      <WebPageUrl>//www.facebook.com/allinporto</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Porto</RegionType>
@@ -655,12 +649,6 @@ The place is tiny so make sure you book ahead.</Description>
       <Name>Mistu</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
-      <Description>The marble bistro tables, Thonet chairs, soft lighting, arched windows and creeping foliage at cool Mistu are redolent of a more graceful age. Two friends transformed a neo-Moorish building into this intimate space, where the delicious food has Asian and South American overtones. Choose from dishes such as ceviche of tuna, ginger and avocado, or Thai-style prawns and dulce de leche fondant.
-</Description>
-      <Address>Rua do Comércio do Porto 161</Address>
-      <AddressUrl>https://www.google.com/maps?q=Rua%20do%20Com%C3%A9rcio%20do%20Porto%20161</AddressUrl>
-      <WebPage>http://mistu.pt</WebPage>
-      <WebPageUrl>//mistu.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Porto</RegionType>
@@ -669,12 +657,6 @@ The place is tiny so make sure you book ahead.</Description>
       <Name>Taberninha Do Manel</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
-      <Description>Superfriendly service, big views across the Douro to Ribeira, and a menu crammed with well-executed Portuguese classics – Iberian pork, petiscos (tapas), bacalhau (dried-salt cold) in different guises – reel folk into Taberninha Do Manel. There’s pavement seating for warm days and a rustic interior jam-packed with what looks like the contents of your grandmother’s attic.
-</Description>
-      <Address>Avenida Diogo Leite 308</Address>
-      <AddressUrl>https://www.google.com/maps?q=Avenida%20Diogo%20Leite%20308</AddressUrl>
-      <WebPage>www.taberninhadomanel.com</WebPage>
-      <WebPageUrl>//www.taberninhadomanel.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Porto</RegionType>
@@ -683,12 +665,6 @@ The place is tiny so make sure you book ahead.</Description>
       <Name>Cantinho do Avillez</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
-      <Description>Rock star chef José Avillez' latest venture is a welcome fixture on Porto's gastro scene. A bright, contemporary bistro with a retro spin, Cantinho keeps the mood casual and buzzy. On the menu are seasonal Portuguese dishes with a dash of imagination: from flaked bacalhau (dried salt-cod) with melt-in-the-mouth 'exploding' olives to giant red shrimps from the Algarve with Thai spices.
-</Description>
-      <Address>Rua Mouzinho da Silveira 166</Address>
-      <AddressUrl>https://www.google.com/maps?q=Rua%20Mouzinho%20da%20Silveira%20166</AddressUrl>
-      <WebPage>www.cantinhodoavillez.pt</WebPage>
-      <WebPageUrl>//www.cantinhodoavillez.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Porto</RegionType>
@@ -697,10 +673,6 @@ The place is tiny so make sure you book ahead.</Description>
       <Name>Taberna do Largo</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
-      <Description>Lit by wine-bottle lights, this sweet grocery store, deli and tavern is run with passion by Joana and Sofia. Tour Portugal with your taste buds with their superb array of hand-picked wines, which go brilliantly with tasting platters of smoked tuna, Alentejo salpicão sausage, Azores São Jorge cheese, Beira morcela (blood sausage), tremoços (lupin beans) and more.
-</Description>
-      <Address>Largo de Sāo Domingos 69</Address>
-      <AddressUrl>https://www.google.com/maps?q=Largo%20de%20S%C4%81o%20Domingos%2069</AddressUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Porto</RegionType>
@@ -709,12 +681,6 @@ The place is tiny so make sure you book ahead.</Description>
       <Name>BUGO Art Burgers</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
-      <Description>Spilling out onto gallery-lined Rua de Miguel Bombarda, this bright, happening bistro promises to elevate burgers to an art form. It delivers with brilliantly fresh burgers ranging from Black Angus, salmon or lentil options to oriental-style numbers – using mostly organic and free-range produce. The staff are chirpy, the mood is upbeat and the chocolate cake with berry coulis is divine.
-</Description>
-      <Address>Rua Miguel Bombarda 598</Address>
-      <AddressUrl>https://www.google.com/maps?q=Rua%20Miguel%20Bombarda%20598</AddressUrl>
-      <WebPage>www.bugo.com.pt</WebPage>
-      <WebPageUrl>//www.bugo.com.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Porto</RegionType>
@@ -723,12 +689,6 @@ The place is tiny so make sure you book ahead.</Description>
       <Name>Urban Cicle Café</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
-      <Description>A hip hang-out in central Boavista, this cycle cafe has bikes dangling from the ceiling and terrific brunches (€14) until 3pm, with omelettes, homemade cakes and tarts, Greek yoghurt with granola – the works.
-Besides rentals (per hr/day €3/12) and repairs, they sell the latest cycling gear and can even arrange cycling picnics (from €30 for two) with 24 hours advance notice.</Description>
-      <Address>Praça do Bom Sucesso 18</Address>
-      <AddressUrl>https://www.google.com/maps?q=Pra%C3%A7a%20do%20Bom%20Sucesso%2018</AddressUrl>
-      <WebPage>www.easy-cicle.pt</WebPage>
-      <WebPageUrl>//www.easy-cicle.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Porto</RegionType>
@@ -737,12 +697,6 @@ Besides rentals (per hr/day €3/12) and repairs, they sell the latest cycling g
       <Name>Cruel</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
-      <Description>How cruel are you? This is what you’ll be asked at this on-trend restaurant, where the menu is graded according to how adventurous your appetite is: ‘fearful', ‘cautious’ or ‘cruel’. The look is slick and urban, and the menu has inventive riffs on classics – think ‘hallucinating mushroom risotto’ and ‘electric carpaccio’ – many of which are big enough to share.
-</Description>
-      <Address>Rua da Picaria 86</Address>
-      <AddressUrl>https://www.google.com/maps?q=Rua%20da%20Picaria%2086</AddressUrl>
-      <WebPage>www.cruel.pt</WebPage>
-      <WebPageUrl>//www.cruel.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Porto</RegionType>
@@ -751,12 +705,6 @@ Besides rentals (per hr/day €3/12) and repairs, they sell the latest cycling g
       <Name>Jimão</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
-      <Description>Many of the restaurants on Praça da Ribeira are tourist central, but Jimão is the real deal. Service is genuinely friendly, the upstairs dining room has a cracking view of Ribeira, and the tapas – garlicky gambas (prawns), codfish and octopus salad, sardine toasts and the like – are prepared with care and served with great wines.
-</Description>
-      <Address>Praça da Ribeira 11</Address>
-      <AddressUrl>https://www.google.com/maps?q=Pra%C3%A7a%20da%20Ribeira%2011</AddressUrl>
-      <WebPage>www.jimao.pt</WebPage>
-      <WebPageUrl>//www.jimao.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Porto</RegionType>
@@ -765,10 +713,6 @@ Besides rentals (per hr/day €3/12) and repairs, they sell the latest cycling g
       <Name>Hungry Biker</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
-      <Description>If you – like the husband and wife owners – love to ride your bicycle, this place is a winner. The artsy cafe has an environmentally friendly ethos, decked out with furniture fashioned from reclaimed wooden pallets and old doors. Go for luxe breakfasts, brunches (superfood toasts, homemade waffles…) or a vitamin-packed smoothie. Bike rental costs €4/11 per half-/full day.
-</Description>
-      <Address>Rua das Taipas 68-72</Address>
-      <AddressUrl>https://www.google.com/maps?q=Rua%20das%20Taipas%2068-72</AddressUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Porto</RegionType>
@@ -777,12 +721,6 @@ Besides rentals (per hr/day €3/12) and repairs, they sell the latest cycling g
       <Name>Mercearia do Miguel</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
-      <Description>A bright, retro-cool cafe in a born-again 1950s grocery store by the seafront, the Mercearia do Miguel is a wholly inviting choice for a healthy breakfast (try the açai bowl with homemade granola), a detox juice, great coffee and cake, or lunches ranging from gourmet salads to bruschetti, sandwiches and petiscos (tapas). Head for the patio when the sun’s out.
-</Description>
-      <Address>Rua do Passeio Alegre 130</Address>
-      <AddressUrl>https://www.google.com/maps?q=Rua%20do%20Passeio%20Alegre%20130</AddressUrl>
-      <WebPage>www.merceariadomiguel.com</WebPage>
-      <WebPageUrl>//www.merceariadomiguel.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Porto</RegionType>
@@ -791,12 +729,6 @@ Besides rentals (per hr/day €3/12) and repairs, they sell the latest cycling g
       <Name>Cafeína</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
-      <Description>Hidden coyly away from the seafront, Cafeína has a touch of class, with soft light casting a flattering glow across its moss-green walls, crisp tablecloths, lustrous wood floors and bookcases. The food is best described as modern European, simple as stuffed squid with saffron purée or rack of lamb in a herb and lemon crust, expertly matched with Portuguese wines.
-</Description>
-      <Address>Rua do Padrão 100</Address>
-      <AddressUrl>https://www.google.com/maps?q=Rua%20do%20Padr%C3%A3o%20100</AddressUrl>
-      <WebPage>www.cafeina.pt</WebPage>
-      <WebPageUrl>//www.cafeina.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Porto</RegionType>
@@ -810,7 +742,7 @@ The hall holds concerts most nights of the year, from classical and blues to fad
       <Address>Avenida da Boavista 604</Address>
       <AddressUrl>https://www.google.com/maps?q=Avenida%20da%20Boavista%20604</AddressUrl>
       <WebPage>www.casadamusica.com</WebPage>
-      <WebPageUrl>//www.casadamusica.com</WebPageUrl>
+      <WebPageUrl>https://www.casadamusica.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Entertainment</PlaceType>
       <RegionType>Porto</RegionType>
@@ -824,7 +756,7 @@ Hidden within, there’s also an inexpensive vegetarian pizzeria (open Tuesday t
       <Address>4th fl, Rua Passos Manuel 178</Address>
       <AddressUrl>https://www.google.com/maps?q=4th%20fl,%20Rua%20Passos%20Manuel%20178</AddressUrl>
       <WebPage>www.maushabitos.com</WebPage>
-      <WebPageUrl>//www.maushabitos.com</WebPageUrl>
+      <WebPageUrl>https://www.maushabitos.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Entertainment</PlaceType>
       <RegionType>Porto</RegionType>
@@ -838,7 +770,7 @@ Hidden within, there’s also an inexpensive vegetarian pizzeria (open Tuesday t
       <Address>Praça da Batalha</Address>
       <AddressUrl>https://www.google.com/maps?q=Pra%C3%A7a%20da%20Batalha</AddressUrl>
       <WebPage>www.tnsj.pt</WebPage>
-      <WebPageUrl>//www.tnsj.pt</WebPageUrl>
+      <WebPageUrl>https://www.tnsj.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Entertainment</PlaceType>
       <RegionType>Porto</RegionType>
@@ -847,6 +779,12 @@ Hidden within, there’s also an inexpensive vegetarian pizzeria (open Tuesday t
       <Name>Teatro Municipal Rivoli</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>This art deco theatre is one of the linchpins of Porto's evolving cultural scene. It traverses the whole spectrum from theatre to music, contemporary circus, cinema, dance and marionette productions.
+</Description>
+      <Address>Praça Dom João I</Address>
+      <AddressUrl>https://www.google.com/maps?q=Pra%C3%A7a%20Dom%20Jo%C3%A3o%20I</AddressUrl>
+      <WebPage>www.teatromunicipaldoporto.pt</WebPage>
+      <WebPageUrl>https://www.teatromunicipaldoporto.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Entertainment</PlaceType>
       <RegionType>Porto</RegionType>
@@ -855,6 +793,12 @@ Hidden within, there’s also an inexpensive vegetarian pizzeria (open Tuesday t
       <Name>Teatro Nacional São João – Mosteiro de São Bento da Vitória</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>Few theatre backdrops are more atmospheric than the Mosteiro de São Bento da Vitória, which harbours an offshoot of the Teatro Nacional São João. See the website for the full lineup, which traverses the cultural spectrum from plays to ballet and readings. Tickets generally cost between €7.50 and €15.
+</Description>
+      <Address>Rua de São Bento da Vitória</Address>
+      <AddressUrl>https://www.google.com/maps?q=Rua%20de%20S%C3%A3o%20Bento%20da%20Vit%C3%B3ria</AddressUrl>
+      <WebPage>www.tnsj.pt</WebPage>
+      <WebPageUrl>https://www.tnsj.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Entertainment</PlaceType>
       <RegionType>Porto</RegionType>
@@ -863,6 +807,12 @@ Hidden within, there’s also an inexpensive vegetarian pizzeria (open Tuesday t
       <Name>Hot Five Jazz &amp;amp; Blues Club</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>True to its name, this spot hosts live jazz and blues as well as the occasional acoustic, folk or all-out jam session. It’s a modern but intimate space, with seating at small round tables, both fronting the stage and on an upper balcony. Concerts often start later than scheduled.
+</Description>
+      <Address>Largo Actor Dias 51</Address>
+      <AddressUrl>https://www.google.com/maps?q=Largo%20Actor%20Dias%2051</AddressUrl>
+      <WebPage>www.hotfive.pt</WebPage>
+      <WebPageUrl>https://www.hotfive.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Entertainment</PlaceType>
       <RegionType>Porto</RegionType>
@@ -871,6 +821,12 @@ Hidden within, there’s also an inexpensive vegetarian pizzeria (open Tuesday t
       <Name>O Fado</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>Porto has no fado tradition of its own, but you can enjoy the Lisbon or Coimbra version of ‘Portugal blues’ into the wee hours at Restaurante O Fado. It's a tad touristy, but the fado is good. Mains will set you back between €23.50 and €45.
+</Description>
+      <Address>Largo de São João Novo 16</Address>
+      <AddressUrl>https://www.google.com/maps?q=Largo%20de%20S%C3%A3o%20Jo%C3%A3o%20Novo%2016</AddressUrl>
+      <WebPage>www.ofado.com</WebPage>
+      <WebPageUrl>https://www.ofado.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Entertainment</PlaceType>
       <RegionType>Porto</RegionType>
@@ -932,7 +888,7 @@ Hidden within, there’s also an inexpensive vegetarian pizzeria (open Tuesday t
       <Address>Rua Ferreira Borges 86</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20Ferreira%20Borges%2086</AddressUrl>
       <WebPage>www.prova.com.pt</WebPage>
-      <WebPageUrl>//www.prova.com.pt</WebPageUrl>
+      <WebPageUrl>https://www.prova.com.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Nightlife</PlaceType>
       <RegionType>Porto</RegionType>
@@ -946,7 +902,7 @@ Hidden within, there’s also an inexpensive vegetarian pizzeria (open Tuesday t
       <Address>Avenida Rodrigues de Freitas 287</Address>
       <AddressUrl>https://www.google.com/maps?q=Avenida%20Rodrigues%20de%20Freitas%20287</AddressUrl>
       <WebPage>www.terraplanacafe.com</WebPage>
-      <WebPageUrl>//www.terraplanacafe.com</WebPageUrl>
+      <WebPageUrl>https://www.terraplanacafe.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Nightlife</PlaceType>
       <RegionType>Porto</RegionType>
@@ -960,7 +916,7 @@ Hidden within, there’s also an inexpensive vegetarian pizzeria (open Tuesday t
       <Address>Rua de França 26</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20de%20Fran%C3%A7a%2026</AddressUrl>
       <WebPage>www.facebook.com/7groaster</WebPage>
-      <WebPageUrl>//www.facebook.com/7groaster</WebPageUrl>
+      <WebPageUrl>https://www.facebook.com/7groaster</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Nightlife</PlaceType>
       <RegionType>Porto</RegionType>
@@ -998,7 +954,7 @@ Alfresco seating is available during the warmer months.</Description>
       <Address>Travessa do Carregal 77</Address>
       <AddressUrl>https://www.google.com/maps?q=Travessa%20do%20Carregal%2077</AddressUrl>
       <WebPage>www.facebook.com/capelaincomum</WebPage>
-      <WebPageUrl>//www.facebook.com/capelaincomum</WebPageUrl>
+      <WebPageUrl>https://www.facebook.com/capelaincomum</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Nightlife</PlaceType>
       <RegionType>Porto</RegionType>
@@ -1012,7 +968,7 @@ The bar’s food menu includes scrummy burgers, which can be enjoyed outside und
       <Address>Rua da Alegria 101</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20da%20Alegria%20101</AddressUrl>
       <WebPage>www.facebook.com/letrariacraftbeergardenporto</WebPage>
-      <WebPageUrl>//www.facebook.com/letrariacraftbeergardenporto</WebPageUrl>
+      <WebPageUrl>https://www.facebook.com/letrariacraftbeergardenporto</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Nightlife</PlaceType>
       <RegionType>Porto</RegionType>
@@ -1026,7 +982,7 @@ The bar’s food menu includes scrummy burgers, which can be enjoyed outside und
       <Address>Praça Carlos Alberto 104</Address>
       <AddressUrl>https://www.google.com/maps?q=Pra%C3%A7a%20Carlos%20Alberto%20104</AddressUrl>
       <WebPage>www.moustache.pt</WebPage>
-      <WebPageUrl>//www.moustache.pt</WebPageUrl>
+      <WebPageUrl>https://www.moustache.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Nightlife</PlaceType>
       <RegionType>Porto</RegionType>
@@ -1040,7 +996,7 @@ The bar’s food menu includes scrummy burgers, which can be enjoyed outside und
       <Address>Espaço Porto Cruz, Largo Miguel Bombarda 23</Address>
       <AddressUrl>https://www.google.com/maps?q=Espa%C3%A7o%20Porto%20Cruz,%20Largo%20Miguel%20Bombarda%2023</AddressUrl>
       <WebPage>www.myportocruz.com</WebPage>
-      <WebPageUrl>//www.myportocruz.com</WebPageUrl>
+      <WebPageUrl>https://www.myportocruz.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Nightlife</PlaceType>
       <RegionType>Porto</RegionType>
@@ -1054,7 +1010,7 @@ The bar’s food menu includes scrummy burgers, which can be enjoyed outside und
       <Address>Avenida da Boavista 604</Address>
       <AddressUrl>https://www.google.com/maps?q=Avenida%20da%20Boavista%20604</AddressUrl>
       <WebPage>www.casadamusica.com</WebPage>
-      <WebPageUrl>//www.casadamusica.com</WebPageUrl>
+      <WebPageUrl>https://www.casadamusica.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Nightlife</PlaceType>
       <RegionType>Porto</RegionType>
@@ -1068,7 +1024,7 @@ The bar’s food menu includes scrummy burgers, which can be enjoyed outside und
       <Address>Cais da Estiva 111</Address>
       <AddressUrl>https://www.google.com/maps?q=Cais%20da%20Estiva%20111</AddressUrl>
       <WebPage>www.winequaybar.com</WebPage>
-      <WebPageUrl>//www.winequaybar.com</WebPageUrl>
+      <WebPageUrl>https://www.winequaybar.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Nightlife</PlaceType>
       <RegionType>Porto</RegionType>
@@ -1082,7 +1038,7 @@ The bar’s food menu includes scrummy burgers, which can be enjoyed outside und
       <Address>Rua de Belomonte 65</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20de%20Belomonte%2065</AddressUrl>
       <WebPage>www.facebook.com/PinguimCafe</WebPage>
-      <WebPageUrl>//www.facebook.com/PinguimCafe</WebPageUrl>
+      <WebPageUrl>https://www.facebook.com/PinguimCafe</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Nightlife</PlaceType>
       <RegionType>Porto</RegionType>
@@ -1096,7 +1052,7 @@ The bar’s food menu includes scrummy burgers, which can be enjoyed outside und
       <Address>Escadas do Caminho Novo 11</Address>
       <AddressUrl>https://www.google.com/maps?q=Escadas%20do%20Caminho%20Novo%2011</AddressUrl>
       <WebPage>www.facebook.com/mirajazz</WebPage>
-      <WebPageUrl>//www.facebook.com/mirajazz</WebPageUrl>
+      <WebPageUrl>https://www.facebook.com/mirajazz</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Nightlife</PlaceType>
       <RegionType>Porto</RegionType>
@@ -1110,7 +1066,7 @@ The bar’s food menu includes scrummy burgers, which can be enjoyed outside und
       <Address>Rua Formosa 130</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20Formosa%20130</AddressUrl>
       <WebPage>www.armazem.beer</WebPage>
-      <WebPageUrl>//www.armazem.beer</WebPageUrl>
+      <WebPageUrl>https://www.armazem.beer</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Nightlife</PlaceType>
       <RegionType>Porto</RegionType>
@@ -1124,7 +1080,7 @@ The bar’s food menu includes scrummy burgers, which can be enjoyed outside und
       <Address>Rua de São João 28-30</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20de%20S%C3%A3o%20Jo%C3%A3o%2028-30</AddressUrl>
       <WebPage>www.vinologia.pt</WebPage>
-      <WebPageUrl>//www.vinologia.pt</WebPageUrl>
+      <WebPageUrl>https://www.vinologia.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Nightlife</PlaceType>
       <RegionType>Porto</RegionType>
@@ -1138,7 +1094,7 @@ The bar’s food menu includes scrummy burgers, which can be enjoyed outside und
       <Address>Avenida do Brasil</Address>
       <AddressUrl>https://www.google.com/maps?q=Avenida%20do%20Brasil</AddressUrl>
       <WebPage>www.praiadaluz.pt</WebPage>
-      <WebPageUrl>//www.praiadaluz.pt</WebPageUrl>
+      <WebPageUrl>https://www.praiadaluz.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Nightlife</PlaceType>
       <RegionType>Porto</RegionType>
@@ -1152,7 +1108,7 @@ The bar’s food menu includes scrummy burgers, which can be enjoyed outside und
       <Address>Rua Galeria de Paris 40</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20Galeria%20de%20Paris%2040</AddressUrl>
       <WebPage>www.facebook.com/laboheme.baixa</WebPage>
-      <WebPageUrl>//www.facebook.com/laboheme.baixa</WebPageUrl>
+      <WebPageUrl>https://www.facebook.com/laboheme.baixa</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Nightlife</PlaceType>
       <RegionType>Porto</RegionType>
@@ -1166,7 +1122,7 @@ The bar’s food menu includes scrummy burgers, which can be enjoyed outside und
       <Address>Praça Guilherme Gomes Fernandes 40</Address>
       <AddressUrl>https://www.google.com/maps?q=Pra%C3%A7a%20Guilherme%20Gomes%20Fernandes%2040</AddressUrl>
       <WebPage>www.facebook.com/bonapartedowntown</WebPage>
-      <WebPageUrl>//www.facebook.com/bonapartedowntown</WebPageUrl>
+      <WebPageUrl>https://www.facebook.com/bonapartedowntown</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Nightlife</PlaceType>
       <RegionType>Porto</RegionType>
@@ -1180,7 +1136,7 @@ You’ll find some typical Portuguese pub grub on the menu, such as cachorros (h
       <Address>Praça de Carlos Alberto 124</Address>
       <AddressUrl>https://www.google.com/maps?q=Pra%C3%A7a%20de%20Carlos%20Alberto%20124</AddressUrl>
       <WebPage>www.facebook.com/cervejariadocarmo</WebPage>
-      <WebPageUrl>//www.facebook.com/cervejariadocarmo</WebPageUrl>
+      <WebPageUrl>https://www.facebook.com/cervejariadocarmo</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Nightlife</PlaceType>
       <RegionType>Porto</RegionType>
@@ -1194,7 +1150,7 @@ The bar is quaint and cosy with an artsy, industrial look, and while many of Por
       <Address>Rua do General Silveira 23A</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20do%20General%20Silveira%2023A</AddressUrl>
       <WebPage>www.facebook.com/arcapubporto</WebPage>
-      <WebPageUrl>//www.facebook.com/arcapubporto</WebPageUrl>
+      <WebPageUrl>https://www.facebook.com/arcapubporto</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Nightlife</PlaceType>
       <RegionType>Porto</RegionType>
@@ -1208,7 +1164,7 @@ The bar is quaint and cosy with an artsy, industrial look, and while many of Por
       <Address>Rua Ferreira Borges 60</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20Ferreira%20Borges%2060</AddressUrl>
       <WebPage>www.facebook.com/pg/OlivaeCo</WebPage>
-      <WebPageUrl>//www.facebook.com/pg/OlivaeCo</WebPageUrl>
+      <WebPageUrl>https://www.facebook.com/pg/OlivaeCo</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Porto</RegionType>
@@ -1234,7 +1190,7 @@ The bar is quaint and cosy with an artsy, industrial look, and while many of Por
       <Address>Rua do Almada 275</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20do%20Almada%20275</AddressUrl>
       <WebPage>www.workshops-popup.com</WebPage>
-      <WebPageUrl>//www.workshops-popup.com</WebPageUrl>
+      <WebPageUrl>https://www.workshops-popup.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Porto</RegionType>
@@ -1248,7 +1204,7 @@ The bar is quaint and cosy with an artsy, industrial look, and while many of Por
       <Address>Rua do Rosário 253</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20do%20Ros%C3%A1rio%20253</AddressUrl>
       <WebPage>www.scar-id.com</WebPage>
-      <WebPageUrl>//www.scar-id.com</WebPageUrl>
+      <WebPageUrl>https://www.scar-id.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Porto</RegionType>
@@ -1274,7 +1230,7 @@ The bar is quaint and cosy with an artsy, industrial look, and while many of Por
       <Address>Travessa de Cedofeita 28</Address>
       <AddressUrl>https://www.google.com/maps?q=Travessa%20de%20Cedofeita%2028</AddressUrl>
       <WebPage>www.coracaoalecrim.com</WebPage>
-      <WebPageUrl>//www.coracaoalecrim.com</WebPageUrl>
+      <WebPageUrl>https://www.coracaoalecrim.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Porto</RegionType>
@@ -1300,7 +1256,7 @@ The bar is quaint and cosy with an artsy, industrial look, and while many of Por
       <Address>Rua das Flores 298</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20das%20Flores%20298</AddressUrl>
       <WebPage>www.chocolatariaequador.com</WebPage>
-      <WebPageUrl>//www.chocolatariaequador.com</WebPageUrl>
+      <WebPageUrl>https://www.chocolatariaequador.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Porto</RegionType>
@@ -1314,7 +1270,7 @@ The bar is quaint and cosy with an artsy, industrial look, and while many of Por
       <Address>Rua das Flores 22</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20das%20Flores%2022</AddressUrl>
       <WebPage>https://clausporto.com</WebPage>
-      <WebPageUrl>//clausporto.com</WebPageUrl>
+      <WebPageUrl>https://clausporto.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Porto</RegionType>
@@ -1328,7 +1284,7 @@ The bar is quaint and cosy with an artsy, industrial look, and while many of Por
       <Address>Rua do Carmo 17</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20do%20Carmo%2017</AddressUrl>
       <WebPage>www.garrafeiracarmo.com</WebPage>
-      <WebPageUrl>//www.garrafeiracarmo.com</WebPageUrl>
+      <WebPageUrl>https://www.garrafeiracarmo.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Porto</RegionType>
@@ -1342,7 +1298,7 @@ The bar is quaint and cosy with an artsy, industrial look, and while many of Por
       <Address>Rua Ferreira Borges 63</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20Ferreira%20Borges%2063</AddressUrl>
       <WebPage>http://zindaatelier.com</WebPage>
-      <WebPageUrl>//zindaatelier.com</WebPageUrl>
+      <WebPageUrl>https://zindaatelier.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Porto</RegionType>
@@ -1356,7 +1312,7 @@ The bar is quaint and cosy with an artsy, industrial look, and while many of Por
       <Address>Rua do Almada 13</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20do%20Almada%2013</AddressUrl>
       <WebPage>www.facebook.com/aguasfurtadas</WebPage>
-      <WebPageUrl>//www.facebook.com/aguasfurtadas</WebPageUrl>
+      <WebPageUrl>https://www.facebook.com/aguasfurtadas</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Porto</RegionType>
@@ -1370,7 +1326,7 @@ The bar is quaint and cosy with an artsy, industrial look, and while many of Por
       <Address>Rua do Bolhão 124</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20do%20Bolh%C3%A3o%20124</AddressUrl>
       <WebPage>www.azulima.pt</WebPage>
-      <WebPageUrl>//www.azulima.pt</WebPageUrl>
+      <WebPageUrl>https://www.azulima.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Porto</RegionType>
@@ -1384,7 +1340,7 @@ The bar is quaint and cosy with an artsy, industrial look, and while many of Por
       <Address>Rua Miguel Bombarda 624</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20Miguel%20Bombarda%20624</AddressUrl>
       <WebPage>www.saomamede.com</WebPage>
-      <WebPageUrl>//www.saomamede.com</WebPageUrl>
+      <WebPageUrl>https://www.saomamede.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Porto</RegionType>
@@ -1398,7 +1354,7 @@ Owner and curator José Carlos Soares operates the gallery as a passion project,
       <Address>Rua Miguel Bombarda 452</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20Miguel%20Bombarda%20452</AddressUrl>
       <WebPage>www.cruzescanhoto.com</WebPage>
-      <WebPageUrl>//www.cruzescanhoto.com</WebPageUrl>
+      <WebPageUrl>https://www.cruzescanhoto.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Porto</RegionType>
@@ -1412,7 +1368,7 @@ You’ll find Costa Coffee on the corner, and open-air bar Base hovers on top.</
       <Address>Rua das Carmelitas 151</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20das%20Carmelitas%20151</AddressUrl>
       <WebPage>www.passeiodosclerigos.pt</WebPage>
-      <WebPageUrl>//www.passeiodosclerigos.pt</WebPageUrl>
+      <WebPageUrl>https://www.passeiodosclerigos.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Porto</RegionType>
@@ -1426,7 +1382,7 @@ The domed indoor market is surrounded by a small selection of cafes and shops, a
       <Address>Rua França Júnior</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20Fran%C3%A7a%20J%C3%BAnior</AddressUrl>
       <WebPage>www.facebook.com/MercadoMunicipaldeMatosinhos</WebPage>
-      <WebPageUrl>//www.facebook.com/MercadoMunicipaldeMatosinhos</WebPageUrl>
+      <WebPageUrl>https://www.facebook.com/MercadoMunicipaldeMatosinhos</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Porto</RegionType>
@@ -1440,7 +1396,7 @@ Even if the sparklers are outside your price range, the store is worth strolling
       <Address>Rua 31 de Janeiro 200</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%2031%20de%20Janeiro%20200</AddressUrl>
       <WebPage>www.machadojoalheiro.com</WebPage>
-      <WebPageUrl>//www.machadojoalheiro.com</WebPageUrl>
+      <WebPageUrl>https://www.machadojoalheiro.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Porto</RegionType>
@@ -1454,7 +1410,7 @@ Even if the sparklers are outside your price range, the store is worth strolling
       <Address>Rua de Mouzinho da Silveira 83</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20de%20Mouzinho%20da%20Silveira%2083</AddressUrl>
       <WebPage>www.burelfactory.com</WebPage>
-      <WebPageUrl>//www.burelfactory.com</WebPageUrl>
+      <WebPageUrl>https://www.burelfactory.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Porto</RegionType>
@@ -1468,7 +1424,7 @@ Even if the sparklers are outside your price range, the store is worth strolling
       <Address>Av dos Aliados 263</Address>
       <AddressUrl>https://www.google.com/maps?q=Av%20dos%20Aliados%20263</AddressUrl>
       <WebPage>www.facebook.com/dailydayporto</WebPage>
-      <WebPageUrl>//www.facebook.com/dailydayporto</WebPageUrl>
+      <WebPageUrl>https://www.facebook.com/dailydayporto</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Porto</RegionType>
@@ -1482,7 +1438,7 @@ Even if the sparklers are outside your price range, the store is worth strolling
       <Address>Rua do Choupelo 88</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20do%20Choupelo%2088</AddressUrl>
       <WebPage>www.the-yeatman-hotel.com</WebPage>
-      <WebPageUrl>//www.the-yeatman-hotel.com</WebPageUrl>
+      <WebPageUrl>https://www.the-yeatman-hotel.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Hotels</PlaceType>
       <RegionType>Porto</RegionType>
@@ -1496,7 +1452,7 @@ Even if the sparklers are outside your price range, the store is worth strolling
       <Address>Rua da Fonte Taurina 99-101</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20da%20Fonte%20Taurina%2099-101</AddressUrl>
       <WebPage>www.guesthousedouro.com</WebPage>
-      <WebPageUrl>//www.guesthousedouro.com</WebPageUrl>
+      <WebPageUrl>https://www.guesthousedouro.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Hotels</PlaceType>
       <RegionType>Porto</RegionType>
@@ -1510,7 +1466,7 @@ Even if the sparklers are outside your price range, the store is worth strolling
       <Address>Rua do Rosário 233</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20do%20Ros%C3%A1rio%20233</AddressUrl>
       <WebPage>www.rosaetal.pt</WebPage>
-      <WebPageUrl>//www.rosaetal.pt</WebPageUrl>
+      <WebPageUrl>https://www.rosaetal.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Hotels</PlaceType>
       <RegionType>Porto</RegionType>
@@ -1524,7 +1480,7 @@ Gourmet restaurant Digby has fine river views and Balsamea Spa offers a hammam, 
       <Address>Rua da Restauraçāo 336</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20da%20Restaura%C3%A7%C4%81o%20336</AddressUrl>
       <WebPage>www.torelavantgarde.com</WebPage>
-      <WebPageUrl>//www.torelavantgarde.com</WebPageUrl>
+      <WebPageUrl>https://www.torelavantgarde.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Hotels</PlaceType>
       <RegionType>Porto</RegionType>
@@ -1538,7 +1494,7 @@ Gourmet restaurant Digby has fine river views and Balsamea Spa offers a hammam, 
       <Address>Rua do Almada 539</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20do%20Almada%20539</AddressUrl>
       <WebPage>www.cantodeluz.com</WebPage>
-      <WebPageUrl>//www.cantodeluz.com</WebPageUrl>
+      <WebPageUrl>https://www.cantodeluz.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Hotels</PlaceType>
       <RegionType>Porto</RegionType>
@@ -1552,7 +1508,7 @@ Gourmet restaurant Digby has fine river views and Balsamea Spa offers a hammam, 
       <Address>Rua Miguel Bombarda 222</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20Miguel%20Bombarda%20222</AddressUrl>
       <WebPage>www.gallery-hostel.com</WebPage>
-      <WebPageUrl>//www.gallery-hostel.com</WebPageUrl>
+      <WebPageUrl>https://www.gallery-hostel.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Hotels</PlaceType>
       <RegionType>Porto</RegionType>
@@ -1566,7 +1522,7 @@ Gourmet restaurant Digby has fine river views and Balsamea Spa offers a hammam, 
       <Address>Rua dos Canastreiros 50</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20dos%20Canastreiros%2050</AddressUrl>
       <WebPage>www.portoriver.pt</WebPage>
-      <WebPageUrl>//www.portoriver.pt</WebPageUrl>
+      <WebPageUrl>https://www.portoriver.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Hotels</PlaceType>
       <RegionType>Porto</RegionType>
@@ -1580,7 +1536,7 @@ Other perks include a free welcome drink, city tour, late check-out, privacy cur
       <Address>Rua de São João 40</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20de%20S%C3%A3o%20Jo%C3%A3o%2040</AddressUrl>
       <WebPage>www.bluesockhostels.com</WebPage>
-      <WebPageUrl>//www.bluesockhostels.com</WebPageUrl>
+      <WebPageUrl>https://www.bluesockhostels.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Hotels</PlaceType>
       <RegionType>Porto</RegionType>
@@ -1594,7 +1550,7 @@ The entrance is right near the platforms – handy for early morning or late-nig
       <Address>Estação de São Bento. Praça Almeida Garrett</Address>
       <AddressUrl>https://www.google.com/maps?q=Esta%C3%A7%C3%A3o%20de%20S%C3%A3o%20Bento.%20Pra%C3%A7a%20Almeida%20Garrett</AddressUrl>
       <WebPage>www.thepassengerhostel.com</WebPage>
-      <WebPageUrl>//www.thepassengerhostel.com</WebPageUrl>
+      <WebPageUrl>https://www.thepassengerhostel.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Hotels</PlaceType>
       <RegionType>Porto</RegionType>
@@ -1608,7 +1564,7 @@ The entrance is right near the platforms – handy for early morning or late-nig
       <Address>Rua de Cedofeita 159</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20de%20Cedofeita%20159</AddressUrl>
       <WebPage>www.casacarolina.pt</WebPage>
-      <WebPageUrl>//www.casacarolina.pt</WebPageUrl>
+      <WebPageUrl>https://www.casacarolina.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Hotels</PlaceType>
       <RegionType>Porto</RegionType>
@@ -1622,7 +1578,7 @@ The entrance is right near the platforms – handy for early morning or late-nig
       <Address>Largo de São Domingos 74</Address>
       <AddressUrl>https://www.google.com/maps?q=Largo%20de%20S%C3%A3o%20Domingos%2074</AddressUrl>
       <WebPage>https://armazemluxuryhousing.com</WebPage>
-      <WebPageUrl>//armazemluxuryhousing.com</WebPageUrl>
+      <WebPageUrl>https://armazemluxuryhousing.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Hotels</PlaceType>
       <RegionType>Porto</RegionType>
@@ -1636,7 +1592,7 @@ The entrance is right near the platforms – handy for early morning or late-nig
       <Address>Rua Sá da Bandeira 91</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20S%C3%A1%20da%20Bandeira%2091</AddressUrl>
       <WebPage>www.pestanacollection.com</WebPage>
-      <WebPageUrl>//www.pestanacollection.com</WebPageUrl>
+      <WebPageUrl>https://www.pestanacollection.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Hotels</PlaceType>
       <RegionType>Porto</RegionType>
@@ -1650,7 +1606,7 @@ The entrance is right near the platforms – handy for early morning or late-nig
       <Address>Rua da Senhora da Luz 145</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20da%20Senhora%20da%20Luz%20145</AddressUrl>
       <WebPage>www.flatteredapartments.com</WebPage>
-      <WebPageUrl>//www.flatteredapartments.com</WebPageUrl>
+      <WebPageUrl>https://www.flatteredapartments.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Hotels</PlaceType>
       <RegionType>Porto</RegionType>
@@ -1664,7 +1620,7 @@ The entrance is right near the platforms – handy for early morning or late-nig
       <Address>Rua Dr Barbosa de Castro 36</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20Dr%20Barbosa%20de%20Castro%2036</AddressUrl>
       <WebPage>www.maisonnos.com</WebPage>
-      <WebPageUrl>//www.maisonnos.com</WebPageUrl>
+      <WebPageUrl>https://www.maisonnos.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Hotels</PlaceType>
       <RegionType>Porto</RegionType>
@@ -1678,7 +1634,7 @@ The entrance is right near the platforms – handy for early morning or late-nig
       <Address>Rua da Boavista 703</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20da%20Boavista%20703</AddressUrl>
       <WebPage>www.casadoconto.com</WebPage>
-      <WebPageUrl>//www.casadoconto.com</WebPageUrl>
+      <WebPageUrl>https://www.casadoconto.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Hotels</PlaceType>
       <RegionType>Porto</RegionType>
@@ -1692,7 +1648,7 @@ The entrance is right near the platforms – handy for early morning or late-nig
       <Address>Rua das Taipas 5</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20das%20Taipas%205</AddressUrl>
       <WebPage>www.facebook.com/pg/belosairesapartments</WebPage>
-      <WebPageUrl>//www.facebook.com/pg/belosairesapartments</WebPageUrl>
+      <WebPageUrl>https://www.facebook.com/pg/belosairesapartments</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Hotels</PlaceType>
       <RegionType>Porto</RegionType>
@@ -1706,7 +1662,7 @@ The entrance is right near the platforms – handy for early morning or late-nig
       <Address>Rua Formosa 331</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20Formosa%20331</AddressUrl>
       <WebPage>www.btheguest.com</WebPage>
-      <WebPageUrl>//www.btheguest.com</WebPageUrl>
+      <WebPageUrl>https://www.btheguest.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Hotels</PlaceType>
       <RegionType>Porto</RegionType>
@@ -1720,7 +1676,7 @@ The entrance is right near the platforms – handy for early morning or late-nig
       <Address>Rua Dom Manuel II 178</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20Dom%20Manuel%20II%20178</AddressUrl>
       <WebPage>www.oportoloft.pt</WebPage>
-      <WebPageUrl>//www.oportoloft.pt</WebPageUrl>
+      <WebPageUrl>https://www.oportoloft.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Hotels</PlaceType>
       <RegionType>Porto</RegionType>
@@ -1734,7 +1690,7 @@ The entrance is right near the platforms – handy for early morning or late-nig
       <Address>Rua dos Caldeireiros 191</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20dos%20Caldeireiros%20191</AddressUrl>
       <WebPage>www.caldeireirosportoflats.com</WebPage>
-      <WebPageUrl>//www.caldeireirosportoflats.com</WebPageUrl>
+      <WebPageUrl>https://www.caldeireirosportoflats.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Hotels</PlaceType>
       <RegionType>Porto</RegionType>
@@ -1748,7 +1704,7 @@ The entrance is right near the platforms – handy for early morning or late-nig
       <Address>Av da Boavista 601</Address>
       <AddressUrl>https://www.google.com/maps?q=Av%20da%20Boavista%20601</AddressUrl>
       <WebPage>www.portomusicguesthouse.com</WebPage>
-      <WebPageUrl>//www.portomusicguesthouse.com</WebPageUrl>
+      <WebPageUrl>https://www.portomusicguesthouse.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Hotels</PlaceType>
       <RegionType>Porto</RegionType>

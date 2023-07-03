@@ -11,7 +11,7 @@ The Alcázar started life in the 10th century as a fort for the Cordoban governo
       <Address>Plaza del Triunfo</Address>
       <AddressUrl>https://www.google.com/maps?q=Plaza%20del%20Triunfo</AddressUrl>
       <WebPage>www.alcazarsevilla.org</WebPage>
-      <WebPageUrl>//www.alcazarsevilla.org</WebPageUrl>
+      <WebPageUrl>https://www.alcazarsevilla.org</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Attractions</PlaceType>
       <RegionType>Seville</RegionType>
@@ -25,7 +25,7 @@ You can also tour the cathedral's stained glass windows – see the website for 
       <Address>Plaza del Triunfo</Address>
       <AddressUrl>https://www.google.com/maps?q=Plaza%20del%20Triunfo</AddressUrl>
       <WebPage>www.catedraldesevilla.es</WebPage>
-      <WebPageUrl>//www.catedraldesevilla.es</WebPageUrl>
+      <WebPageUrl>https://www.catedraldesevilla.es</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Attractions</PlaceType>
       <RegionType>Seville</RegionType>
@@ -33,7 +33,13 @@ You can also tour the cathedral's stained glass windows – see the website for 
     <Place>
       <Name>Museo de Bellas Artes</Name>
       <Thumbimageuri>https://lp-cms-production.imgix.net/2019-06/9e36ae5f02ba6a6578353af9da25acf4-museo-de-bellas-artes.jpg?auto=format&amp;amp;w=250&amp;amp;h=250&amp;amp;fit=crop&amp;amp;q=40</Thumbimageuri>
-      <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <FullImageUri>https://lp-cms-production.imgix.net/2019-06/9e36ae5f02ba6a6578353af9da25acf4-museo-de-bellas-artes.jpg?auto=format&amp;amp;w=1920&amp;amp;h=640&amp;amp;fit=crop&amp;amp;crop=faces,edges&amp;amp;q=75</FullImageUri>
+      <Description>Housed in a grand Mannerist palace, the former Convento de la Merced, the Museo de Bellas Artes is one of Spain's premier art museums. Its collection of Spanish and Sevillan paintings and sculptures comprises works from the 15th to 20th centuries, but the focus is very much on brooding religious paintings from the city's 17th-century Siglo de Oro (Golden Age).
+Works are displayed in chronological order, with the Golden Age masterpieces clustered in salas V to X. The most visually arresting room is the convent's former church (sala V), hung with paintings by masters of the Sevillan baroque, above all Murillo. His Inmaculada concepción (aka La Colosal; 1650) at the head of the church displays all the curving, twisting movement so central to baroque art. Other artists represented include Pacheco (teacher and father-in-law of Velázquez), Juan de Valdés Leal, Zurbarán (look for his deeply sombre Cristo crucificado, c 1630–35) and sculptor Juan Martínez Montañés.Elsewhere, look out for El Greco's portrait of his son Jorge Manuel (c 1600–05), Velázquez's Cabeza de apóstol (1620), and a portrait by Goya in sala XI.For a change of subject matter, push on to sala XII where Gonzalo Bilbao’s Las cigarreras (The Cigarette Makers; 1915) is one of several canvases depicting scenes of Sevillan life.</Description>
+      <Address>Plaza del Museo 9</Address>
+      <AddressUrl>https://www.google.com/maps?q=Plaza%20del%20Museo%209</AddressUrl>
+      <WebPage>https://www.bellasartes.gob.ar/en/</WebPage>
+      <WebPageUrl>https://www.bellasartes.gob.ar/en/</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Attractions</PlaceType>
       <RegionType>Seville</RegionType>
@@ -41,7 +47,9 @@ You can also tour the cathedral's stained glass windows – see the website for 
     <Place>
       <Name>Parque de María Luisa</Name>
       <Thumbimageuri>https://lp-cms-production.imgix.net/2019-06/5496deb20e158b3db08569122399d0f9-parque-de-maria-luisa.jpg?auto=format&amp;amp;w=250&amp;amp;h=250&amp;amp;fit=crop&amp;amp;q=40</Thumbimageuri>
-      <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <FullImageUri>https://lp-cms-production.imgix.net/2019-06/5496deb20e158b3db08569122399d0f9-parque-de-maria-luisa.jpg?auto=format&amp;amp;w=1920&amp;amp;h=640&amp;amp;fit=crop&amp;amp;crop=faces,edges&amp;amp;q=75</FullImageUri>
+      <Description>A glorious oasis of green, the 34-hectare Parque de María Luisa is the perfect place to escape the noise and heat of the city, with duck ponds, landscaped gardens and paths shaded by soaring trees. The land, formerly the estate of the Palacio de San Telmo, was donated to the city in the late 19th century and developed in the run-up to the 1929 Exposición Iberoamericana.
+Amidst the lush gardens, the park contains several notable drawcards. Chief among them is Plaza de España, the most flamboyant of the building projects completed for the 1929 Expo. A vast brick-and-tile confection, it features fountains, mini-canals, and a series of gaudy tile pictures depicting historical scenes from each Spanish province. You can hire row boats to pootle around the plaza's canals for €6 (for 35 minutes).In the south of the park, the Museo Arqueológico has some wonderful Roman sculptures, mosaics and statues – many gathered from the archaeological site of Itálica just outside Seville.Opposite is the Museo de Artes y Costumbres Populares, dedicated to local customs, costumes and traditions.The park is a great place for children to let off steam and families to bond over a bike ride – four-person quad bikes are available to hire for €14 per half-hour.</Description>
       <Like>false</Like>
       <PlaceType>Attractions</PlaceType>
       <RegionType>Seville</RegionType>
@@ -49,7 +57,13 @@ You can also tour the cathedral's stained glass windows – see the website for 
     <Place>
       <Name>Metropol Parasol</Name>
       <Thumbimageuri>https://lp-cms-production.imgix.net/2019-06/fdde64891d52af5d8d6798bdfb3a7915-metropol-parasol.jpg?auto=format&amp;amp;w=250&amp;amp;h=250&amp;amp;fit=crop&amp;amp;q=40</Thumbimageuri>
-      <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <FullImageUri>https://lp-cms-production.imgix.net/2019-06/fdde64891d52af5d8d6798bdfb3a7915-metropol-parasol.jpg?auto=format&amp;amp;w=1920&amp;amp;h=640&amp;amp;fit=crop&amp;amp;crop=faces,edges&amp;amp;q=75</FullImageUri>
+      <Description>The Metropol Parasol, known locally as Las Setas (The Mushrooms), is one of Seville's iconic modern landmarks. Built in 2011 to a design by German architect Jürgen Mayer H, the colossal sunshade is a hypnotic sight with its undulating honeycombed canopy – said to be the world’s largest wooden-framed structure – and massive support trunks. Lifts run up from the basement to the top, where you can enjoy killer views from a winding walkway.
+The structure, six years in the making, covers a former dead zone in Seville’s central district once filled by an ugly car park. Roman and Moorish ruins unearthed during excavation of the plaza were cleverly incorporated into the Parasol's foundations and are now on show at the Museo Antiquarium in the basement. The structure also houses the neighbourhood food market, the Mercado de la Encarnación, several cafes and tapas bars, and Plaza Mayor, a space designed to host open-air events and now a popular hangout for local kids.</Description>
+      <Address>Plaza de la Encarnación</Address>
+      <AddressUrl>https://www.google.com/maps?q=Plaza%20de%20la%20Encarnaci%C3%B3n</AddressUrl>
+      <WebPage>www.setasdesevilla.com</WebPage>
+      <WebPageUrl>https://www.setasdesevilla.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Attractions</PlaceType>
       <RegionType>Seville</RegionType>
@@ -57,7 +71,13 @@ You can also tour the cathedral's stained glass windows – see the website for 
     <Place>
       <Name>Hospital de los Venerables Sacerdotes</Name>
       <Thumbimageuri>https://lp-cms-production.imgix.net/2019-06/34a112dcba6d1f10dd44ba1b6793647f-hospital-de-los-venerables-sacerdotes.jpg?auto=format&amp;amp;w=250&amp;amp;h=250&amp;amp;fit=crop&amp;amp;q=40</Thumbimageuri>
-      <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <FullImageUri>https://lp-cms-production.imgix.net/2019-06/34a112dcba6d1f10dd44ba1b6793647f-hospital-de-los-venerables-sacerdotes.jpg?auto=format&amp;amp;w=1920&amp;amp;h=640&amp;amp;fit=crop&amp;amp;crop=faces,edges&amp;amp;q=75</FullImageUri>
+      <Description>This gem of a museum, housed in a former hospice for priests, is one of Seville’s most rewarding. The artistic highlight is the Focus-Abengoa Foundation’s collection of 17th-century paintings in the Centro Velázquez. It’s not a big collection, but each work is a masterpiece of its genre – highlights include Diego Velázquez’ Santa Rufina, his Inmaculada Concepción, and a sharply vivid portrait of Santa Catalina by Bartolomé Murillo.
+Elsewhere, you can admire the Hospital’s ornately decorated chapel and delightful patio – a classic composition of porticoes, ceramic tiles and orange trees arranged around a sunken fountain.</Description>
+      <Address>Plaza de los Venerables 8</Address>
+      <AddressUrl>https://www.google.com/maps?q=Plaza%20de%20los%20Venerables%208</AddressUrl>
+      <WebPage>www.hospitaldelosvenerables.es</WebPage>
+      <WebPageUrl>https://www.hospitaldelosvenerables.es</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Attractions</PlaceType>
       <RegionType>Seville</RegionType>
@@ -65,7 +85,11 @@ You can also tour the cathedral's stained glass windows – see the website for 
     <Place>
       <Name>Plaza de España</Name>
       <Thumbimageuri>https://lp-cms-production.imgix.net/2019-06/6fe6cf16132b644949ee90be713bd290-plaza-de-espana.jpg?auto=format&amp;amp;w=250&amp;amp;h=250&amp;amp;fit=crop&amp;amp;q=40</Thumbimageuri>
-      <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <FullImageUri>https://lp-cms-production.imgix.net/2019-06/6fe6cf16132b644949ee90be713bd290-plaza-de-espana.jpg?auto=format&amp;amp;w=1920&amp;amp;h=640&amp;amp;fit=crop&amp;amp;crop=faces,edges&amp;amp;q=75</FullImageUri>
+      <Description>This bombastic plaza, designed by architect Aníbal González in the Parque de María Luisa, was the most extravagant of the building projects completed for the 1929 Exposición Iberoamericana. A vast brick-and-tile confection, it's all very over the top, but it's undeniably impressive with its flamboyant neo-Mudéjar architecture, fountains, and Venetian-style bridges. A series of ceramic tile panels depict maps and historical scenes from each Spanish province.
+You can hire row boats to ply the canal that skirts the plaza for €6 (for 35 minutes).</Description>
+      <Address>Avenida de Portugal. Parque de María Luisa</Address>
+      <AddressUrl>https://www.google.com/maps?q=Avenida%20de%20Portugal.%20Parque%20de%20Mar%C3%ADa%20Luisa</AddressUrl>
       <Like>false</Like>
       <PlaceType>Attractions</PlaceType>
       <RegionType>Seville</RegionType>
@@ -73,7 +97,13 @@ You can also tour the cathedral's stained glass windows – see the website for 
     <Place>
       <Name>Centro Andaluz de Arte Contemporáneo</Name>
       <Thumbimageuri>https://lp-cms-production.imgix.net/2019-06/6aced6a71c26bc9a6152d56651e9dde9-lpl-caac_entrance_chapel.jpg?auto=format&amp;amp;w=250&amp;amp;h=250&amp;amp;fit=crop&amp;amp;q=40</Thumbimageuri>
-      <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <FullImageUri>https://lp-cms-production.imgix.net/2019-06/6aced6a71c26bc9a6152d56651e9dde9-lpl-caac_entrance_chapel.jpg?auto=format&amp;amp;w=1920&amp;amp;h=640&amp;amp;fit=crop&amp;amp;crop=faces,edges&amp;amp;q=75</FullImageUri>
+      <Description>Contemporary art goes hand in hand with 15th-century architecture at the Centro Andaluz de Arte Contemporáneo. The centre, sensitively housed in the Monasterio de Santa María de Las Cuevas, hosts temporary exhibitions by Andalucian and international artists alongside some truly bizarre permanent pieces. Look out for Alicia by Cristina Lucas, a massive head and arm poking through two windows that was supposedly inspired by Alice in Wonderland. Elsewhere, several brick kilns testify to the monastery's past as a 19th-century ceramics factory.
+The Monasterio de Santa María de Las Cuevas, commonly known as the Monasterio de la Cartuja, or more simply La Cartuja, was founded in 1400. It later became a favourite Sevillan lodging place for Christopher Columbus, who prayed in its chapel before his voyage to the Americas and whose remains lay here from his death in 1506 to 1537.In 1839, the complex was bought by an enterprising Englishman, Charles Pickman, who turned it into a porcelain factory – hence, the bottle-shaped kilns rising rather incongruously in the claustrón (large cloister). The factory ceased production in the 1980s and, following a restoration, served as the Royal Pavilion during the 1992 Expo.</Description>
+      <Address>Avenida Américo Vespucio 2</Address>
+      <AddressUrl>https://www.google.com/maps?q=Avenida%20Am%C3%A9rico%20Vespucio%202</AddressUrl>
+      <WebPage>www.caac.es</WebPage>
+      <WebPageUrl>https://www.caac.es</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Attractions</PlaceType>
       <RegionType>Seville</RegionType>
@@ -81,7 +111,11 @@ You can also tour the cathedral's stained glass windows – see the website for 
     <Place>
       <Name>Iglesia de San Luis de los Franceses</Name>
       <Thumbimageuri>https://lp-cms-production.imgix.net/2019-06/d23bb2c06391e227132d3d113ff087e5-lpl-san_luis_church_ext_facade.jpg?auto=format&amp;amp;w=250&amp;amp;h=250&amp;amp;fit=crop&amp;amp;q=40</Thumbimageuri>
-      <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <FullImageUri>https://lp-cms-production.imgix.net/2019-06/d23bb2c06391e227132d3d113ff087e5-lpl-san_luis_church_ext_facade.jpg?auto=format&amp;amp;w=1920&amp;amp;h=640&amp;amp;fit=crop&amp;amp;crop=faces,edges&amp;amp;q=75</FullImageUri>
+      <Description>The finest example of baroque architecture in Seville, this imposing (and deconsecrated) 18th-century church is a former Jesuit novitiate dedicated to King Louis IX of France. Designed by Leonardo de Figueroa, its unusual circular interior harbours four extravagantly carved and gilded altarpieces inset with paintings (Louis’ image is topped by a huge crown), and a central cupola. You can also visit the chapel decorated with macabre reliquaries (saints’ bones) in glass boxes, and the crypt.
+The church was closed for decades, and only reopened after a major refurbishment in 2017. Don’t miss the beautiful ceiling murals, which carry messages defending the Jesuits against criticisms – unsuccessfully, as they were expelled from Spain soon after the church was completed in 1731. The main cupola’s decoration – use the cleverly angled mirror to study it, saving your neck – has the theme of continuity of worship: the old is represented by the Jewish Ark of the Covenant and seven-branched candlestick, and the new by the angels.</Description>
+      <Address>Calle San Luis 37</Address>
+      <AddressUrl>https://www.google.com/maps?q=Calle%20San%20Luis%2037</AddressUrl>
       <Like>false</Like>
       <PlaceType>Attractions</PlaceType>
       <RegionType>Seville</RegionType>
@@ -89,7 +123,13 @@ You can also tour the cathedral's stained glass windows – see the website for 
     <Place>
       <Name>Casa de Pilatos</Name>
       <Thumbimageuri>https://lp-cms-production.imgix.net/2023-05/shutterstockeditorial1007589019.jpg?auto=format&amp;amp;w=250&amp;amp;h=250&amp;amp;fit=crop&amp;amp;q=40</Thumbimageuri>
-      <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <FullImageUri>https://lp-cms-production.imgix.net/2023-05/shutterstockeditorial1007589019.jpg?auto=format&amp;amp;w=1920&amp;amp;h=640&amp;amp;fit=crop&amp;amp;crop=faces,edges&amp;amp;q=75</FullImageUri>
+      <Description>The haunting Casa de Pilatos, which is still occupied by the ducal Medinaceli family, is one of the city’s most glorious mansions. Originally dating to the late 15th century, it incorporates a wonderful mix of Mudéjar, Gothic and Renaissance decor, with some beautiful tilework and artesonados (ceilings of interlaced beams with decorative insertions). The overall effect is like a mini-Alcázar.Note there is free admission for EU citizens (take ID) on Monday (3pm to 7pm).
+The staircase to the upper floor has the building's finest tiles, and a great golden artesonado dome above. Visits to the upper floor, still partly inhabited by the Medinacelis, are guided. Of interest are several centuries’ worth of Medinaceli portraits and a small Goya bullfighting painting.</Description>
+      <Address>Plaza de Pilatos</Address>
+      <AddressUrl>https://www.google.com/maps?q=Plaza%20de%20Pilatos</AddressUrl>
+      <WebPage>www.fundacionmedinaceli.org</WebPage>
+      <WebPageUrl>https://www.fundacionmedinaceli.org</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Attractions</PlaceType>
       <RegionType>Seville</RegionType>
@@ -183,7 +223,7 @@ Next door, the smarter restaurant shares the same kitchen.</Description>
       <Address>Calle Eslava 3</Address>
       <AddressUrl>https://www.google.com/maps?q=Calle%20Eslava%203</AddressUrl>
       <WebPage>www.espacioeslava.com</WebPage>
-      <WebPageUrl>//www.espacioeslava.com</WebPageUrl>
+      <WebPageUrl>https://www.espacioeslava.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Seville</RegionType>
@@ -197,7 +237,7 @@ The wine list is also excellent with a strong selection of Andalucian reds, whit
       <Address>Calle San Luis 50</Address>
       <AddressUrl>https://www.google.com/maps?q=Calle%20San%20Luis%2050</AddressUrl>
       <WebPage>www.restaurantecontenedor.com</WebPage>
-      <WebPageUrl>//www.restaurantecontenedor.com</WebPageUrl>
+      <WebPageUrl>https://www.restaurantecontenedor.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Seville</RegionType>
@@ -211,7 +251,7 @@ The wine list is also excellent with a strong selection of Andalucian reds, whit
       <Address>Calle Conde de Barajas 13</Address>
       <AddressUrl>https://www.google.com/maps?q=Calle%20Conde%20de%20Barajas%2013</AddressUrl>
       <WebPage>www.laazoteasevilla.com</WebPage>
-      <WebPageUrl>//www.laazoteasevilla.com</WebPageUrl>
+      <WebPageUrl>https://www.laazoteasevilla.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Seville</RegionType>
@@ -237,7 +277,7 @@ The wine list is also excellent with a strong selection of Andalucian reds, whit
       <Address>Calle Hernando Colón 1-3</Address>
       <AddressUrl>https://www.google.com/maps?q=Calle%20Hernando%20Col%C3%B3n%201-3</AddressUrl>
       <WebPage>www.mamarracha.es</WebPage>
-      <WebPageUrl>//www.mamarracha.es</WebPageUrl>
+      <WebPageUrl>https://www.mamarracha.es</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Seville</RegionType>
@@ -251,7 +291,7 @@ The wine list is also excellent with a strong selection of Andalucian reds, whit
       <Address>Plaza del Museo 2</Address>
       <AddressUrl>https://www.google.com/maps?q=Plaza%20del%20Museo%202</AddressUrl>
       <WebPage>www.facebook.com/creemehelado</WebPage>
-      <WebPageUrl>//www.facebook.com/creemehelado</WebPageUrl>
+      <WebPageUrl>https://www.facebook.com/creemehelado</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Seville</RegionType>
@@ -277,7 +317,7 @@ The wine list is also excellent with a strong selection of Andalucian reds, whit
       <Address>Calle Mateos Gago 8</Address>
       <AddressUrl>https://www.google.com/maps?q=Calle%20Mateos%20Gago%208</AddressUrl>
       <WebPage>www.laazoteasevilla.com</WebPage>
-      <WebPageUrl>//www.laazoteasevilla.com</WebPageUrl>
+      <WebPageUrl>https://www.laazoteasevilla.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Seville</RegionType>
@@ -291,7 +331,7 @@ The wine list is also excellent with a strong selection of Andalucian reds, whit
       <Address>Calle Alcaicería de la Loza 23</Address>
       <AddressUrl>https://www.google.com/maps?q=Calle%20Alcaicer%C3%ADa%20de%20la%20Loza%2023</AddressUrl>
       <WebPage>www.facebook.com/SalGordaSevilla</WebPage>
-      <WebPageUrl>//www.facebook.com/SalGordaSevilla</WebPageUrl>
+      <WebPageUrl>https://www.facebook.com/SalGordaSevilla</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Seville</RegionType>
@@ -305,7 +345,7 @@ The wine list is also excellent with a strong selection of Andalucian reds, whit
       <Address>Calle Rosario 15</Address>
       <AddressUrl>https://www.google.com/maps?q=Calle%20Rosario%2015</AddressUrl>
       <WebPage>www.facebook.com/LoboLopezTapas</WebPage>
-      <WebPageUrl>//www.facebook.com/LoboLopezTapas</WebPageUrl>
+      <WebPageUrl>https://www.facebook.com/LoboLopezTapas</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Seville</RegionType>
@@ -313,13 +353,7 @@ The wine list is also excellent with a strong selection of Andalucian reds, whit
     <Place>
       <Name>Seis</Name>
       <Thumbimageuri>https://lp-cms-production.imgix.net/2019-06/0b2efe79133a2959e0ec703fd64f8fc5-lpl-seis_ext.jpg?auto=format&amp;amp;w=250&amp;amp;h=250&amp;amp;fit=crop&amp;amp;q=40</Thumbimageuri>
-      <FullImageUri>https://lp-cms-production.imgix.net/2019-06/0b2efe79133a2959e0ec703fd64f8fc5-lpl-seis_ext.jpg?auto=format&amp;amp;w=1920&amp;amp;h=640&amp;amp;fit=crop&amp;amp;crop=faces,edges&amp;amp;q=75</FullImageUri>
-      <Description>Slick and spacious restaurant on the corner of Plaza Nueva, with tropical-decor bar. Downstairs has cosy booths plus live music Thursday to Saturday, with more spacious, quieter tables upstairs. Tapas dare to be different but hit the mark: think crab tacos and butterfish tataki. Cocktails are creative in content and presentation; try the Arabian Nights or Silk Road.
-</Description>
-      <Address>Plaza Nueva 7</Address>
-      <AddressUrl>https://www.google.com/maps?q=Plaza%20Nueva%207</AddressUrl>
-      <WebPage>www.tuhogarfueradecasa.com</WebPage>
-      <WebPageUrl>//www.tuhogarfueradecasa.com</WebPageUrl>
+      <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Seville</RegionType>
@@ -327,13 +361,7 @@ The wine list is also excellent with a strong selection of Andalucian reds, whit
     <Place>
       <Name>Kök Tu Cocina</Name>
       <Thumbimageuri>https://lp-cms-production.imgix.net/2019-06/c056f3086dda551caccddc83cb220804-lpl-kok_tu_cocina_ext_awning.jpg?auto=format&amp;amp;w=250&amp;amp;h=250&amp;amp;fit=crop&amp;amp;q=40</Thumbimageuri>
-      <FullImageUri>https://lp-cms-production.imgix.net/2019-06/c056f3086dda551caccddc83cb220804-lpl-kok_tu_cocina_ext_awning.jpg?auto=format&amp;amp;w=1920&amp;amp;h=640&amp;amp;fit=crop&amp;amp;crop=faces,edges&amp;amp;q=75</FullImageUri>
-      <Description>Centred on an open kitchen, this brunch spot in the Macarena buzzes. Set menus are beautifully presented, with homemade breads and jams, cheese, cold meat, eggs, fish, fresh fruit, yoghurt and muesli; vegan and vegetarian options are available. Vintage dial phones, food tins and weighing machines, coupled with red gingham tablecloths, lend a quirky, homely feel.
-</Description>
-      <Address>San Luis 46</Address>
-      <AddressUrl>https://www.google.com/maps?q=San%20Luis%2046</AddressUrl>
-      <WebPage>www.koktucocina.com</WebPage>
-      <WebPageUrl>//www.koktucocina.com</WebPageUrl>
+      <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Seville</RegionType>
@@ -341,11 +369,7 @@ The wine list is also excellent with a strong selection of Andalucian reds, whit
     <Place>
       <Name>Bar Europa</Name>
       <Thumbimageuri>https://lp-cms-production.imgix.net/2019-06/008fa7249344a943f63f2976d83003e5-lpl-01128.jpg?auto=format&amp;amp;w=250&amp;amp;h=250&amp;amp;fit=crop&amp;amp;q=40</Thumbimageuri>
-      <FullImageUri>https://lp-cms-production.imgix.net/2019-06/008fa7249344a943f63f2976d83003e5-lpl-01128.jpg?auto=format&amp;amp;w=1920&amp;amp;h=640&amp;amp;fit=crop&amp;amp;crop=faces,edges&amp;amp;q=75</FullImageUri>
-      <Description>An old-school bar with a classic tiled interior and a few alfresco tables, Bar Europa has been knocking out tapas since 1925. Notwithstanding, it isn't afraid to experiment, and serves some excellent modern creations such as grilled mackerel with a strawberry and radish tartare, and sweet nut bread with foie gras, mushrooms and crunchy ham.
-</Description>
-      <Address>Calle Siete Revueltas 35</Address>
-      <AddressUrl>https://www.google.com/maps?q=Calle%20Siete%20Revueltas%2035</AddressUrl>
+      <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Seville</RegionType>
@@ -353,13 +377,7 @@ The wine list is also excellent with a strong selection of Andalucian reds, whit
     <Place>
       <Name>Zoko</Name>
       <Thumbimageuri>https://lp-cms-production.imgix.net/2019-06/8801541b7f04e8ef2d01df730d5f27c6-lpl-zoko_restaurant.jpg?auto=format&amp;amp;w=250&amp;amp;h=250&amp;amp;fit=crop&amp;amp;q=40</Thumbimageuri>
-      <FullImageUri>https://lp-cms-production.imgix.net/2019-06/8801541b7f04e8ef2d01df730d5f27c6-lpl-zoko_restaurant.jpg?auto=format&amp;amp;w=1920&amp;amp;h=640&amp;amp;fit=crop&amp;amp;crop=faces,edges&amp;amp;q=75</FullImageUri>
-      <Description>Superb sustainably-caught bluefin tuna (atun de almadraba) stars at this trendily casual restaurant near Plaza de Armas bus station. As well as the tenderest tuna, which comes in croquettes, salads and tataki, it also cooks up some superlative rice dishes.
-</Description>
-      <Address>Calle Marqués de Paradas 55</Address>
-      <AddressUrl>https://www.google.com/maps?q=Calle%20Marqu%C3%A9s%20de%20Paradas%2055</AddressUrl>
-      <WebPage>www.restaurantezoko.com</WebPage>
-      <WebPageUrl>//www.restaurantezoko.com</WebPageUrl>
+      <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Seville</RegionType>
@@ -368,12 +386,6 @@ The wine list is also excellent with a strong selection of Andalucian reds, whit
       <Name>Fargo</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
-      <Description>An excellent restaurant in the Alfalfa area serving locally sourced, almost exclusively organic food, with a pleasantly different vibe: relaxed decor, low lighting and soft music create a calm ambience. Vegetarian and vegans are well catered to with standouts such as quinoa tabouleh spiked with almonds, mint and Andalucian fruit, though meat and fish are served too. Wines are natural.
-</Description>
-      <Address>Calle Pérez Galdós 20</Address>
-      <AddressUrl>https://www.google.com/maps?q=Calle%20P%C3%A9rez%20Gald%C3%B3s%2020</AddressUrl>
-      <WebPage>www.facebook.com/fargobio</WebPage>
-      <WebPageUrl>//www.facebook.com/fargobio</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Seville</RegionType>
@@ -382,12 +394,6 @@ The wine list is also excellent with a strong selection of Andalucian reds, whit
       <Name>Cocome</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
-      <Description>Get your day off to a sunny start with breakfast at this cheery cafe near Plaza del Duque. Staff are delightful and there's an impressive selection of toast, fruit bowls, granola, yoghurts, cereals and smoothies. For lunch, there's soup, or make-your-own salads, wraps and sandwiches. Sit at the front window bar for street views, or the tables at the back.
-</Description>
-      <Address>Calle Tarifa 4</Address>
-      <AddressUrl>https://www.google.com/maps?q=Calle%20Tarifa%204</AddressUrl>
-      <WebPage>www.cocomefresco.com</WebPage>
-      <WebPageUrl>//www.cocomefresco.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Seville</RegionType>
@@ -396,10 +402,6 @@ The wine list is also excellent with a strong selection of Andalucian reds, whit
       <Name>Bolas</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
-      <Description>If you're wilting in the summer heat, or even if you're not, an ice cream from Bolas is a refreshing treat. Choose from classic fruit flavours or something more exotic, such as La Medina – a sorbet of orange, ginger and cinnamon – or fig and cheese.
-</Description>
-      <Address>Cuesta del Rosario 1</Address>
-      <AddressUrl>https://www.google.com/maps?q=Cuesta%20del%20Rosario%201</AddressUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Seville</RegionType>
@@ -407,13 +409,7 @@ The wine list is also excellent with a strong selection of Andalucian reds, whit
     <Place>
       <Name>Confitería La Campana</Name>
       <Thumbimageuri>https://lp-cms-production.imgix.net/2019-06/ade7cac3e42b314bb5f5e6c386fb4a51-lpl-01144.jpg?auto=format&amp;amp;w=250&amp;amp;h=250&amp;amp;fit=crop&amp;amp;q=40</Thumbimageuri>
-      <FullImageUri>https://lp-cms-production.imgix.net/2019-06/ade7cac3e42b314bb5f5e6c386fb4a51-lpl-01144.jpg?auto=format&amp;amp;w=1920&amp;amp;h=640&amp;amp;fit=crop&amp;amp;crop=faces,edges&amp;amp;q=75</FullImageUri>
-      <Description>A landmark art deco patisserie and cafe, La Campana has been catering to Seville's sweet toothed since 1885. Join the mixed crowd in its elegant interior for a yema (soft, crumbly biscuit cake wrapped like a toffee), or a coffee and torta de aceite (flat, crumbly biscuit made with olive oil).
-For a traditional breakfast, arrive early for a standing pew at the bar where waistcoated staff will slam down a coffee and pan con tomate (toasted roll with crushed tomato).</Description>
-      <Address>Calle Sierpes 1-3</Address>
-      <AddressUrl>https://www.google.com/maps?q=Calle%20Sierpes%201-3</AddressUrl>
-      <WebPage>www.confiterialacampana.com</WebPage>
-      <WebPageUrl>//www.confiterialacampana.com</WebPageUrl>
+      <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Seville</RegionType>
@@ -421,13 +417,7 @@ For a traditional breakfast, arrive early for a standing pew at the bar where wa
     <Place>
       <Name>Casaplata</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
-      <FullImageUri>https://lp-cms-production.imgix.net/2019-06/aad92427b127aad86336c9befd9e3bb7-lpl-01132.jpg?auto=format&amp;amp;w=1920&amp;amp;h=640&amp;amp;fit=crop&amp;amp;crop=faces,edges&amp;amp;q=75</FullImageUri>
-      <Description>Well located between the Alameda and Plaza del Duque, this place stands out for its sharp design: bare industrial-grey concrete walls, (not-too-comfortable) wooden benches, and a show-stopping salmon-pink circular table with matching chairs. Innovative Andalucian cuisine includes smoked sardines on focaccia, and migas (breadcrumbs) with seafood, while cocktails, DJs and clever lighting create a sophisticated night-time ambience. Great service.
-</Description>
-      <Address>Calle Amor de Dios 7</Address>
-      <AddressUrl>https://www.google.com/maps?q=Calle%20Amor%20de%20Dios%207</AddressUrl>
-      <WebPage>www.facebook.com/casaplatasevilla</WebPage>
-      <WebPageUrl>//www.facebook.com/casaplatasevilla</WebPageUrl>
+      <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Seville</RegionType>
@@ -435,13 +425,7 @@ For a traditional breakfast, arrive early for a standing pew at the bar where wa
     <Place>
       <Name>Taberna Coloniales San Pedro</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
-      <FullImageUri>https://lp-cms-production.imgix.net/2019-06/9ae7267790f4ccf41650b4684e8993f2-lpl-02113.jpg?auto=format&amp;amp;w=1920&amp;amp;h=640&amp;amp;fit=crop&amp;amp;crop=faces,edges&amp;amp;q=75</FullImageUri>
-      <Description>It might not look like much from the outside, but ever-popular Los Coloniales is the business with quality tapas, alfresco tables and cheerful, helpful staff. Stand-out choices include the classic solomillo al whisky (pork tenderloin in a whisky-flavoured sauce) and crujiente de berenjenas con miel (crunchy aubergines in honey).
-There's a second, more touristy, branch near the cathedral.</Description>
-      <Address>Plaza Cristo de Burgos 19</Address>
-      <AddressUrl>https://www.google.com/maps?q=Plaza%20Cristo%20de%20Burgos%2019</AddressUrl>
-      <WebPage>www.tabernacoloniales.es</WebPage>
-      <WebPageUrl>//www.tabernacoloniales.es</WebPageUrl>
+      <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Seville</RegionType>
@@ -455,7 +439,7 @@ There's a second, more touristy, branch near the cathedral.</Description>
       <Address>Calle Mateos Gago 9</Address>
       <AddressUrl>https://www.google.com/maps?q=Calle%20Mateos%20Gago%209</AddressUrl>
       <WebPage>www.ocagiuliva.es</WebPage>
-      <WebPageUrl>//www.ocagiuliva.es</WebPageUrl>
+      <WebPageUrl>https://www.ocagiuliva.es</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Seville</RegionType>
@@ -469,7 +453,7 @@ There's a second, more touristy, branch near the cathedral.</Description>
       <Address>Calle de Resolana 40</Address>
       <AddressUrl>https://www.google.com/maps?q=Calle%20de%20Resolana%2040</AddressUrl>
       <WebPage>www.facebook.com/salvaje.sevilla/</WebPage>
-      <WebPageUrl>//www.facebook.com/salvaje.sevilla/</WebPageUrl>
+      <WebPageUrl>https://www.facebook.com/salvaje.sevilla/</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Seville</RegionType>
@@ -483,7 +467,7 @@ There's a second, more touristy, branch near the cathedral.</Description>
       <Address>Plaza de San Sebastián 1</Address>
       <AddressUrl>https://www.google.com/maps?q=Plaza%20de%20San%20Sebasti%C3%A1n%201</AddressUrl>
       <WebPage>www.restauranteispal.com</WebPage>
-      <WebPageUrl>//www.restauranteispal.com</WebPageUrl>
+      <WebPageUrl>https://www.restauranteispal.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Seville</RegionType>
@@ -497,7 +481,7 @@ There's a second, more touristy, branch near the cathedral.</Description>
       <Address>Calle Arguijo 3</Address>
       <AddressUrl>https://www.google.com/maps?q=Calle%20Arguijo%203</AddressUrl>
       <WebPage>www.tuhogarfueradecasa/perro-viejo</WebPage>
-      <WebPageUrl>//www.tuhogarfueradecasa/perro-viejo</WebPageUrl>
+      <WebPageUrl>https://www.tuhogarfueradecasa/perro-viejo</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Seville</RegionType>
@@ -511,7 +495,7 @@ There's a second, more touristy, branch near the cathedral.</Description>
       <Address>Calle Zaragoza 12</Address>
       <AddressUrl>https://www.google.com/maps?q=Calle%20Zaragoza%2012</AddressUrl>
       <WebPage>http://facebook.com/lacataciega</WebPage>
-      <WebPageUrl>//facebook.com/lacataciega</WebPageUrl>
+      <WebPageUrl>https://facebook.com/lacataciega</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Seville</RegionType>
@@ -525,7 +509,7 @@ Eat at the counter or outside in the plaza, next to a Mudéjar palace.</Descript
       <Address>Plaza Calderón de la Barca</Address>
       <AddressUrl>https://www.google.com/maps?q=Plaza%20Calder%C3%B3n%20de%20la%20Barca</AddressUrl>
       <WebPage>www.mercadodelaferia.es</WebPage>
-      <WebPageUrl>//www.mercadodelaferia.es</WebPageUrl>
+      <WebPageUrl>https://www.mercadodelaferia.es</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Seville</RegionType>
@@ -539,7 +523,7 @@ Eat at the counter or outside in the plaza, next to a Mudéjar palace.</Descript
       <Address>Calle de Castilla 1</Address>
       <AddressUrl>https://www.google.com/maps?q=Calle%20de%20Castilla%201</AddressUrl>
       <WebPage>www.casacuesta.net</WebPage>
-      <WebPageUrl>//www.casacuesta.net</WebPageUrl>
+      <WebPageUrl>https://www.casacuesta.net</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Seville</RegionType>
@@ -553,7 +537,7 @@ Eat at the counter or outside in the plaza, next to a Mudéjar palace.</Descript
       <Address>Calle Hernando Colón 19</Address>
       <AddressUrl>https://www.google.com/maps?q=Calle%20Hernando%20Col%C3%B3n%2019</AddressUrl>
       <WebPage>www.filosevilla.es</WebPage>
-      <WebPageUrl>//www.filosevilla.es</WebPageUrl>
+      <WebPageUrl>https://www.filosevilla.es</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Seville</RegionType>
@@ -567,7 +551,7 @@ Eat at the counter or outside in the plaza, next to a Mudéjar palace.</Descript
       <Address>Calle Zaragoza 6</Address>
       <AddressUrl>https://www.google.com/maps?q=Calle%20Zaragoza%206</AddressUrl>
       <WebPage>www.barracastizo.es</WebPage>
-      <WebPageUrl>//www.barracastizo.es</WebPageUrl>
+      <WebPageUrl>https://www.barracastizo.es</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Seville</RegionType>
@@ -581,7 +565,7 @@ Eat at the counter or outside in the plaza, next to a Mudéjar palace.</Descript
       <Address>Paseo Nuestra Señora de La O 29</Address>
       <AddressUrl>https://www.google.com/maps?q=Paseo%20Nuestra%20Se%C3%B1ora%20de%20La%20O%2029</AddressUrl>
       <WebPage>www.delaorestaurante.com</WebPage>
-      <WebPageUrl>//www.delaorestaurante.com</WebPageUrl>
+      <WebPageUrl>https://www.delaorestaurante.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Seville</RegionType>
@@ -607,7 +591,7 @@ Eat at the counter or outside in the plaza, next to a Mudéjar palace.</Descript
       <Address>Calle Jesús del Gran Poder 83</Address>
       <AddressUrl>https://www.google.com/maps?q=Calle%20Jes%C3%BAs%20del%20Gran%20Poder%2083</AddressUrl>
       <WebPage>http://facebook.com/hops&amp;amp;dreams</WebPage>
-      <WebPageUrl>//facebook.com/hops&amp;amp;dreams</WebPageUrl>
+      <WebPageUrl>https://facebook.com/hops&amp;amp;dreams</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Seville</RegionType>
@@ -621,7 +605,7 @@ Eat at the counter or outside in the plaza, next to a Mudéjar palace.</Descript
       <Address>Calle Hernando Colón 12</Address>
       <AddressUrl>https://www.google.com/maps?q=Calle%20Hernando%20Col%C3%B3n%2012</AddressUrl>
       <WebPage>www.lacava.bar</WebPage>
-      <WebPageUrl>//www.lacava.bar</WebPageUrl>
+      <WebPageUrl>https://www.lacava.bar</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Seville</RegionType>
@@ -647,7 +631,7 @@ Eat at the counter or outside in the plaza, next to a Mudéjar palace.</Descript
       <Address>Calle Santa Teresa 2</Address>
       <AddressUrl>https://www.google.com/maps?q=Calle%20Santa%20Teresa%202</AddressUrl>
       <WebPage>www.lasteresas.es</WebPage>
-      <WebPageUrl>//www.lasteresas.es</WebPageUrl>
+      <WebPageUrl>https://www.lasteresas.es</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Seville</RegionType>
@@ -661,7 +645,7 @@ Eat at the counter or outside in the plaza, next to a Mudéjar palace.</Descript
       <Address>Alameda de Hércules 85</Address>
       <AddressUrl>https://www.google.com/maps?q=Alameda%20de%20H%C3%A9rcules%2085</AddressUrl>
       <WebPage>www.arteysabor.es</WebPage>
-      <WebPageUrl>//www.arteysabor.es</WebPageUrl>
+      <WebPageUrl>https://www.arteysabor.es</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Seville</RegionType>
@@ -687,7 +671,7 @@ Eat at the counter or outside in the plaza, next to a Mudéjar palace.</Descript
       <Address>Paseo Catalina de Ribera 4</Address>
       <AddressUrl>https://www.google.com/maps?q=Paseo%20Catalina%20de%20Ribera%204</AddressUrl>
       <WebPage>www.vineriasantelmo.com</WebPage>
-      <WebPageUrl>//www.vineriasantelmo.com</WebPageUrl>
+      <WebPageUrl>https://www.vineriasantelmo.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Seville</RegionType>
@@ -701,7 +685,7 @@ Eat at the counter or outside in the plaza, next to a Mudéjar palace.</Descript
       <Address>Calle Castelar 1</Address>
       <AddressUrl>https://www.google.com/maps?q=Calle%20Castelar%201</AddressUrl>
       <WebPage>www.cincojotas.es</WebPage>
-      <WebPageUrl>//www.cincojotas.es</WebPageUrl>
+      <WebPageUrl>https://www.cincojotas.es</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Seville</RegionType>
@@ -715,7 +699,7 @@ Eat at the counter or outside in the plaza, next to a Mudéjar palace.</Descript
       <Address>Calles Fernández y González 36-38</Address>
       <AddressUrl>https://www.google.com/maps?q=Calles%20Fern%C3%A1ndez%20y%20Gonz%C3%A1lez%2036-38</AddressUrl>
       <WebPage>http://tabernacoloniales.es</WebPage>
-      <WebPageUrl>//tabernacoloniales.es</WebPageUrl>
+      <WebPageUrl>https://tabernacoloniales.es</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Seville</RegionType>
@@ -729,7 +713,7 @@ Eat at the counter or outside in the plaza, next to a Mudéjar palace.</Descript
       <Address>Calle Cuna 6</Address>
       <AddressUrl>https://www.google.com/maps?q=Calle%20Cuna%206</AddressUrl>
       <WebPage>www.casadelamemoria.es</WebPage>
-      <WebPageUrl>//www.casadelamemoria.es</WebPageUrl>
+      <WebPageUrl>https://www.casadelamemoria.es</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Entertainment</PlaceType>
       <RegionType>Seville</RegionType>
@@ -743,7 +727,7 @@ Eat at the counter or outside in the plaza, next to a Mudéjar palace.</Descript
       <Address>Calle Leonardo da Vinci 9</Address>
       <AddressUrl>https://www.google.com/maps?q=Calle%20Leonardo%20da%20Vinci%209</AddressUrl>
       <WebPage>www.cartujacenter.com</WebPage>
-      <WebPageUrl>//www.cartujacenter.com</WebPageUrl>
+      <WebPageUrl>https://www.cartujacenter.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Entertainment</PlaceType>
       <RegionType>Seville</RegionType>
@@ -757,7 +741,7 @@ Eat at the counter or outside in the plaza, next to a Mudéjar palace.</Descript
       <Address>Plaza de Santa Cruz 11</Address>
       <AddressUrl>https://www.google.com/maps?q=Plaza%20de%20Santa%20Cruz%2011</AddressUrl>
       <WebPage>www.tablaolosgallos.com</WebPage>
-      <WebPageUrl>//www.tablaolosgallos.com</WebPageUrl>
+      <WebPageUrl>https://www.tablaolosgallos.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Entertainment</PlaceType>
       <RegionType>Seville</RegionType>
@@ -795,7 +779,7 @@ Casa Anselma is at the corner of Calle Pages del Corro and Covadonga, and has no
       <Address>Calle Mesón del Moro 12</Address>
       <AddressUrl>https://www.google.com/maps?q=Calle%20Mes%C3%B3n%20del%20Moro%2012</AddressUrl>
       <WebPage>www.flamencoensevilla.com</WebPage>
-      <WebPageUrl>//www.flamencoensevilla.com</WebPageUrl>
+      <WebPageUrl>https://www.flamencoensevilla.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Entertainment</PlaceType>
       <RegionType>Seville</RegionType>
@@ -809,7 +793,7 @@ Casa Anselma is at the corner of Calle Pages del Corro and Covadonga, and has no
       <Address>Alameda de Hércules 86</Address>
       <AddressUrl>https://www.google.com/maps?q=Alameda%20de%20H%C3%A9rcules%2086</AddressUrl>
       <WebPage>www.facebook.com/SalaFUNCLUB</WebPage>
-      <WebPageUrl>//www.facebook.com/SalaFUNCLUB</WebPageUrl>
+      <WebPageUrl>https://www.facebook.com/SalaFUNCLUB</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Entertainment</PlaceType>
       <RegionType>Seville</RegionType>
@@ -823,7 +807,7 @@ Casa Anselma is at the corner of Calle Pages del Corro and Covadonga, and has no
       <Address>Paseo de Cristóbal Colón 22</Address>
       <AddressUrl>https://www.google.com/maps?q=Paseo%20de%20Crist%C3%B3bal%20Col%C3%B3n%2022</AddressUrl>
       <WebPage>www.teatrodelamaestranza.es</WebPage>
-      <WebPageUrl>//www.teatrodelamaestranza.es</WebPageUrl>
+      <WebPageUrl>https://www.teatrodelamaestranza.es</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Entertainment</PlaceType>
       <RegionType>Seville</RegionType>
@@ -837,7 +821,7 @@ Casa Anselma is at the corner of Calle Pages del Corro and Covadonga, and has no
       <Address>Calle Ximénez de Enciso 28</Address>
       <AddressUrl>https://www.google.com/maps?q=Calle%20Xim%C3%A9nez%20de%20Enciso%2028</AddressUrl>
       <WebPage>www.lacasadelflamencosevilla.com</WebPage>
-      <WebPageUrl>//www.lacasadelflamencosevilla.com</WebPageUrl>
+      <WebPageUrl>https://www.lacasadelflamencosevilla.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Entertainment</PlaceType>
       <RegionType>Seville</RegionType>
@@ -851,7 +835,7 @@ Casa Anselma is at the corner of Calle Pages del Corro and Covadonga, and has no
       <Address>Calle Rodo 7</Address>
       <AddressUrl>https://www.google.com/maps?q=Calle%20Rodo%207</AddressUrl>
       <WebPage>www.tablaoelarenal.com</WebPage>
-      <WebPageUrl>//www.tablaoelarenal.com</WebPageUrl>
+      <WebPageUrl>https://www.tablaoelarenal.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Entertainment</PlaceType>
       <RegionType>Seville</RegionType>
@@ -865,7 +849,7 @@ Casa Anselma is at the corner of Calle Pages del Corro and Covadonga, and has no
       <Address>Calle de María Auxiliadora 18A</Address>
       <AddressUrl>https://www.google.com/maps?q=Calle%20de%20Mar%C3%ADa%20Auxiliadora%2018A</AddressUrl>
       <WebPage>www.elpalacioandaluz.com</WebPage>
-      <WebPageUrl>//www.elpalacioandaluz.com</WebPageUrl>
+      <WebPageUrl>https://www.elpalacioandaluz.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Entertainment</PlaceType>
       <RegionType>Seville</RegionType>
@@ -879,7 +863,7 @@ Casa Anselma is at the corner of Calle Pages del Corro and Covadonga, and has no
       <Address>Corner House, Alameda de Hércules 11</Address>
       <AddressUrl>https://www.google.com/maps?q=Corner%20House,%20Alameda%20de%20H%C3%A9rcules%2011</AddressUrl>
       <WebPage>www.thecornerhousesevilla.com</WebPage>
-      <WebPageUrl>//www.thecornerhousesevilla.com</WebPageUrl>
+      <WebPageUrl>https://www.thecornerhousesevilla.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Nightlife</PlaceType>
       <RegionType>Seville</RegionType>
@@ -905,7 +889,7 @@ Casa Anselma is at the corner of Calle Pages del Corro and Covadonga, and has no
       <Address>Alameda de Hércules 77</Address>
       <AddressUrl>https://www.google.com/maps?q=Alameda%20de%20H%C3%A9rcules%2077</AddressUrl>
       <WebPage>www.facebook.com/viajerosedentario</WebPage>
-      <WebPageUrl>//www.facebook.com/viajerosedentario</WebPageUrl>
+      <WebPageUrl>https://www.facebook.com/viajerosedentario</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Nightlife</PlaceType>
       <RegionType>Seville</RegionType>
@@ -919,7 +903,7 @@ Casa Anselma is at the corner of Calle Pages del Corro and Covadonga, and has no
       <Address>Calle Delgado 4</Address>
       <AddressUrl>https://www.google.com/maps?q=Calle%20Delgado%204</AddressUrl>
       <WebPage>www.facebook.com/maquilabar</WebPage>
-      <WebPageUrl>//www.facebook.com/maquilabar</WebPageUrl>
+      <WebPageUrl>https://www.facebook.com/maquilabar</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Nightlife</PlaceType>
       <RegionType>Seville</RegionType>
@@ -933,7 +917,7 @@ Casa Anselma is at the corner of Calle Pages del Corro and Covadonga, and has no
       <Address>Calle Madre Maria de Purisima 9</Address>
       <AddressUrl>https://www.google.com/maps?q=Calle%20Madre%20Maria%20de%20Purisima%209</AddressUrl>
       <WebPage>www.facebook.com/gallorojofactoriadecreacion</WebPage>
-      <WebPageUrl>//www.facebook.com/gallorojofactoriadecreacion</WebPageUrl>
+      <WebPageUrl>https://www.facebook.com/gallorojofactoriadecreacion</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Nightlife</PlaceType>
       <RegionType>Seville</RegionType>
@@ -959,7 +943,7 @@ Casa Anselma is at the corner of Calle Pages del Corro and Covadonga, and has no
       <Address>Calle de los Alemanes 27</Address>
       <AddressUrl>https://www.google.com/maps?q=Calle%20de%20los%20Alemanes%2027</AddressUrl>
       <WebPage>www.emecatedralmercer.com</WebPage>
-      <WebPageUrl>//www.emecatedralmercer.com</WebPageUrl>
+      <WebPageUrl>https://www.emecatedralmercer.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Nightlife</PlaceType>
       <RegionType>Seville</RegionType>
@@ -973,7 +957,7 @@ Casa Anselma is at the corner of Calle Pages del Corro and Covadonga, and has no
       <Address>Alameda de Hércules 83</Address>
       <AddressUrl>https://www.google.com/maps?q=Alameda%20de%20H%C3%A9rcules%2083</AddressUrl>
       <WebPage>www.facebook.com/bulebarcafe</WebPage>
-      <WebPageUrl>//www.facebook.com/bulebarcafe</WebPageUrl>
+      <WebPageUrl>https://www.facebook.com/bulebarcafe</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Nightlife</PlaceType>
       <RegionType>Seville</RegionType>
@@ -987,7 +971,7 @@ Casa Anselma is at the corner of Calle Pages del Corro and Covadonga, and has no
       <Address>Calle Álvarez Quintero 46</Address>
       <AddressUrl>https://www.google.com/maps?q=Calle%20%C3%81lvarez%20Quintero%2046</AddressUrl>
       <WebPage>www.facebook.com/Pecata-Mundi-195233153948041/</WebPage>
-      <WebPageUrl>//www.facebook.com/Pecata-Mundi-195233153948041/</WebPageUrl>
+      <WebPageUrl>https://www.facebook.com/Pecata-Mundi-195233153948041/</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Nightlife</PlaceType>
       <RegionType>Seville</RegionType>
@@ -1037,7 +1021,7 @@ Casa Anselma is at the corner of Calle Pages del Corro and Covadonga, and has no
       <Address>Calle García de Vinuesa 39</Address>
       <AddressUrl>https://www.google.com/maps?q=Calle%20Garc%C3%ADa%20de%20Vinuesa%2039</AddressUrl>
       <WebPage>www.oleotecasevilla.com</WebPage>
-      <WebPageUrl>//www.oleotecasevilla.com</WebPageUrl>
+      <WebPageUrl>https://www.oleotecasevilla.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Seville</RegionType>
@@ -1051,7 +1035,7 @@ It also has the biggest Christmas selection tin you'll have ever seen (4kg).</De
       <Address>Calle Villegas 1</Address>
       <AddressUrl>https://www.google.com/maps?q=Calle%20Villegas%201</AddressUrl>
       <WebPage>http://ladespensadepalacio.com</WebPage>
-      <WebPageUrl>//ladespensadepalacio.com</WebPageUrl>
+      <WebPageUrl>https://ladespensadepalacio.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Seville</RegionType>
@@ -1065,7 +1049,7 @@ It also has the biggest Christmas selection tin you'll have ever seen (4kg).</De
       <Address>Calle Garcia de Vinuesa 30</Address>
       <AddressUrl>https://www.google.com/maps?q=Calle%20Garcia%20de%20Vinuesa%2030</AddressUrl>
       <WebPage>www.uenoueno.com</WebPage>
-      <WebPageUrl>//www.uenoueno.com</WebPageUrl>
+      <WebPageUrl>https://www.uenoueno.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Seville</RegionType>
@@ -1079,7 +1063,7 @@ It also has the biggest Christmas selection tin you'll have ever seen (4kg).</De
       <Address>Calle Callao 14</Address>
       <AddressUrl>https://www.google.com/maps?q=Calle%20Callao%2014</AddressUrl>
       <WebPage>www.ceramicatriana.com</WebPage>
-      <WebPageUrl>//www.ceramicatriana.com</WebPageUrl>
+      <WebPageUrl>https://www.ceramicatriana.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Seville</RegionType>
@@ -1093,7 +1077,7 @@ It also has the biggest Christmas selection tin you'll have ever seen (4kg).</De
       <Address>Calle San Luis 56</Address>
       <AddressUrl>https://www.google.com/maps?q=Calle%20San%20Luis%2056</AddressUrl>
       <WebPage>www.facebook.com/janmeidecoración</WebPage>
-      <WebPageUrl>//www.facebook.com/janmeidecoración</WebPageUrl>
+      <WebPageUrl>https://www.facebook.com/janmeidecoración</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Seville</RegionType>
@@ -1107,7 +1091,7 @@ It also has the biggest Christmas selection tin you'll have ever seen (4kg).</De
       <Address>Calle José Gestoso 8</Address>
       <AddressUrl>https://www.google.com/maps?q=Calle%20Jos%C3%A9%20Gestoso%208</AddressUrl>
       <WebPage>www.caotica.es</WebPage>
-      <WebPageUrl>//www.caotica.es</WebPageUrl>
+      <WebPageUrl>https://www.caotica.es</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Seville</RegionType>
@@ -1133,7 +1117,7 @@ It also has the biggest Christmas selection tin you'll have ever seen (4kg).</De
       <Address>Plaza de Pilatos 3</Address>
       <AddressUrl>https://www.google.com/maps?q=Plaza%20de%20Pilatos%203</AddressUrl>
       <WebPage>https://facebook.com/cocosevilla</WebPage>
-      <WebPageUrl>//facebook.com/cocosevilla</WebPageUrl>
+      <WebPageUrl>https://facebook.com/cocosevilla</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Seville</RegionType>
@@ -1147,7 +1131,7 @@ It also has the biggest Christmas selection tin you'll have ever seen (4kg).</De
       <Address>Calle Álvarez Quintero 11</Address>
       <AddressUrl>https://www.google.com/maps?q=Calle%20%C3%81lvarez%20Quintero%2011</AddressUrl>
       <WebPage>www.binoe.eu</WebPage>
-      <WebPageUrl>//www.binoe.eu</WebPageUrl>
+      <WebPageUrl>https://www.binoe.eu</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Seville</RegionType>
@@ -1173,7 +1157,7 @@ It also has the biggest Christmas selection tin you'll have ever seen (4kg).</De
       <Address>Calle Regina 1</Address>
       <AddressUrl>https://www.google.com/maps?q=Calle%20Regina%201</AddressUrl>
       <WebPage>www.lamalauva.com</WebPage>
-      <WebPageUrl>//www.lamalauva.com</WebPageUrl>
+      <WebPageUrl>https://www.lamalauva.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Seville</RegionType>
@@ -1182,6 +1166,12 @@ It also has the biggest Christmas selection tin you'll have ever seen (4kg).</De
       <Name>Grabados Laurence Shand</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>An antique print makes a perfectly portable memento to take home from Seville. Amiable Englishman Laurence, whose shop is near the Museo Bellas Artes, has a good selection of mostly 19th-century maps and lithographs of typical Sevillan scenes to suit all budgets (from €10 to €500); famous artists stocked include John Frederick Lewis and David Roberts.
+</Description>
+      <Address>Calle Bailén 42</Address>
+      <AddressUrl>https://www.google.com/maps?q=Calle%20Bail%C3%A9n%2042</AddressUrl>
+      <WebPage>www.grabadoslaurenceshand.com</WebPage>
+      <WebPageUrl>https://www.grabadoslaurenceshand.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Seville</RegionType>
@@ -1190,6 +1180,12 @@ It also has the biggest Christmas selection tin you'll have ever seen (4kg).</De
       <Name>Pleita</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>Hailing from Guadix in Granada province, Jesus offers beautiful, simple ceramics in classic blue and white designs at excellent prices. The shop’s name refers to a strip of esparto grass used in woven baskets, which he also sells in his Alfalfa shop, along with colourful jarapa rugs from Las Alpujarras, and antique pottery jars and implements.
+</Description>
+      <Address>Calle Águilas 14</Address>
+      <AddressUrl>https://www.google.com/maps?q=Calle%20%C3%81guilas%2014</AddressUrl>
+      <WebPage>www.facebook.com/pleitasevilla</WebPage>
+      <WebPageUrl>https://www.facebook.com/pleitasevilla</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Seville</RegionType>
@@ -1198,6 +1194,12 @@ It also has the biggest Christmas selection tin you'll have ever seen (4kg).</De
       <Name>Tarico</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>From award-winning extra-virgin olive oil from Jaén to goat’s milk cheese from Huelva, this airy food store showcases quality produce from small regional producers. Items have been personally selected by the owner, who's happy to guide you through his stock of craft beers, wines, cheeses, cured meats, pâtés, honeys and chocolates.
+</Description>
+      <Address>Calle Amor de Dios 14</Address>
+      <AddressUrl>https://www.google.com/maps?q=Calle%20Amor%20de%20Dios%2014</AddressUrl>
+      <WebPage>www.facebook.com/TiendaTarico</WebPage>
+      <WebPageUrl>https://www.facebook.com/TiendaTarico</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Seville</RegionType>
@@ -1206,6 +1208,12 @@ It also has the biggest Christmas selection tin you'll have ever seen (4kg).</De
       <Name>Libelula Shop</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>A large fashion emporium located near Plaza Nueva, Libelula offers clothing and accessories for men, women and children. More than 20 designers cover all styles and tastes, from kids' pyjamas to traditional fringed mantón shawls, fine knits to sparkly tops. The long, light-filled space is pleasant for browsing.
+</Description>
+      <Address>Calle Méndez Núñez 12</Address>
+      <AddressUrl>https://www.google.com/maps?q=Calle%20M%C3%A9ndez%20N%C3%BA%C3%B1ez%2012</AddressUrl>
+      <WebPage>www.libelulashop.com</WebPage>
+      <WebPageUrl>https://www.libelulashop.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Seville</RegionType>
@@ -1214,6 +1222,12 @@ It also has the biggest Christmas selection tin you'll have ever seen (4kg).</De
       <Name>La Importadora</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>Part-boutique, part-gallery, La Importadora captures the hip Alfalfa vibe with its exposed white-brick walls, contemporary (and original) artworks, pot plants and racks of shabby-chic vintage clothes. You'll find everything from seasonal fashions, often by local designers, to bijou jewellery and cool shoes.
+</Description>
+      <Address>Calle Pérez Galdós 2</Address>
+      <AddressUrl>https://www.google.com/maps?q=Calle%20P%C3%A9rez%20Gald%C3%B3s%202</AddressUrl>
+      <WebPage>www.laimportadora.es</WebPage>
+      <WebPageUrl>https://www.laimportadora.es</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Seville</RegionType>
@@ -1222,6 +1236,12 @@ It also has the biggest Christmas selection tin you'll have ever seen (4kg).</De
       <Name>El Corte Inglés</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>This mega Spanish department store occupies four separate buildings in and around Plaza de la Magdalena and Plaza del Duque de la Victoria. Departments sell everything from books and smartphones to clothes and food – there's a supermarket in the basement of the main building.
+</Description>
+      <Address>Plaza del Duque de la Victoria 8</Address>
+      <AddressUrl>https://www.google.com/maps?q=Plaza%20del%20Duque%20de%20la%20Victoria%208</AddressUrl>
+      <WebPage>www.elcorteingles.es</WebPage>
+      <WebPageUrl>https://www.elcorteingles.es</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Seville</RegionType>
@@ -1230,6 +1250,10 @@ It also has the biggest Christmas selection tin you'll have ever seen (4kg).</De
       <Name>Record Sevilla</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>Fancy mixing flamenco with house? Then grab your vinyl at this music shop full of new and used records – covering everything from folk to indie and hard rock – CDs, DVDs, posters and T-shirts. Staff are knowledgeable about the local music scene.
+</Description>
+      <Address>Calle Amor de Dios 17A</Address>
+      <AddressUrl>https://www.google.com/maps?q=Calle%20Amor%20de%20Dios%2017A</AddressUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Seville</RegionType>
@@ -1238,6 +1262,12 @@ It also has the biggest Christmas selection tin you'll have ever seen (4kg).</De
       <Name>Casa del Libro</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>A branch of Spain's oldest bookshop chain. Spread over four floors, it stocks plenty of novels and guidebooks, mostly in Spanish, and a small selection of English-language books on the 3rd floor.
+</Description>
+      <Address>Calle Velázquez 8</Address>
+      <AddressUrl>https://www.google.com/maps?q=Calle%20Vel%C3%A1zquez%208</AddressUrl>
+      <WebPage>www.casadellibro.com</WebPage>
+      <WebPageUrl>https://www.casadellibro.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Seville</RegionType>
@@ -1251,7 +1281,7 @@ It also has the biggest Christmas selection tin you'll have ever seen (4kg).</De
       <Address>Calle Mariana de Pineda 18</Address>
       <AddressUrl>https://www.google.com/maps?q=Calle%20Mariana%20de%20Pineda%2018</AddressUrl>
       <WebPage>www.legadoalcazarhotel.com</WebPage>
-      <WebPageUrl>//www.legadoalcazarhotel.com</WebPageUrl>
+      <WebPageUrl>https://www.legadoalcazarhotel.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Hotels</PlaceType>
       <RegionType>Seville</RegionType>
@@ -1265,7 +1295,7 @@ Plans are also afoot to open a small rooftop pool and a coffee shop on the groun
       <Address>Calle Farnesio 6</Address>
       <AddressUrl>https://www.google.com/maps?q=Calle%20Farnesio%206</AddressUrl>
       <WebPage>www.hotelamadeussevilla.com</WebPage>
-      <WebPageUrl>//www.hotelamadeussevilla.com</WebPageUrl>
+      <WebPageUrl>https://www.hotelamadeussevilla.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Hotels</PlaceType>
       <RegionType>Seville</RegionType>
@@ -1279,7 +1309,7 @@ Plans are also afoot to open a small rooftop pool and a coffee shop on the groun
       <Address>Calle Hernando Colón 3</Address>
       <AddressUrl>https://www.google.com/maps?q=Calle%20Hernando%20Col%C3%B3n%203</AddressUrl>
       <WebPage>www.hotelcasadecolon.com</WebPage>
-      <WebPageUrl>//www.hotelcasadecolon.com</WebPageUrl>
+      <WebPageUrl>https://www.hotelcasadecolon.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Hotels</PlaceType>
       <RegionType>Seville</RegionType>
@@ -1293,7 +1323,7 @@ Plans are also afoot to open a small rooftop pool and a coffee shop on the groun
       <Address>Calle Dos de Mayo 16</Address>
       <AddressUrl>https://www.google.com/maps?q=Calle%20Dos%20de%20Mayo%2016</AddressUrl>
       <WebPage>www.labandahostel.com</WebPage>
-      <WebPageUrl>//www.labandahostel.com</WebPageUrl>
+      <WebPageUrl>https://www.labandahostel.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Hotels</PlaceType>
       <RegionType>Seville</RegionType>
@@ -1307,7 +1337,7 @@ Plans are also afoot to open a small rooftop pool and a coffee shop on the groun
       <Address>Calle Rodrigo Caro 6</Address>
       <AddressUrl>https://www.google.com/maps?q=Calle%20Rodrigo%20Caro%206</AddressUrl>
       <WebPage>www.hotelcasa1800sevilla.com</WebPage>
-      <WebPageUrl>//www.hotelcasa1800sevilla.com</WebPageUrl>
+      <WebPageUrl>https://www.hotelcasa1800sevilla.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Hotels</PlaceType>
       <RegionType>Seville</RegionType>

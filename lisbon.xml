@@ -11,7 +11,7 @@ Wrought for the glory of God, Jerónimos was once populated by monks of the Orde
       <Address>Praça do Império</Address>
       <AddressUrl>https://www.google.com/maps?q=Pra%C3%A7a%20do%20Imp%C3%A9rio</AddressUrl>
       <WebPage>www.mosteirojeronimos.pt</WebPage>
-      <WebPageUrl>//www.mosteirojeronimos.pt</WebPageUrl>
+      <WebPageUrl>https://www.mosteirojeronimos.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Attractions</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -29,7 +29,7 @@ Inside the Tower of Ulysses, a camera obscura offers a unique 360-degree view of
 Bus 737 from Sé or Praça da Figueira goes right to the gate. Tram 28E also passes nearby. A set of escalators traversing the hill from Praça Martim Moniz opened in 2018.
 </Description>
       <WebPage>www.castelodesaojorge.pt</WebPage>
-      <WebPageUrl>//www.castelodesaojorge.pt</WebPageUrl>
+      <WebPageUrl>https://www.castelodesaojorge.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Attractions</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -53,7 +53,7 @@ Keep an eye out for highlights such as Nuno Gonçalves’ naturalistic Panels of
       <Address>Rua das Janelas Verdes</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20das%20Janelas%20Verdes</AddressUrl>
       <WebPage>www.museudearteantiga.pt</WebPage>
-      <WebPageUrl>//www.museudearteantiga.pt</WebPageUrl>
+      <WebPageUrl>https://www.museudearteantiga.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Attractions</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -67,7 +67,7 @@ The chronological romp kicks off with highlights such as gilded Egyptian mummy m
       <Address>Av de Berna 45A</Address>
       <AddressUrl>https://www.google.com/maps?q=Av%20de%20Berna%2045A</AddressUrl>
       <WebPage>www.gulbenkian.pt</WebPage>
-      <WebPageUrl>//www.gulbenkian.pt</WebPageUrl>
+      <WebPageUrl>https://www.gulbenkian.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Attractions</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -105,7 +105,7 @@ Our favourite bit? The wow-inspiring 17th-century King's Gallery at the garden's
       <Address>Largo de São Domingos de Benfica 1</Address>
       <AddressUrl>https://www.google.com/maps?q=Largo%20de%20S%C3%A3o%20Domingos%20de%20Benfica%201</AddressUrl>
       <WebPage>www.fronteira-alorna.pt</WebPage>
-      <WebPageUrl>//www.fronteira-alorna.pt</WebPageUrl>
+      <WebPageUrl>https://www.fronteira-alorna.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Attractions</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -119,7 +119,7 @@ Keep an eye out for oddities such as filigree sea dragons, big ocean sunfish, Po
       <Address>Esplanada D. Carlos I. Lisboa</Address>
       <AddressUrl>https://www.google.com/maps?q=Esplanada%20D.%20Carlos%20I.%20Lisboa</AddressUrl>
       <WebPage>www.oceanario.pt</WebPage>
-      <WebPageUrl>//www.oceanario.pt</WebPageUrl>
+      <WebPageUrl>https://www.oceanario.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Attractions</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -157,7 +157,7 @@ Here you'll find every kind of azulejo imaginable, from early Ottoman geometry t
       <Address>Rua Madre de Deus 4</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20Madre%20de%20Deus%204</AddressUrl>
       <WebPage>www.museudoazulejo.pt</WebPage>
-      <WebPageUrl>//www.museudoazulejo.pt</WebPageUrl>
+      <WebPageUrl>https://www.museudoazulejo.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Attractions</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -171,7 +171,7 @@ Free guided tours are offered in four languages. For English, arrive on Thursday
       <Address>Largo Trindade Coelho</Address>
       <AddressUrl>https://www.google.com/maps?q=Largo%20Trindade%20Coelho</AddressUrl>
       <WebPage>www.museu-saoroque.com</WebPage>
-      <WebPageUrl>//www.museu-saoroque.com</WebPageUrl>
+      <WebPageUrl>https://www.museu-saoroque.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Attractions</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -185,7 +185,7 @@ Temporary exhibitions are among the best in Portugal. Also in the complex is a c
       <Address>Praça do Império</Address>
       <AddressUrl>https://www.google.com/maps?q=Pra%C3%A7a%20do%20Imp%C3%A9rio</AddressUrl>
       <WebPage>www.museuberardo.pt</WebPage>
-      <WebPageUrl>//www.museuberardo.pt</WebPageUrl>
+      <WebPageUrl>https://www.museuberardo.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Attractions</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -199,7 +199,7 @@ You'll visit a small museum of artefacts found on premises before heading down i
       <Address>Rua Augusta 96</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20Augusta%2096</AddressUrl>
       <WebPage>http://ind.millenniumbcp.pt</WebPage>
-      <WebPageUrl>//ind.millenniumbcp.pt</WebPageUrl>
+      <WebPageUrl>https://ind.millenniumbcp.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Attractions</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -225,7 +225,7 @@ The easily missable upper level hosts temporary contemporary-art exhibitions.</D
       <Address>Av da Índia 136</Address>
       <AddressUrl>https://www.google.com/maps?q=Av%20da%20%C3%8Dndia%20136</AddressUrl>
       <WebPage>www.museudoscoches.pt</WebPage>
-      <WebPageUrl>//www.museudoscoches.pt</WebPageUrl>
+      <WebPageUrl>https://www.museudoscoches.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Attractions</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -239,7 +239,7 @@ The easily missable upper level hosts temporary contemporary-art exhibitions.</D
       <Address>Largo do Carmo</Address>
       <AddressUrl>https://www.google.com/maps?q=Largo%20do%20Carmo</AddressUrl>
       <WebPage>www.museuarqueologicodocarmo.pt</WebPage>
-      <WebPageUrl>//www.museuarqueologicodocarmo.pt</WebPageUrl>
+      <WebPageUrl>https://www.museuarqueologicodocarmo.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Attractions</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -253,7 +253,7 @@ The square is a popular hang-out spot for Lisbon’s African community.</Descrip
       <Address>Largo de São Domingos</Address>
       <AddressUrl>https://www.google.com/maps?q=Largo%20de%20S%C3%A3o%20Domingos</AddressUrl>
       <WebPage>www.patriarcado-lisboa.pt</WebPage>
-      <WebPageUrl>//www.patriarcado-lisboa.pt</WebPageUrl>
+      <WebPageUrl>https://www.patriarcado-lisboa.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Attractions</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -267,7 +267,7 @@ Francisco de Arruda designed this giant pearly grey chess piece in 1515 to defen
       <Address>Av de Brasília</Address>
       <AddressUrl>https://www.google.com/maps?q=Av%20de%20Bras%C3%ADlia</AddressUrl>
       <WebPage>www.torrebelem.pt</WebPage>
-      <WebPageUrl>//www.torrebelem.pt</WebPageUrl>
+      <WebPageUrl>https://www.torrebelem.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Attractions</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -281,7 +281,7 @@ Go early on a midweek day to avoid nasty lines.</Description>
       <Address>Rua de Belém 84-92</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20de%20Bel%C3%A9m%2084-92</AddressUrl>
       <WebPage>www.pasteisdebelem.pt</WebPage>
-      <WebPageUrl>//www.pasteisdebelem.pt</WebPageUrl>
+      <WebPageUrl>https://www.pasteisdebelem.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -295,7 +295,7 @@ Follow the lead of locals and come for a browse in the morning followed by lunch
       <Address>Av 24 de Julho</Address>
       <AddressUrl>https://www.google.com/maps?q=Av%2024%20de%20Julho</AddressUrl>
       <WebPage>www.timeoutmarket.com</WebPage>
-      <WebPageUrl>//www.timeoutmarket.com</WebPageUrl>
+      <WebPageUrl>https://www.timeoutmarket.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -304,12 +304,6 @@ Follow the lead of locals and come for a browse in the morning followed by lunch
       <Name>Alma</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
-      <Description>Two-Michelin–starred Henrique Sá Pessoa's flagship Alma is one of Portugal's destination restaurants and, in our humble opinion, Lisbon's best gourmet dining experience. The casual space exudes understated style amid the original stone flooring and gorgeous hardwood tables, but it's Pessoa's outrageously good nouveau Portuguese cuisine that draws the foodie flock from far and wide.
-Seasonal menus focus on the freshest Iberian flavours possible. Standout dishes include charred red peppers in an exquisite red-pepper coulis and suckling-pig confit that will bring you to your knees in unadulterated culinary joy. Portions are bigger than average at this level and the sommelier isn't afraid to pick bold, unorthodox wines to round out your evening.</Description>
-      <Address>Rua Anchieta 15</Address>
-      <AddressUrl>https://www.google.com/maps?q=Rua%20Anchieta%2015</AddressUrl>
-      <WebPage>www.almalisboa.pt</WebPage>
-      <WebPageUrl>//www.almalisboa.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -318,12 +312,6 @@ Seasonal menus focus on the freshest Iberian flavours possible. Standout dishes 
       <Name>Feitoria</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
-      <Description>A defining dining experience awaits at chef João Rodrigues' slick, contemporary, Michelin-starred restaurant overlooking the riverfront. Rich textures and clean, bright flavours dominate throughout three tasting menus, which showcase Portugal's rich and vibrant bounty. Pigeon with wild mushrooms, foie gras and truffles, Algarve scarlet shrimp and Iberian pork neck exhilarate with every bite.
-From the beginning (excellent bread with the Douro's Doña Berta olive oil), through to engaging wine choices and a few surprises along the way, this is where your palette meets paradise. Those splurging on tasting menus receive a waxed-sealed menu of their evening signed by the chef – a nice touch.</Description>
-      <Address>Altis Belém Hotel. Doca do Bom Sucesso</Address>
-      <AddressUrl>https://www.google.com/maps?q=Altis%20Bel%C3%A9m%20Hotel.%20Doca%20do%20Bom%20Sucesso</AddressUrl>
-      <WebPage>www.restaurantefeitoria.com</WebPage>
-      <WebPageUrl>//www.restaurantefeitoria.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -337,7 +325,7 @@ Ask in-the-know Portuguese foodies about their favourite home-grown restaurant a
       <Address>Praça dos Restauradores 79</Address>
       <AddressUrl>https://www.google.com/maps?q=Pra%C3%A7a%20dos%20Restauradores%2079</AddressUrl>
       <WebPage>www.restaurantepinoquio.pt</WebPage>
-      <WebPageUrl>//www.restaurantepinoquio.pt</WebPageUrl>
+      <WebPageUrl>https://www.restaurantepinoquio.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -351,7 +339,7 @@ It's named after the Academy Award–winning Roman actress Anna Magnani's nickna
       <Address>Rua Nova da Piedade 68</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20Nova%20da%20Piedade%2068</AddressUrl>
       <WebPage>www.nannarella.pt</WebPage>
-      <WebPageUrl>//www.nannarella.pt</WebPageUrl>
+      <WebPageUrl>https://www.nannarella.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -365,7 +353,7 @@ Despite the high prices, the atmosphere is bustling and informal, with garrulous
       <Address>Av Almirante Reis 1</Address>
       <AddressUrl>https://www.google.com/maps?q=Av%20Almirante%20Reis%201</AddressUrl>
       <WebPage>www.cervejariaramiro.pt</WebPage>
-      <WebPageUrl>//www.cervejariaramiro.pt</WebPageUrl>
+      <WebPageUrl>https://www.cervejariaramiro.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -379,7 +367,7 @@ Reservations are essential.</Description>
       <Address>Largo de São Carlos 10</Address>
       <AddressUrl>https://www.google.com/maps?q=Largo%20de%20S%C3%A3o%20Carlos%2010</AddressUrl>
       <WebPage>www.belcanto.pt</WebPage>
-      <WebPageUrl>//www.belcanto.pt</WebPageUrl>
+      <WebPageUrl>https://www.belcanto.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -393,7 +381,7 @@ You can take home the whole hog on Saturdays for €125!</Description>
       <Address>Rua Conselheiro Lopo Vaz 5</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20Conselheiro%20Lopo%20Vaz%205</AddressUrl>
       <WebPage>www.restaurantebotafeijao.pt</WebPage>
-      <WebPageUrl>//www.restaurantebotafeijao.pt</WebPageUrl>
+      <WebPageUrl>https://www.restaurantebotafeijao.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -407,7 +395,7 @@ You can take home the whole hog on Saturdays for €125!</Description>
       <Address>Praça da Figueira</Address>
       <AddressUrl>https://www.google.com/maps?q=Pra%C3%A7a%20da%20Figueira</AddressUrl>
       <WebPage>www.adbaixapombalina.pt/mercado-da-baixa</WebPage>
-      <WebPageUrl>//www.adbaixapombalina.pt/mercado-da-baixa</WebPageUrl>
+      <WebPageUrl>https://www.adbaixapombalina.pt/mercado-da-baixa</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -421,7 +409,7 @@ Highlights on the small plates side include a wonderful vinaigrette-marinated ba
       <Address>Rua Dom Pedro V 81</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20Dom%20Pedro%20V%2081</AddressUrl>
       <WebPage>www.tapisco.pt</WebPage>
-      <WebPageUrl>//www.tapisco.pt</WebPageUrl>
+      <WebPageUrl>https://www.tapisco.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -447,7 +435,7 @@ Once inside, your first stop is a traditional Portuguese taberna (unoriginally n
       <Address>Rua Nova da Trindade 18</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20Nova%20da%20Trindade%2018</AddressUrl>
       <WebPage>www.bairrodoavillez.pt</WebPage>
-      <WebPageUrl>//www.bairrodoavillez.pt</WebPageUrl>
+      <WebPageUrl>https://www.bairrodoavillez.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -473,7 +461,7 @@ American, Belgian and Dutch owners have brought a sorely needed laundry list of 
       <Address>Largo Rafael Bordalo Pinheiro 30</Address>
       <AddressUrl>https://www.google.com/maps?q=Largo%20Rafael%20Bordalo%20Pinheiro%2030</AddressUrl>
       <WebPage>www.boabao.pt</WebPage>
-      <WebPageUrl>//www.boabao.pt</WebPageUrl>
+      <WebPageUrl>https://www.boabao.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -499,7 +487,7 @@ Both the cacao (from Venezuela, Bolivia and Dominica) and coffee (from São Tom�
       <Address>Rua da Escola Politécnica 4</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20da%20Escola%20Polit%C3%A9cnica%204</AddressUrl>
       <WebPage>www.claudiocorallo.com</WebPage>
-      <WebPageUrl>//www.claudiocorallo.com</WebPageUrl>
+      <WebPageUrl>https://www.claudiocorallo.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -513,7 +501,7 @@ The intimate open kitchen hosts two seatings (7pm and 9pm). Reserve ahead and go
       <Address>Rua Alcântara 13A</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20Alc%C3%A2ntara%2013A</AddressUrl>
       <WebPage>www.izcalli.pt</WebPage>
-      <WebPageUrl>//www.izcalli.pt</WebPageUrl>
+      <WebPageUrl>https://www.izcalli.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -527,7 +515,7 @@ It stays open late (though the kitchen closes at midnight), making it a good opt
       <Address>Largo da Trindade 9</Address>
       <AddressUrl>https://www.google.com/maps?q=Largo%20da%20Trindade%209</AddressUrl>
       <WebPage>www.restaurante100maneiras.com</WebPage>
-      <WebPageUrl>//www.restaurante100maneiras.com</WebPageUrl>
+      <WebPageUrl>https://www.restaurante100maneiras.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -553,7 +541,7 @@ The best cuts – costeleta de Novilho (veal chop), bife da vazia (sirloin) – 
       <Address>Rua da Esperança 178</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20da%20Esperan%C3%A7a%20178</AddressUrl>
       <WebPage>www.facebook.com/restaurante.tachadas</WebPage>
-      <WebPageUrl>//www.facebook.com/restaurante.tachadas</WebPageUrl>
+      <WebPageUrl>https://www.facebook.com/restaurante.tachadas</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -567,7 +555,7 @@ Cash only for nonresidents.</Description>
       <Address>Rua Pimenta 9</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20Pimenta%209</AddressUrl>
       <WebPage>www.theoldhouseportugal.pt</WebPage>
-      <WebPageUrl>//www.theoldhouseportugal.pt</WebPageUrl>
+      <WebPageUrl>https://www.theoldhouseportugal.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -581,7 +569,7 @@ Cash only for nonresidents.</Description>
       <Address>Rua Dom Pedro V 65</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20Dom%20Pedro%20V%2065</AddressUrl>
       <WebPage>http://coyotaco.pt</WebPage>
-      <WebPageUrl>//coyotaco.pt</WebPageUrl>
+      <WebPageUrl>https://coyotaco.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -596,7 +584,7 @@ Cash only for nonresidents.</Description>
       <Address>Rua do Teixeira 39</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20do%20Teixeira%2039</AddressUrl>
       <WebPage>www.restaurante100maneiras.com</WebPage>
-      <WebPageUrl>//www.restaurante100maneiras.com</WebPageUrl>
+      <WebPageUrl>https://www.restaurante100maneiras.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -610,7 +598,7 @@ Cash only for nonresidents.</Description>
       <Address>Rua da Escola Politécnica 32</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20da%20Escola%20Polit%C3%A9cnica%2032</AddressUrl>
       <WebPage>www.pizzeriazerozero.pt</WebPage>
-      <WebPageUrl>//www.pizzeriazerozero.pt</WebPageUrl>
+      <WebPageUrl>https://www.pizzeriazerozero.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -624,7 +612,7 @@ Cash only for nonresidents.</Description>
       <Address>Tv Monte do Carmo 19</Address>
       <AddressUrl>https://www.google.com/maps?q=Tv%20Monte%20do%20Carmo%2019</AddressUrl>
       <WebPage>www.facebook.com/frangasqueira</WebPage>
-      <WebPageUrl>//www.facebook.com/frangasqueira</WebPageUrl>
+      <WebPageUrl>https://www.facebook.com/frangasqueira</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -638,7 +626,7 @@ There’s a pleasant buzz to the folksy and welcoming space, with photos and car
       <Address>Rua das Portas de Santo Antão 150</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20das%20Portas%20de%20Santo%20Ant%C3%A3o%20150</AddressUrl>
       <WebPage>www.solardospresuntos.com</WebPage>
-      <WebPageUrl>//www.solardospresuntos.com</WebPageUrl>
+      <WebPageUrl>https://www.solardospresuntos.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -652,7 +640,7 @@ There’s a pleasant buzz to the folksy and welcoming space, with photos and car
       <Address>Beco Surradores 5</Address>
       <AddressUrl>https://www.google.com/maps?q=Beco%20Surradores%205</AddressUrl>
       <WebPage>www.facebook.com/ZeCornos</WebPage>
-      <WebPageUrl>//www.facebook.com/ZeCornos</WebPageUrl>
+      <WebPageUrl>https://www.facebook.com/ZeCornos</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -666,7 +654,7 @@ There’s a pleasant buzz to the folksy and welcoming space, with photos and car
       <Address>Praça do Município 21</Address>
       <AddressUrl>https://www.google.com/maps?q=Pra%C3%A7a%20do%20Munic%C3%ADpio%2021</AddressUrl>
       <WebPage>www.almalusahotels.com/delfina</WebPage>
-      <WebPageUrl>//www.almalusahotels.com/delfina</WebPageUrl>
+      <WebPageUrl>https://www.almalusahotels.com/delfina</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -680,7 +668,7 @@ There’s a pleasant buzz to the folksy and welcoming space, with photos and car
       <Address>Rua Visconde de Santarém 69B</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20Visconde%20de%20Santar%C3%A9m%2069B</AddressUrl>
       <WebPage>www.tascafit.pt</WebPage>
-      <WebPageUrl>//www.tascafit.pt</WebPageUrl>
+      <WebPageUrl>https://www.tascafit.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -694,7 +682,7 @@ There’s a pleasant buzz to the folksy and welcoming space, with photos and car
       <Address>Rua Ângela Pinto 12. Mercado de Arroios</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20%C3%82ngela%20Pinto%2012.%20Mercado%20de%20Arroios</AddressUrl>
       <WebPage>www.facebook.com/paoapao.associacao</WebPage>
-      <WebPageUrl>//www.facebook.com/paoapao.associacao</WebPageUrl>
+      <WebPageUrl>https://www.facebook.com/paoapao.associacao</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -720,7 +708,7 @@ Galapito took four of his kitchen staff from the UK (and six employees in all). 
       <Address>Tv das Pedras Negras 2</Address>
       <AddressUrl>https://www.google.com/maps?q=Tv%20das%20Pedras%20Negras%202</AddressUrl>
       <WebPage>www.pradorestaurante.com</WebPage>
-      <WebPageUrl>//www.pradorestaurante.com</WebPageUrl>
+      <WebPageUrl>https://www.pradorestaurante.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -734,7 +722,7 @@ Each 'moment' is unexpected and unpredictable – petit fours served on embroide
       <Address>Rua dos Navigantes 53B</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20dos%20Navigantes%2053B</AddressUrl>
       <WebPage>www.loco.pt</WebPage>
-      <WebPageUrl>//www.loco.pt</WebPageUrl>
+      <WebPageUrl>https://www.loco.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -748,7 +736,7 @@ The dosas (rice and lentil Indian-style crêpes) are legit – both the classic 
       <Address>Tv da Palmeira 42</Address>
       <AddressUrl>https://www.google.com/maps?q=Tv%20da%20Palmeira%2042</AddressUrl>
       <WebPage>www.chutnify.com</WebPage>
-      <WebPageUrl>//www.chutnify.com</WebPageUrl>
+      <WebPageUrl>https://www.chutnify.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -762,7 +750,7 @@ Among the fantastic offerings are Himalayan salt rock sashimi (chutoro with onio
       <Address>Rua Barata Salgueiro 28</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20Barata%20Salgueiro%2028</AddressUrl>
       <WebPage>www.sushicafe.pt</WebPage>
-      <WebPageUrl>//www.sushicafe.pt</WebPageUrl>
+      <WebPageUrl>https://www.sushicafe.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -776,7 +764,7 @@ And there's something fun about being served dishes like coastal prawn ceviche a
       <Address>Rua Nova da Trindade 18. Bairro de Avillez</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20Nova%20da%20Trindade%2018.%20Bairro%20de%20Avillez</AddressUrl>
       <WebPage>www.becocabaretgourmet.pt</WebPage>
-      <WebPageUrl>//www.becocabaretgourmet.pt</WebPageUrl>
+      <WebPageUrl>https://www.becocabaretgourmet.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -790,7 +778,7 @@ With 17 offerings (and five Michelin stars among them), chefs José Avillez, Hen
       <Address>Av António Augusto de Aguiar 31. El Corte Inglés</Address>
       <AddressUrl>https://www.google.com/maps?q=Av%20Ant%C3%B3nio%20Augusto%20de%20Aguiar%2031.%20El%20Corte%20Ingl%C3%A9s</AddressUrl>
       <WebPage>www.elcorteingles.pt/gourmet-experience</WebPage>
-      <WebPageUrl>//www.elcorteingles.pt/gourmet-experience</WebPageUrl>
+      <WebPageUrl>https://www.elcorteingles.pt/gourmet-experience</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -816,7 +804,7 @@ There's no use talking specific dishes and chefs as they turn over two or three 
       <Address>Rua de O Século 204</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20de%20O%20S%C3%A9culo%20204</AddressUrl>
       <WebPage>www.facebook.com/LocalRestauranteLX</WebPage>
-      <WebPageUrl>//www.facebook.com/LocalRestauranteLX</WebPageUrl>
+      <WebPageUrl>https://www.facebook.com/LocalRestauranteLX</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -830,7 +818,7 @@ There's no use talking specific dishes and chefs as they turn over two or three 
       <Address>Praça da Alegria 48</Address>
       <AddressUrl>https://www.google.com/maps?q=Pra%C3%A7a%20da%20Alegria%2048</AddressUrl>
       <WebPage>www.hcp.pt</WebPage>
-      <WebPageUrl>//www.hcp.pt</WebPageUrl>
+      <WebPageUrl>https://www.hcp.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Entertainment</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -856,7 +844,7 @@ Stadium tours are available. The nearest metro station is Colégio Militar-Luz.<
       <Address>Av General Norton de Matos</Address>
       <AddressUrl>https://www.google.com/maps?q=Av%20General%20Norton%20de%20Matos</AddressUrl>
       <WebPage>www.slbenfica.pt</WebPage>
-      <WebPageUrl>//www.slbenfica.pt</WebPageUrl>
+      <WebPageUrl>https://www.slbenfica.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Entertainment</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -870,7 +858,7 @@ It has blues on Monday, Tuesday and Friday; pop-rock on Wednesday and Thursday; 
       <Address>Rua do Norte 96</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20do%20Norte%2096</AddressUrl>
       <WebPage>www.facebook.com/alface.music.hall</WebPage>
-      <WebPageUrl>//www.facebook.com/alface.music.hall</WebPageUrl>
+      <WebPageUrl>https://www.facebook.com/alface.music.hall</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Entertainment</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -884,7 +872,7 @@ It's worth popping in even without intentions of seeing a film – there is a fa
       <Address>Rua Barata Salgueiro 39</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20Barata%20Salgueiro%2039</AddressUrl>
       <WebPage>www.cinemateca.pt</WebPage>
-      <WebPageUrl>//www.cinemateca.pt</WebPageUrl>
+      <WebPageUrl>https://www.cinemateca.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Entertainment</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -898,7 +886,7 @@ Portugal's most famous fado singer, Mariza, brought us here in 2005. It's legit.
       <Address>Rua do Diário de Notícias 39</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20do%20Di%C3%A1rio%20de%20Not%C3%ADcias%2039</AddressUrl>
       <WebPage>www.facebook.com/atasca.dochico</WebPage>
-      <WebPageUrl>//www.facebook.com/atasca.dochico</WebPageUrl>
+      <WebPageUrl>https://www.facebook.com/atasca.dochico</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Entertainment</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -912,7 +900,7 @@ Portugal's most famous fado singer, Mariza, brought us here in 2005. It's legit.
       <Address>Rua dos Remédios 190</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20dos%20Rem%C3%A9dios%20190</AddressUrl>
       <WebPage>www.facebook.com/bela.vinhosepetiscos</WebPage>
-      <WebPageUrl>//www.facebook.com/bela.vinhosepetiscos</WebPageUrl>
+      <WebPageUrl>https://www.facebook.com/bela.vinhosepetiscos</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Entertainment</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -926,7 +914,7 @@ Portugal's most famous fado singer, Mariza, brought us here in 2005. It's legit.
       <Address>Beco do Espírito Santo 1</Address>
       <AddressUrl>https://www.google.com/maps?q=Beco%20do%20Esp%C3%ADrito%20Santo%201</AddressUrl>
       <WebPage>www.parreirinhadealfama.com</WebPage>
-      <WebPageUrl>//www.parreirinhadealfama.com</WebPageUrl>
+      <WebPageUrl>https://www.parreirinhadealfama.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Entertainment</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -940,7 +928,7 @@ Portugal's most famous fado singer, Mariza, brought us here in 2005. It's legit.
       <Address>Rua dos Remédios 139A</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20dos%20Rem%C3%A9dios%20139A</AddressUrl>
       <WebPage>www.facebook.com/mesadefradeslisboa</WebPage>
-      <WebPageUrl>//www.facebook.com/mesadefradeslisboa</WebPageUrl>
+      <WebPageUrl>https://www.facebook.com/mesadefradeslisboa</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Entertainment</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -949,12 +937,6 @@ Portugal's most famous fado singer, Mariza, brought us here in 2005. It's legit.
       <Name>Senhor Fado</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
-      <Description>Small and lantern-lit, this is a cosy spot for fado vadio (street fado). Fadista Ana Marina and guitarist Duarte Santos make a great double act.
-</Description>
-      <Address>Rua dos Remédios 176</Address>
-      <AddressUrl>https://www.google.com/maps?q=Rua%20dos%20Rem%C3%A9dios%20176</AddressUrl>
-      <WebPage>www.sr-fado.com</WebPage>
-      <WebPageUrl>//www.sr-fado.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Entertainment</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -963,13 +945,6 @@ Portugal's most famous fado singer, Mariza, brought us here in 2005. It's legit.
       <Name>Fundação Calouste Gulbenkian</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
-      <Description>Home to the Gulbenkian Orchestra, this classical-music heavyweight stages first-rate concerts and ballets.
-
-</Description>
-      <Address>Av de Berna 45A</Address>
-      <AddressUrl>https://www.google.com/maps?q=Av%20de%20Berna%2045A</AddressUrl>
-      <WebPage>www.gulbenkian.pt</WebPage>
-      <WebPageUrl>//www.gulbenkian.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Entertainment</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -977,13 +952,7 @@ Portugal's most famous fado singer, Mariza, brought us here in 2005. It's legit.
     <Place>
       <Name>Cinema Ideal</Name>
       <Thumbimageuri>https://lp-cms-production.imgix.net/2019-06/0a43bd14e3dc6ad4ab5d2a378be9a4f5-lpl-cinema-ideal1.jpg?auto=format&amp;amp;w=250&amp;amp;h=250&amp;amp;fit=crop&amp;amp;q=40</Thumbimageuri>
-      <FullImageUri>https://lp-cms-production.imgix.net/2019-06/0a43bd14e3dc6ad4ab5d2a378be9a4f5-lpl-cinema-ideal1.jpg?auto=format&amp;amp;w=1920&amp;amp;h=640&amp;amp;fit=crop&amp;amp;crop=faces,edges&amp;amp;q=75</FullImageUri>
-      <Description>Opened in 1904, this small neighbourhood cinema was last refurbished in the 1950s and keeps much of the same atmosphere of a classical movie theatre. The programming changes every week and focuses mostly on independent films or small festival cycles. Next door, there's a bookstore, record shop, and a cafeteria serving mostly salads and sandwiches.
-</Description>
-      <Address>Rua do Loreto 15-17</Address>
-      <AddressUrl>https://www.google.com/maps?q=Rua%20do%20Loreto%2015-17</AddressUrl>
-      <WebPage>www.cinemaideal.pt</WebPage>
-      <WebPageUrl>//www.cinemaideal.pt</WebPageUrl>
+      <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
       <Like>false</Like>
       <PlaceType>Entertainment</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -991,13 +960,7 @@ Portugal's most famous fado singer, Mariza, brought us here in 2005. It's legit.
     <Place>
       <Name>Clube de Fado</Name>
       <Thumbimageuri>https://lp-cms-production.imgix.net/2019-06/9d3168baa943ed708daaf56a51b3ea27-clube-de-fado.jpg?auto=format&amp;amp;w=250&amp;amp;h=250&amp;amp;fit=crop&amp;amp;q=40</Thumbimageuri>
-      <FullImageUri>https://lp-cms-production.imgix.net/2019-06/9d3168baa943ed708daaf56a51b3ea27-clube-de-fado.jpg?auto=format&amp;amp;w=1920&amp;amp;h=640&amp;amp;fit=crop&amp;amp;crop=faces,edges&amp;amp;q=75</FullImageUri>
-      <Description>Clube de Fado hosts the cream of the fado crop in vaulted, dimly lit surrounds. Big-name fadistas performing here include Cuca Roseta and Maria Ana Bobone, alongside celebrated guitarists such as owner Mario Pacheco. The food is less outstanding, so come for drinks, which is allowed after 10.30pm. Fado starts at 9.15pm.
-</Description>
-      <Address>Rua de São João da Praça 92</Address>
-      <AddressUrl>https://www.google.com/maps?q=Rua%20de%20S%C3%A3o%20Jo%C3%A3o%20da%20Pra%C3%A7a%2092</AddressUrl>
-      <WebPage>www.clube-de-fado.com</WebPage>
-      <WebPageUrl>//www.clube-de-fado.com</WebPageUrl>
+      <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
       <Like>false</Like>
       <PlaceType>Entertainment</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1006,12 +969,6 @@ Portugal's most famous fado singer, Mariza, brought us here in 2005. It's legit.
       <Name>Teatro Nacional de São Carlos</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
-      <Description>Teatro Nacional de São Carlos is worth visiting just to see the sublime gold-and-red interior (email ahead for €5 guided tours), and it has opera, ballet and theatre seasons. The summertime Festival ao Largo features free outdoor concerts on the plaza facing the theatre.
-</Description>
-      <Address>Rua Serpa Pinto 9</Address>
-      <AddressUrl>https://www.google.com/maps?q=Rua%20Serpa%20Pinto%209</AddressUrl>
-      <WebPage>www.saocarlos.pt</WebPage>
-      <WebPageUrl>//www.saocarlos.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Entertainment</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1020,10 +977,6 @@ Portugal's most famous fado singer, Mariza, brought us here in 2005. It's legit.
       <Name>Tasca do Jaime</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
-      <Description>This low-key restaurant in Graça hosts authentic fado on weekends from about 4pm to 8pm. Decorated with azulejos and photos of prominent fadistas, it’s a tiny space, so arrive early to score a table, which are reserved for those eating and drinking (mains during fado are €9 to €15).
-</Description>
-      <Address>Rua da Graça 91</Address>
-      <AddressUrl>https://www.google.com/maps?q=Rua%20da%20Gra%C3%A7a%2091</AddressUrl>
       <Like>false</Like>
       <PlaceType>Entertainment</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1032,12 +985,6 @@ Portugal's most famous fado singer, Mariza, brought us here in 2005. It's legit.
       <Name>Senhor Vinho</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
-      <Description>Fado star Maria da Fé owns this small place, welcoming first-rate fadistas (fado singers). Go for the fado (from 7pm) not the food, and feel free to refuse menu extras.
-'Oiça Lá Ó Senhor Vinho' is a song about the place from another fado star, Mariza – it's where she got her start.</Description>
-      <Address>Rua do Meio á Lapa 18</Address>
-      <AddressUrl>https://www.google.com/maps?q=Rua%20do%20Meio%20%C3%A1%20Lapa%2018</AddressUrl>
-      <WebPage>www.srvinho.com</WebPage>
-      <WebPageUrl>//www.srvinho.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Entertainment</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1046,12 +993,6 @@ Portugal's most famous fado singer, Mariza, brought us here in 2005. It's legit.
       <Name>Damas</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
-      <Description>Part restaurant, bar and alternative concert hall, Damas has given the cool kids a reason to climb the hill to Graça since its opening in 2015. From DJs spinning electronica to African and indie rock bands, there's always an eclectic mix of sound here and it's often free.
-</Description>
-      <Address>Rua do Operário 60</Address>
-      <AddressUrl>https://www.google.com/maps?q=Rua%20do%20Oper%C3%A1rio%2060</AddressUrl>
-      <WebPage>www.facebook.com/pg/DAMASLISBOA</WebPage>
-      <WebPageUrl>//www.facebook.com/pg/DAMASLISBOA</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Entertainment</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1060,12 +1001,6 @@ Portugal's most famous fado singer, Mariza, brought us here in 2005. It's legit.
       <Name>Teatro Taborda</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
-      <Description>This cultural centre showcases contemporary dance, theatre and world music, and is the residence of experimental theatre company Teatro da Garagem. It also has spectacular views from its cafe (open 5pm to midnight Tuesday to Friday, from 3pm on weekends).
-</Description>
-      <Address>Costa do Castelo 75</Address>
-      <AddressUrl>https://www.google.com/maps?q=Costa%20do%20Castelo%2075</AddressUrl>
-      <WebPage>www.teatrodagaragem.com</WebPage>
-      <WebPageUrl>//www.teatrodagaragem.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Entertainment</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1074,12 +1009,6 @@ Portugal's most famous fado singer, Mariza, brought us here in 2005. It's legit.
       <Name>Centro Cultural de Belém</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
-      <Description>The CCB presents a diverse program spanning experimental jazz, contemporary ballet, boundary-crossing plays and performances by the Portuguese Chamber Orchestra. Buy tickets at the box office (open 11am to 8pm).
-</Description>
-      <Address>Praça do Império</Address>
-      <AddressUrl>https://www.google.com/maps?q=Pra%C3%A7a%20do%20Imp%C3%A9rio</AddressUrl>
-      <WebPage>www.ccb.pt</WebPage>
-      <WebPageUrl>//www.ccb.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Entertainment</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1088,12 +1017,6 @@ Portugal's most famous fado singer, Mariza, brought us here in 2005. It's legit.
       <Name>Zé dos Bois</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
-      <Description>Focusing on tomorrow’s performing-arts and music trends, Zé dos Bois is an experimental venue with a graffitied courtyard and an eclectic line-up of theatre, film, visual arts and live music.
-</Description>
-      <Address>Rua da Barroca 59</Address>
-      <AddressUrl>https://www.google.com/maps?q=Rua%20da%20Barroca%2059</AddressUrl>
-      <WebPage>www.zedosbois.org</WebPage>
-      <WebPageUrl>//www.zedosbois.org</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Entertainment</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1107,7 +1030,7 @@ The vibe is cool and creative, and DJs spin hip hop, jazz and house at all hours
       <Address>Calçada do Combro 58</Address>
       <AddressUrl>https://www.google.com/maps?q=Cal%C3%A7ada%20do%20Combro%2058</AddressUrl>
       <WebPage>www.facebook.com/parklisboaofficial</WebPage>
-      <WebPageUrl>//www.facebook.com/parklisboaofficial</WebPageUrl>
+      <WebPageUrl>https://www.facebook.com/parklisboaofficial</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Nightlife</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1121,7 +1044,7 @@ Style policing is heartwarmingly lax but arrive after 4am at weekends and you mi
       <Address>Av Infante D Henrique, Armazém A, Cais de Pedra</Address>
       <AddressUrl>https://www.google.com/maps?q=Av%20Infante%20D%20Henrique,%20Armaz%C3%A9m%20A,%20Cais%20de%20Pedra</AddressUrl>
       <WebPage>www.luxfragil.com</WebPage>
-      <WebPageUrl>//www.luxfragil.com</WebPageUrl>
+      <WebPageUrl>https://www.luxfragil.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Nightlife</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1135,7 +1058,7 @@ Style policing is heartwarmingly lax but arrive after 4am at weekends and you mi
       <Address>Tv das Merceeiras 27</Address>
       <AddressUrl>https://www.google.com/maps?q=Tv%20das%20Merceeiras%2027</AddressUrl>
       <WebPage>www.memmoalfama.com</WebPage>
-      <WebPageUrl>//www.memmoalfama.com</WebPageUrl>
+      <WebPageUrl>https://www.memmoalfama.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Nightlife</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1149,7 +1072,7 @@ Style policing is heartwarmingly lax but arrive after 4am at weekends and you mi
       <Address>Rua do Alecrím 19</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20do%20Alecr%C3%ADm%2019</AddressUrl>
       <WebPage>www.pensaoamor.pt</WebPage>
-      <WebPageUrl>//www.pensaoamor.pt</WebPageUrl>
+      <WebPageUrl>https://www.pensaoamor.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Nightlife</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1163,7 +1086,7 @@ Creature IPA and Finisterra Porter are particularly worth the trip, as are exper
       <Address>Rua Capitão Leitão 94</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20Capit%C3%A3o%20Leit%C3%A3o%2094</AddressUrl>
       <WebPage>www.doiscorvos.pt</WebPage>
-      <WebPageUrl>//www.doiscorvos.pt</WebPageUrl>
+      <WebPageUrl>https://www.doiscorvos.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Nightlife</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1177,7 +1100,7 @@ It's a great spot to get hopped up on a well-rounded selection of beers not seen
       <Address>Beco do Arco Escuro 1</Address>
       <AddressUrl>https://www.google.com/maps?q=Beco%20do%20Arco%20Escuro%201</AddressUrl>
       <WebPage>www.facebook.com/OutroLadoLisboa</WebPage>
-      <WebPageUrl>//www.facebook.com/OutroLadoLisboa</WebPageUrl>
+      <WebPageUrl>https://www.facebook.com/OutroLadoLisboa</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Nightlife</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1203,7 +1126,7 @@ Check what's on draught on Instagram: @cervetecalisboa.</Description>
       <Address>Praça das Flores 62</Address>
       <AddressUrl>https://www.google.com/maps?q=Pra%C3%A7a%20das%20Flores%2062</AddressUrl>
       <WebPage>www.cervetecalisboa.com</WebPage>
-      <WebPageUrl>//www.cervetecalisboa.com</WebPageUrl>
+      <WebPageUrl>https://www.cervetecalisboa.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Nightlife</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1229,7 +1152,7 @@ Check what's on draught on Instagram: @cervetecalisboa.</Description>
       <Address>Rua do Salitre 5A</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20do%20Salitre%205A</AddressUrl>
       <WebPage>www.facebook.com/redfrogspeakeasy</WebPage>
-      <WebPageUrl>//www.facebook.com/redfrogspeakeasy</WebPageUrl>
+      <WebPageUrl>https://www.facebook.com/redfrogspeakeasy</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Nightlife</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1255,7 +1178,7 @@ Watch the owner line 'em up at the bar under the beady eye of the drink’s 19th
       <Address>Tv Santa Teresa 28</Address>
       <AddressUrl>https://www.google.com/maps?q=Tv%20Santa%20Teresa%2028</AddressUrl>
       <WebPage>www.barfoxtrot.com</WebPage>
-      <WebPageUrl>//www.barfoxtrot.com</WebPageUrl>
+      <WebPageUrl>https://www.barfoxtrot.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Nightlife</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1264,6 +1187,12 @@ Watch the owner line 'em up at the bar under the beady eye of the drink’s 19th
       <Name>Cinco Lounge</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>Take an award-winning London-born mixologist, Dave Palethorpe, add a candlelit, turquoise-kissed setting and give it a funky twist – et voilà – you have Cinco Lounge. Come here to converse, sip legendary cocktails (€7.50 to €15) or join a cocktail-mixing workshop. Cash only.
+</Description>
+      <Address>Rua Ruben António Leitão 17</Address>
+      <AddressUrl>https://www.google.com/maps?q=Rua%20Ruben%20Ant%C3%B3nio%20Leit%C3%A3o%2017</AddressUrl>
+      <WebPage>www.cincolounge.com</WebPage>
+      <WebPageUrl>https://www.cincolounge.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Nightlife</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1277,7 +1206,7 @@ Watch the owner line 'em up at the bar under the beady eye of the drink’s 19th
       <Address>Rua das Escolas Gerais 34</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20das%20Escolas%20Gerais%2034</AddressUrl>
       <WebPage>www.copenhagencoffeelab.com</WebPage>
-      <WebPageUrl>//www.copenhagencoffeelab.com</WebPageUrl>
+      <WebPageUrl>https://www.copenhagencoffeelab.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Nightlife</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1291,7 +1220,7 @@ The tavern-like table in the middle and high-speed wi-fi attracts mostly digital
       <Address>Rua do Poço dos Negros 1</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20do%20Po%C3%A7o%20dos%20Negros%201</AddressUrl>
       <WebPage>www.themill.pt</WebPage>
-      <WebPageUrl>//www.themill.pt</WebPageUrl>
+      <WebPageUrl>https://www.themill.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Nightlife</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1305,7 +1234,7 @@ There are vivid menu descriptions of various styles for those in need of a prime
       <Address>Rua São Pedro de Alcântara 45</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20S%C3%A3o%20Pedro%20de%20Alc%C3%A2ntara%2045</AddressUrl>
       <WebPage>www.ivdp.pt</WebPage>
-      <WebPageUrl>//www.ivdp.pt</WebPageUrl>
+      <WebPageUrl>https://www.ivdp.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Nightlife</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1319,7 +1248,7 @@ There are vivid menu descriptions of various styles for those in need of a prime
       <Address>Rua do Poço dos Negros 103</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20do%20Po%C3%A7o%20dos%20Negros%20103</AddressUrl>
       <WebPage>www.hellokristof.com</WebPage>
-      <WebPageUrl>//www.hellokristof.com</WebPageUrl>
+      <WebPageUrl>https://www.hellokristof.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Nightlife</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1333,7 +1262,7 @@ It's Topo's third location after its bars in Martim Moniz and Chiado.</Descripti
       <Address>Praça do Império. Centro Cultural de Belém</Address>
       <AddressUrl>https://www.google.com/maps?q=Pra%C3%A7a%20do%20Imp%C3%A9rio.%20Centro%20Cultural%20de%20Bel%C3%A9m</AddressUrl>
       <WebPage>www.topo-lisboa.pt</WebPage>
-      <WebPageUrl>//www.topo-lisboa.pt</WebPageUrl>
+      <WebPageUrl>https://www.topo-lisboa.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Nightlife</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1347,7 +1276,7 @@ On occasion it does a mean avocado on rye toast with spinach and hard-boiled egg
       <Address>Rua Nova da Piedade 10</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20Nova%20da%20Piedade%2010</AddressUrl>
       <WebPage>www.cphcoffeelab.pt</WebPage>
-      <WebPageUrl>//www.cphcoffeelab.pt</WebPageUrl>
+      <WebPageUrl>https://www.cphcoffeelab.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Nightlife</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1356,12 +1285,6 @@ On occasion it does a mean avocado on rye toast with spinach and hard-boiled egg
       <Name>Duque Brewpub</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
-      <Description>Lisbon's inaugural brewpub features 12 taps of Portuguese-only craft brews, a few of which are dedicated to on-site suds (under the banner of Cerveja Aroeira), brewed in true craft-beer style: no two batches are the same. Additional taps feature invitees such as Dois Corvos, Musa and Letra.
-Take a load off with a hoppy IPA at the pleasant sidewalk seating or hang out in the cosy indoor space, where the tunes pop seamlessly between early '80s Depeche Mode to Morrissey to sexy modern fado from Gisela João.</Description>
-      <Address>Duques da Calçada 49</Address>
-      <AddressUrl>https://www.google.com/maps?q=Duques%20da%20Cal%C3%A7ada%2049</AddressUrl>
-      <WebPage>www.duquebrewpub.com</WebPage>
-      <WebPageUrl>//www.duquebrewpub.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Nightlife</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1375,7 +1298,7 @@ Take a load off with a hoppy IPA at the pleasant sidewalk seating or hang out in
       <Address>Rua Anchieta 11</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20Anchieta%2011</AddressUrl>
       <WebPage>www.avidaportuguesa.com</WebPage>
-      <WebPageUrl>//www.avidaportuguesa.com</WebPageUrl>
+      <WebPageUrl>https://www.avidaportuguesa.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1389,7 +1312,7 @@ The most popular? Brisa's boneless/skinless sardines in olive oil, lime and basi
       <Address>Rua do Arsenal 130</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20do%20Arsenal%20130</AddressUrl>
       <WebPage>www.facebook.com/lojadasconservas</WebPage>
-      <WebPageUrl>//www.facebook.com/lojadasconservas</WebPageUrl>
+      <WebPageUrl>https://www.facebook.com/lojadasconservas</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1403,7 +1326,7 @@ There's a wonderful gin-centric bar (Gin Lovers) and cafe (Less) in the atrium, 
       <Address>Praça do Príncipe Real 26</Address>
       <AddressUrl>https://www.google.com/maps?q=Pra%C3%A7a%20do%20Pr%C3%ADncipe%20Real%2026</AddressUrl>
       <WebPage>www.embaixadalx.pt</WebPage>
-      <WebPageUrl>//www.embaixadalx.pt</WebPageUrl>
+      <WebPageUrl>https://www.embaixadalx.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1417,7 +1340,7 @@ There are other outlets in the Mercado da Ribeira and at Rua da Conceição 20/2
       <Address>Rua de Santa Justa 18</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20de%20Santa%20Justa%2018</AddressUrl>
       <WebPage>www.garrafeiranacional.com</WebPage>
-      <WebPageUrl>//www.garrafeiranacional.com</WebPageUrl>
+      <WebPageUrl>https://www.garrafeiranacional.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1431,7 +1354,7 @@ There are other outlets in the Mercado da Ribeira and at Rua da Conceição 20/2
       <Address>Calçada de Santo André 66</Address>
       <AddressUrl>https://www.google.com/maps?q=Cal%C3%A7ada%20de%20Santo%20Andr%C3%A9%2066</AddressUrl>
       <WebPage>www.corticoenetos.com</WebPage>
-      <WebPageUrl>//www.corticoenetos.com</WebPageUrl>
+      <WebPageUrl>https://www.corticoenetos.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1445,7 +1368,7 @@ There are other outlets in the Mercado da Ribeira and at Rua da Conceição 20/2
       <Address>Rua Serpa Pinto 15B</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20Serpa%20Pinto%2015B</AddressUrl>
       <WebPage>www.burelfactory.com</WebPage>
-      <WebPageUrl>//www.burelfactory.com</WebPageUrl>
+      <WebPageUrl>https://www.burelfactory.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1459,7 +1382,7 @@ There are other outlets in the Mercado da Ribeira and at Rua da Conceição 20/2
       <Address>Rua de Augusto Rosa 40</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20de%20Augusto%20Rosa%2040</AddressUrl>
       <WebPage>www.aartedaterra.pt</WebPage>
-      <WebPageUrl>//www.aartedaterra.pt</WebPageUrl>
+      <WebPageUrl>https://www.aartedaterra.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1473,7 +1396,7 @@ There are other outlets in the Mercado da Ribeira and at Rua da Conceição 20/2
       <Address>Rua Augusta 93</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20Augusta%2093</AddressUrl>
       <WebPage>www.typographia.com</WebPage>
-      <WebPageUrl>//www.typographia.com</WebPageUrl>
+      <WebPageUrl>https://www.typographia.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1482,12 +1405,6 @@ There are other outlets in the Mercado da Ribeira and at Rua da Conceição 20/2
       <Name>Manteigaria Silva</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
-      <Description>Specialising in the best of the best and in business for more than a century, Manteigaria Silva does a brisk trade in staunchly curated Portuguese ham, cheese, wine and bacalhau.
-</Description>
-      <Address>Rua Dom Antão de Almada 1D</Address>
-      <AddressUrl>https://www.google.com/maps?q=Rua%20Dom%20Ant%C3%A3o%20de%20Almada%201D</AddressUrl>
-      <WebPage>www.manteigariasilva.pt</WebPage>
-      <WebPageUrl>//www.manteigariasilva.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1495,13 +1412,7 @@ There are other outlets in the Mercado da Ribeira and at Rua da Conceição 20/2
     <Place>
       <Name>Underdogs Public Art Store</Name>
       <Thumbimageuri>https://lp-cms-production.imgix.net/2019-06/b122c76935db9d1fe64317a7c9e17eaa-lpl-montana-lisboa-cafe1.jpg?auto=format&amp;amp;w=250&amp;amp;h=250&amp;amp;fit=crop&amp;amp;q=40</Thumbimageuri>
-      <FullImageUri>https://lp-cms-production.imgix.net/2019-06/b122c76935db9d1fe64317a7c9e17eaa-lpl-montana-lisboa-cafe1.jpg?auto=format&amp;amp;w=1920&amp;amp;h=640&amp;amp;fit=crop&amp;amp;crop=faces,edges&amp;amp;q=75</FullImageUri>
-      <Description>Witness the strength of street knowledge at this part gallery, part Montana-street-art paint store and cafe behind Cais do Sodré. Underdogs specialises in high-profile public art and offers Lisbon's best public-art tours on a sporadic, by-appointment-only basis (tours from €35). Good coffee is available, too.
-All tours must be prebooked in person or by email.</Description>
-      <Address>Rua da Cintura do Porto de Lisboa, Armazém A</Address>
-      <AddressUrl>https://www.google.com/maps?q=Rua%20da%20Cintura%20do%20Porto%20de%20Lisboa,%20Armaz%C3%A9m%20A</AddressUrl>
-      <WebPage>www.under-dogs.net</WebPage>
-      <WebPageUrl>//www.under-dogs.net</WebPageUrl>
+      <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1509,13 +1420,7 @@ All tours must be prebooked in person or by email.</Description>
     <Place>
       <Name>Apaixonarte</Name>
       <Thumbimageuri>https://lp-cms-production.imgix.net/2019-06/d27234f6f346ddb7e2e2e068584478f6-lpl-apaixonarte1.jpg?auto=format&amp;amp;w=250&amp;amp;h=250&amp;amp;fit=crop&amp;amp;q=40</Thumbimageuri>
-      <FullImageUri>https://lp-cms-production.imgix.net/2019-06/d27234f6f346ddb7e2e2e068584478f6-lpl-apaixonarte1.jpg?auto=format&amp;amp;w=1920&amp;amp;h=640&amp;amp;fit=crop&amp;amp;crop=faces,edges&amp;amp;q=75</FullImageUri>
-      <Description>This corner design store sells only Portuguese-made home decor pieces and fashion accessories. Once a month the shop also welcomes art exhibits by local artists. Soaps, prints and small decoration items make popular souvenirs.
-</Description>
-      <Address>Rua Poiais de São Bento 57</Address>
-      <AddressUrl>https://www.google.com/maps?q=Rua%20Poiais%20de%20S%C3%A3o%20Bento%2057</AddressUrl>
-      <WebPage>www.apaixonarte.com</WebPage>
-      <WebPageUrl>//www.apaixonarte.com</WebPageUrl>
+      <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1524,12 +1429,6 @@ All tours must be prebooked in person or by email.</Description>
       <Name>Comida Independente</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
-      <Description>This sustainably focused market has a lot going for it: free-range, preservative-free charcuterie from the Algarve, Vinhais and elsewhere; a 160-strong wine inventory, 80% of which are natural; organic medronho (Portuguese fruit brandy); gourmet Pudim abade de Priscos from Braga (a decadent flan swarming with egg yolk, sugar, 20-year-old port and cured ham); and gorgeous Caldas da Rainha ceramics.
-Everything has been painstakingly curated direct from some of Portugal's most interesting producers. It's a fantastic spot to sit down with a natural wine and cheese plate (€12 for one person, €22 for two) and shoot the breeze with the passionate owners and staff.</Description>
-      <Address>Rua Cais do Tojo 28</Address>
-      <AddressUrl>https://www.google.com/maps?q=Rua%20Cais%20do%20Tojo%2028</AddressUrl>
-      <WebPage>www.comidaindependente.pt</WebPage>
-      <WebPageUrl>//www.comidaindependente.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1538,12 +1437,6 @@ Everything has been painstakingly curated direct from some of Portugal's most in
       <Name>O Voo da Andorinha</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
-      <Description>Candy-bright beads, hand-stitched swallows, embroidered accessories and quirky furnishings made with recycled castaways such as cassette tapes, floppy discs, computer keys and old vinyl – you’ll find all of this and more at this adorable boutique representing some 50 Lisbon-area artists near the cathedral.
-It shares space with Joana Candeias (backpacks), Amores de Tóquio (Asian-influenced women's clothing) and Adonis Jewellery (contemporary ornaments inspired by Lego pieces, flowers, sewing needles etc).</Description>
-      <Address>Rua do Barão 22</Address>
-      <AddressUrl>https://www.google.com/maps?q=Rua%20do%20Bar%C3%A3o%2022</AddressUrl>
-      <WebPage>www.facebook.com/ovoodaandorinha</WebPage>
-      <WebPageUrl>//www.facebook.com/ovoodaandorinha</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1552,12 +1445,6 @@ It shares space with Joana Candeias (backpacks), Amores de Tóquio (Asian-influe
       <Name>Claus Porto</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
-      <Description>The amazing flagship store is in Porto, but Claus Porto, one of Portugal's most iconic brands, has its own evocative retro Lisbon boutique here as well. The painstakingly vintage art-deco and belle-époque-style packaging for the luxury soaps, lotions, room diffusers and notebooks are all original – resurrected from the brand's design archives.
-For men, spend more than €50 and there's a free shave in the deal, taken in the shaving salon below.</Description>
-      <Address>Rua da Misericórdia 135</Address>
-      <AddressUrl>https://www.google.com/maps?q=Rua%20da%20Miseric%C3%B3rdia%20135</AddressUrl>
-      <WebPage>www.clausporto.com/pt</WebPage>
-      <WebPageUrl>//www.clausporto.com/pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1566,12 +1453,6 @@ For men, spend more than €50 and there's a free shave in the deal, taken in th
       <Name>Verso Branco</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
-      <Description>'Free verse' is the name of this split-level design store, where Fernando has a story for every object. The high-ceilinged space showcases Portuguese contemporary arts, crafts and furnishings, from Burel's quality wool creations to limited-edition La.Ga bags by designer Jorge Moita – the beautifully crafted bags made from Tyvek weigh just 40g and can hold 55kg.
-</Description>
-      <Address>Rua da Boavista 132-134</Address>
-      <AddressUrl>https://www.google.com/maps?q=Rua%20da%20Boavista%20132-134</AddressUrl>
-      <WebPage>www.versobranco.pt</WebPage>
-      <WebPageUrl>//www.versobranco.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1580,12 +1461,6 @@ For men, spend more than €50 and there's a free shave in the deal, taken in th
       <Name>Retrox</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
-      <Description>Stylish Brazilian Josiane Lima has assembled a collection of vintage kitsch from the '50s to the '70s, from Portugal and abroad, at this hip Intendente shop. The ever-changing bounty might feature Abba 45s, West German scales, Cuban cigar boxes, framed 1940 Comboios de Portugal train schedules or old-school Japanese Super 8 cameras.
-</Description>
-      <Address>Rua dos Anjos 4C</Address>
-      <AddressUrl>https://www.google.com/maps?q=Rua%20dos%20Anjos%204C</AddressUrl>
-      <WebPage>www.facebook.com/retroxcoisasvintage</WebPage>
-      <WebPageUrl>//www.facebook.com/retroxcoisasvintage</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1594,12 +1469,6 @@ For men, spend more than €50 and there's a free shave in the deal, taken in th
       <Name>Santos Ofícios</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
-      <Description>If you have always fancied a hand-embroidered fado shawl, check out this brick-vaulted store. Santos is a must-shop for Portuguese folk art, including Madeira lace, barro negro glazed earthenware from Molelos and miniature matchstick art from André Monteiro, among other high-quality, non-kitschy wares.
-</Description>
-      <Address>Rua da Madalena 87</Address>
-      <AddressUrl>https://www.google.com/maps?q=Rua%20da%20Madalena%2087</AddressUrl>
-      <WebPage>www.santosoficios-artesanato.pt</WebPage>
-      <WebPageUrl>//www.santosoficios-artesanato.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1608,12 +1477,6 @@ For men, spend more than €50 and there's a free shave in the deal, taken in th
       <Name>Sky Walker</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
-      <Description>This small, hipster men's boutique is a well-curated hot spot for picking up slimming Bellroy wallets from Australia, adult backpacks from Herschel Supply Co and Fjällräven, cool hats from Penfield and Komono sunglasses, as well as a stylish selection of sneakers, jackets, tees and accessories.
-</Description>
-      <Address>Rua do Norte 12</Address>
-      <AddressUrl>https://www.google.com/maps?q=Rua%20do%20Norte%2012</AddressUrl>
-      <WebPage>www.facebook.com/skywalkerlx</WebPage>
-      <WebPageUrl>//www.facebook.com/skywalkerlx</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1622,12 +1485,6 @@ For men, spend more than €50 and there's a free shave in the deal, taken in th
       <Name>Napoleão</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
-      <Description>Of the two Napoleão shops on this corner, this friendly, English-speaking cellar specialises in Portuguese-only wines, ports and spirits. There are hundreds of bottles to choose from (as well as other home-grown gourmet products) and it ships worldwide.
-</Description>
-      <Address>Rua dos Fanqueiros 70</Address>
-      <AddressUrl>https://www.google.com/maps?q=Rua%20dos%20Fanqueiros%2070</AddressUrl>
-      <WebPage>www.napoleao.co.pt</WebPage>
-      <WebPageUrl>//www.napoleao.co.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1636,12 +1493,6 @@ For men, spend more than €50 and there's a free shave in the deal, taken in th
       <Name>Cork &amp;amp; Company</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
-      <Description>At this elegantly designed shop, you'll find cork put to surprisingly imaginative uses, with well-made and sustainable cork handbags, pens, wallets, journals, candleholders, hats, scarves, place mats, umbrellas, iPhone covers and even chaise longues!
-</Description>
-      <Address>Rua das Salgadeiras 10</Address>
-      <AddressUrl>https://www.google.com/maps?q=Rua%20das%20Salgadeiras%2010</AddressUrl>
-      <WebPage>www.corkandcompany.pt</WebPage>
-      <WebPageUrl>//www.corkandcompany.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1655,7 +1506,7 @@ Rooms range from petite to spacious, and the best room has fine views of Rossio 
       <Address>Largo de São Domingos 18</Address>
       <AddressUrl>https://www.google.com/maps?q=Largo%20de%20S%C3%A3o%20Domingos%2018</AddressUrl>
       <WebPage>www.lisbonstoryguesthouse.com</WebPage>
-      <WebPageUrl>//www.lisbonstoryguesthouse.com</WebPageUrl>
+      <WebPageUrl>https://www.lisbonstoryguesthouse.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Hotels</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1669,7 +1520,7 @@ Rooms feature king-size beds graced with luxury Sampedro linens, Claus Porto bat
       <Address>Rua de Santiago 10</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20de%20Santiago%2010</AddressUrl>
       <WebPage>www.santiagodealfama.com</WebPage>
-      <WebPageUrl>//www.santiagodealfama.com</WebPageUrl>
+      <WebPageUrl>https://www.santiagodealfama.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Hotels</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1683,7 +1534,7 @@ The 24-sq-metre pool (really a large hot tub) beckons after a long day of sights
       <Address>Av da Liberdade 164</Address>
       <AddressUrl>https://www.google.com/maps?q=Av%20da%20Liberdade%20164</AddressUrl>
       <WebPage>www.valverdehotel.com</WebPage>
-      <WebPageUrl>//www.valverdehotel.com</WebPageUrl>
+      <WebPageUrl>https://www.valverdehotel.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Hotels</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1697,7 +1548,7 @@ There’s a pool framed by herb gardens and adjacent sauna, a wood-panelled libr
       <Address>Páteo Dom Fradique 14</Address>
       <AddressUrl>https://www.google.com/maps?q=P%C3%A1teo%20Dom%20Fradique%2014</AddressUrl>
       <WebPage>www.palaciobelmonte.com</WebPage>
-      <WebPageUrl>//www.palaciobelmonte.com</WebPageUrl>
+      <WebPageUrl>https://www.palaciobelmonte.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Hotels</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1706,6 +1557,12 @@ There’s a pool framed by herb gardens and adjacent sauna, a wood-panelled libr
       <Name>Casa do Príncipe</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>Perfectly located and exquisitely restored (and accordingly priced to shock!), this 14-room B&amp;amp;B is housed inside what was once the same 19th-century neo-Moorish palace as Embaixada next door. Original frescoes, azulejos and ornate moulded ceilings adorn the hardwood halls and spacious rooms, which are themed after the life of King Dom Pedro V. Indeed, you'll sleep like royalty here yourself.
+The best rooms – that imperial suite! – draw natural light and have Jardim Botânico views.</Description>
+      <Address>Praça do Príncipe Real 23</Address>
+      <AddressUrl>https://www.google.com/maps?q=Pra%C3%A7a%20do%20Pr%C3%ADncipe%20Real%2023</AddressUrl>
+      <WebPage>www.casadoprincipe.com</WebPage>
+      <WebPageUrl>https://www.casadoprincipe.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Hotels</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1714,6 +1571,12 @@ There’s a pool framed by herb gardens and adjacent sauna, a wood-panelled libr
       <Name>Lisbon Calling</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>This fashionable, unsigned backpacker favourite near Santa Catarina features original frescoes, azulejos and hardwood floors – all lovingly restored by friendly Portuguese owners. The bright, spacious dorms and a brick-vaulted kitchen are easy on the eye, but the private rooms – specifically room 1812 – will floor you: boutique-hotel-level dens of style and comfort that thunderously out-punch their price point.
+Lisbon Calling has also opened a second location with five suites near Av da Liberdade.</Description>
+      <Address>Rua de São Paulo 126, 3rd fl</Address>
+      <AddressUrl>https://www.google.com/maps?q=Rua%20de%20S%C3%A3o%20Paulo%20126,%203rd%20fl</AddressUrl>
+      <WebPage>www.lisboncalling.net</WebPage>
+      <WebPageUrl>https://www.lisboncalling.net</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Hotels</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1722,6 +1585,12 @@ There’s a pool framed by herb gardens and adjacent sauna, a wood-panelled libr
       <Name>Lisbon Destination Hostel</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>Housed in Lisbon's loveliest train station, this world-class hostel has a glass ceiling that lights the spacious plant-filled common area. Rooms are crisp and well kept, and there are loads of activities (bar crawls, beach day trips, etc). Facilities include a shared kitchen, game consoles, movie room (with popcorn) and a 24-hour self-service bar. The breakfast with crêpes and fresh fruit is top-notch.
+</Description>
+      <Address>Rossio train station, 2nd fl</Address>
+      <AddressUrl>https://www.google.com/maps?q=Rossio%20train%20station,%202nd%20fl</AddressUrl>
+      <WebPage>www.followyourdestination.com</WebPage>
+      <WebPageUrl>https://www.followyourdestination.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Hotels</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1730,6 +1599,12 @@ There’s a pool framed by herb gardens and adjacent sauna, a wood-panelled libr
       <Name>Palácio Verride</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>The 19-room Palácio Verride, dating to the 1750s, was once the stomping ground of Count Verride, whose former dining room now makes up the extraordinary Queen Suite, awash in original azulejos, hand-painted silk wallpaper and one of Portugal's most lavish bathtubs. Elsewhere, custom-designed furniture and heated wooden flooring offer a contemporary Nordic-ish counterpoint to marble and pre-earthquake luxury.
+Criatura, the casual dining option, is decked out with custom Vista Alegre tableware and a photo exhibition on loan from Museu Coleção Berardo, while Suba, the fine-dining rooftop restaurant, sits on a towering lookout that offers downtown Lisbon's only 360-degree city view. The whole thing is a discerning bastion of Scandinavian-evoking style, while not losing sight of its historic past.</Description>
+      <Address>Rua de Santa Catarina 1</Address>
+      <AddressUrl>https://www.google.com/maps?q=Rua%20de%20Santa%20Catarina%201</AddressUrl>
+      <WebPage>www.verridesc.pt</WebPage>
+      <WebPageUrl>https://www.verridesc.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Hotels</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1738,6 +1613,12 @@ There’s a pool framed by herb gardens and adjacent sauna, a wood-panelled libr
       <Name>Memmo Alfama</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>Slip down a narrow alley to reach this gorgeous Alfama boutique option, a stunning conversion of a shoe-polish factory and former bakery. The rooms are an ode to whitewashed minimalism and staff are as sleek as the decor, with their uniform-issued retro New Balance sneakers and hipster aura. The view down to the Rio Tejo from the roof terrace is phenomenal.
+Memmo has been designed as a kind of open house and goes the extra mile to make guests feel at home, with a doodle pad by your bed, a morning honesty bar, a brick-domed library and an elevator entrance (the bakery's massive former ovens), and the iPod docks in every room.</Description>
+      <Address>Tv Merceeiras 27</Address>
+      <AddressUrl>https://www.google.com/maps?q=Tv%20Merceeiras%2027</AddressUrl>
+      <WebPage>www.memmoalfama.com</WebPage>
+      <WebPageUrl>https://www.memmoalfama.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Hotels</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1746,6 +1627,12 @@ There’s a pool framed by herb gardens and adjacent sauna, a wood-panelled libr
       <Name>Casa Amora</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>Casa Amora has 11 beautifully designed guest rooms and studio apartments, with eye-catching art and iPod docks. There's a lovely garden patio where the first-rate breakfast is served out of a Smeg-filled kitchen. It's located in the peaceful neighbourhood of Amoreiras, a few steps from one of Lisbon's prettiest squares.
+Rooms are bright, elegantly furnished and uniquely designed, and each pays homage to a different Portuguese persona (such as poet Fernando Pessoa, fadista Amália Rodrigues and painter Amadeo de Souza Cardoso).</Description>
+      <Address>Rua João Penha 13</Address>
+      <AddressUrl>https://www.google.com/maps?q=Rua%20Jo%C3%A3o%20Penha%2013</AddressUrl>
+      <WebPage>www.casaamora.com</WebPage>
+      <WebPageUrl>https://www.casaamora.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Hotels</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1754,6 +1641,12 @@ There’s a pool framed by herb gardens and adjacent sauna, a wood-panelled libr
       <Name>Casa Balthazar</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>Tucked down a quiet lane, Casa Balthazar has undeniable appeal, with spacious, beautifully furnished rooms that bridge art deco with the 21st century, plus friendly service and a grassy courtyard with a pool. Each of the 17 rooms has been appointed with high-end fittings (iPod docks, big flat-screen TVs, luxury bedding), and pricier rooms have magnificent views (some with private Jacuzzi terraces).
+There's also a spa and fitness centre.</Description>
+      <Address>Rua do Duque 26</Address>
+      <AddressUrl>https://www.google.com/maps?q=Rua%20do%20Duque%2026</AddressUrl>
+      <WebPage>www.casabalthazarlisbon.com</WebPage>
+      <WebPageUrl>https://www.casabalthazarlisbon.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Hotels</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1762,6 +1655,12 @@ There’s a pool framed by herb gardens and adjacent sauna, a wood-panelled libr
       <Name>Lisboa Carmo Hotel</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>On the edge of one of Lisbon's prettiest plazas, this 45-room hotel has classically designed rooms, the best of which have sweeping Lisbon views. It earns high marks for its use of Portuguese products both in the rooms (bed linens, towels, bath products) and in the pleasant ground-floor restaurant.
+In summer you can take your breakfast at its private seating on the square.</Description>
+      <Address>Rua da Oliveira ao Carmo 1</Address>
+      <AddressUrl>https://www.google.com/maps?q=Rua%20da%20Oliveira%20ao%20Carmo%201</AddressUrl>
+      <WebPage>https://carmo.luxhotels.pt</WebPage>
+      <WebPageUrl>https://carmo.luxhotels.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Hotels</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1770,6 +1669,12 @@ There’s a pool framed by herb gardens and adjacent sauna, a wood-panelled libr
       <Name>Home Lisbon Hostel</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>In the heart of Baixa, this high-security hostel is one of the best maintained you'll come across. Facilities are above and beyond, from the professional-grade bar/reception to dark hardwood bunks spread across various floors with privacy curtains that might as well be luxury drapes. It's a family-run oasis, with the doting matriarch, known affectionately as Mamma, even cooking for guests.
+It has won the Hoscar for Best Hostel in the World five years running. A new floor, acquired in 2018, houses private rooms.</Description>
+      <Address>Rua São Nicolau 13</Address>
+      <AddressUrl>https://www.google.com/maps?q=Rua%20S%C3%A3o%20Nicolau%2013</AddressUrl>
+      <WebPage>www.homelisbonhostel.com</WebPage>
+      <WebPageUrl>https://www.homelisbonhostel.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Hotels</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1778,6 +1683,12 @@ There’s a pool framed by herb gardens and adjacent sauna, a wood-panelled libr
       <Name>Hotel 1908</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>This phenomenally restored 1908 art-nouveau bed-down just might be Lisbon's coolest new hotel. The 36 rooms feature French-style doors to seal off double-glazed windows facing the avenue or Intendente square, plus vintage phones, wools throws by Burel Factory and B&amp;amp;W photos of the building's transformation. But its public art installations are what stand out the most.
+There's a who's who of Lisbon's most cutting-edge street and visual artists, with striking displays by Bordallo II in the lobby (beetle) and bar (dragonfly), an elevator mural by Vanessa Teodoro that ascends/descends through the building's history (it was once a brothel), a recycled wire Spiderman by David Oliveira in the stairwell, and burlesque-style pieces throughout by Irmãos Marques. It all comes together in the high-design bar among rough-hewn hardwood walls and arched exposed-brick ceilings.</Description>
+      <Address>Largo do Intendente 6</Address>
+      <AddressUrl>https://www.google.com/maps?q=Largo%20do%20Intendente%206</AddressUrl>
+      <WebPage>www.1908lisboahotel.com</WebPage>
+      <WebPageUrl>https://www.1908lisboahotel.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Hotels</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1786,6 +1697,12 @@ There’s a pool framed by herb gardens and adjacent sauna, a wood-panelled libr
       <Name>Pousada de Lisboa</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>Location, location, location! Portugal's Pestana chain hit the jackpot in 2015 with this privileged position on Praça do Comércio. A €70-million renovation turned the former Ministry of Internal Affairs into a cosy pousada (upmarket inn) with museum-like qualities. Sculptures throughout represent epic moments in Portuguese history and, yes, you can sit on those 13th-century liteiras (litters).
+The beautiful breakfast courtyard features a retractable roof, while purple-toned hallways leading to soft green-and-grey-hued abodes feel vaguely ecclesiastical. There's also a sociable bar that seats nearly 40 at the accompanying RIB restaurant, a successful Porto transplant that deals in serious carne.</Description>
+      <Address>Praça do Comércio 31</Address>
+      <AddressUrl>https://www.google.com/maps?q=Pra%C3%A7a%20do%20Com%C3%A9rcio%2031</AddressUrl>
+      <WebPage>www.pestana.com/en/hotel/pousada-lisboa</WebPage>
+      <WebPageUrl>https://www.pestana.com/en/hotel/pousada-lisboa</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Hotels</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1794,6 +1711,12 @@ There’s a pool framed by herb gardens and adjacent sauna, a wood-panelled libr
       <Name>Altis Belém</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>This hypermodern boutique hotel near Lisbon's waterfront offers stylish rooms that present relationship-defining bathrooms: do you opt for a room with a transparent glass-walled marble bathroom, or the blacked-out version? Either way, even standard rooms boast all the high-end fittings – Egyptian-cotton bed linen, modish chaise longues – and the best have enviable views over the Rio Tejo and Torre de Belém.
+There’s also a spa and several enticing restaurants, including Michelin-starred Feitoria, and a fabulously trendy bar with a marina-facing deck, Bar 38° 41’.</Description>
+      <Address>Doca do Bom Sucesso</Address>
+      <AddressUrl>https://www.google.com/maps?q=Doca%20do%20Bom%20Sucesso</AddressUrl>
+      <WebPage>www.altishotels.com</WebPage>
+      <WebPageUrl>https://www.altishotels.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Hotels</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1802,6 +1725,12 @@ There’s a pool framed by herb gardens and adjacent sauna, a wood-panelled libr
       <Name>Independente</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>On the edge of the Bairro Alto, this superstylish hostel has 11 dorm rooms (with six to 12 beds in each) and four mid-century-modern-leaning minimalist suites with balconies overlooking the Rio Tejo. There are two great restaurants here: Decadente – modern Portuguese, creative cocktails – and the more chef-driven and pricier Insólito (mains €20).Light sleepers beware: noise can be an issue.
+Next door, Suites &amp;amp; Terrace offers more heterogeneously decorated private rooms (with Indian tapestries, tattered antiques and classic Portuguese film posters).</Description>
+      <Address>Rua de São Pedro de Alcântara 81</Address>
+      <AddressUrl>https://www.google.com/maps?q=Rua%20de%20S%C3%A3o%20Pedro%20de%20Alc%C3%A2ntara%2081</AddressUrl>
+      <WebPage>www.theindependente.pt</WebPage>
+      <WebPageUrl>https://www.theindependente.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Hotels</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1810,6 +1739,12 @@ There’s a pool framed by herb gardens and adjacent sauna, a wood-panelled libr
       <Name>Late Birds</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>Billed as a 'gay urban resort', this fabulous Bairro Alto place is better described as a high-style guesthouse where gay couples (and those that are straight but not narrow) can feel welcome and comfortable. The design-forward public spaces (sexy lounge, small pool and garden patio) are perfectly minimalist, and the 16 whitewashed rooms all have desktop iMacs.
+Friendly owner Carlos may have flipped this formerly condemned space (as evidenced by the artsy 'before' and 'after' photos) into a hip cityscape, but he's not afraid to live off the land, either – all the fruit and breakfast ingredients come from his garden.</Description>
+      <Address>Tv André Valente 21-21A</Address>
+      <AddressUrl>https://www.google.com/maps?q=Tv%20Andr%C3%A9%20Valente%2021-21A</AddressUrl>
+      <WebPage>www.thelatebirdslisbon.com</WebPage>
+      <WebPageUrl>https://www.thelatebirdslisbon.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Hotels</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1823,7 +1758,7 @@ The Versailles-like gardens hosts picnic-style summer brunches and BBQs – open
       <Address>Rua Jau 54</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20Jau%2054</AddressUrl>
       <WebPage>www.pestana.com/pt/hotel/pestana-palace</WebPage>
-      <WebPageUrl>//www.pestana.com/pt/hotel/pestana-palace</WebPageUrl>
+      <WebPageUrl>https://www.pestana.com/pt/hotel/pestana-palace</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Hotels</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1837,7 +1772,7 @@ Everything in the hotel revolves around a singular concept: keep the kids entert
       <Address>Rua das Flores 44</Address>
       <AddressUrl>https://www.google.com/maps?q=Rua%20das%20Flores%2044</AddressUrl>
       <WebPage>www.martinhal.com</WebPage>
-      <WebPageUrl>//www.martinhal.com</WebPageUrl>
+      <WebPageUrl>https://www.martinhal.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Hotels</PlaceType>
       <RegionType>Lisbon</RegionType>
