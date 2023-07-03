@@ -70,15 +70,14 @@ Guarding the entrance is a 3m-high bronze statue of King Sancho I.There's a snac
     </Place>
     <Place>
       <Name>Igreja de São Lourenço de Matos</Name>
-      <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
-      <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
-      <Description>This baroque masterpiece was built on the site of a ruined chapel after locals, while digging a well, implored Saint Lawrence for help and then struck water. Constructed by brothers Antão and Manuel Borges, it's smothered in azulejos (hand-painted tiles) – even the ceiling – depicting the saint's life and death. In the 1755 earthquake, only five tiles fell from the roof.It's 9km south of Loulé; buses (€2.35, 15 minutes, up to two per hour) stop 2.5km west in Almancil's centre.
-</Description>
-      <Address>Rua da Igreja, Almancil</Address>
-      <AddressUrl>https://www.google.com/maps?q=Rua%20da%20Igreja,%20Almancil</AddressUrl>
+      <Thumbimageuri>https://lp-cms-production.imgix.net/2019-06/1169e9ca9f49b40862d928ede6ee3a27-igreja-de-nossa-senhora-do-carmo-capela-dos-ossos.jpg?auto=format&amp;w=250&amp;h=250&amp;fit=crop&amp;q=40</Thumbimageuri>
+      <FullImageUri>https://lp-cms-production.imgix.net/2019-06/1169e9ca9f49b40862d928ede6ee3a27-igreja-de-nossa-senhora-do-carmo-capela-dos-ossos.jpg?auto=format&amp;w=1920&amp;h=640&amp;fit=crop&amp;crop=faces,edges&amp;q=75</FullImageUri>
+      <Description>One of the Algarve's most dazzling churches, this twin-towered baroque masterpiece was completed in 1719 under João V. After the 1755 earthquake, its spectacular facade was paid for with Brazilian gold, and the interior is gilded to the extreme, with numerous cherubs. Accessed through the church at the back, the 19th-century Capela dos Ossos is built from the bones and skulls of over 1000 monks as a reminder of earthly impermanence. It's quite a sight.</Description>
+	  <Address>Largo do Carmo</Address>
+      <AddressUrl>https://www.google.com/maps?q=Largo%20do%20Carmo</AddressUrl>
       <WebPage>www.diocese-algarve.pt</WebPage>
       <WebPageUrl>https://www.diocese-algarve.pt</WebPageUrl>
-      <Like>false</Like>
+	  <Like>false</Like>
       <PlaceType>Attractions</PlaceType>
       <RegionType>Algarve</RegionType>
     </Place>
@@ -122,6 +121,12 @@ Guarding the entrance is a 3m-high bronze statue of King Sancho I.There's a snac
       <Name>Museu do Traje</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>Encased in azulejos, this beautifully maintained museum occupies a former cork magnate’s mansion, which retains its original kitchen. It displays an ever-changing exhibition of local costumes, of which there are 15,000 in the museum store (free two-hour tours of the store take place on the last Tuesday of the month). The outbuildings have a presentation on the local cork industry, a huge collection of old carriages, an art gallery (hosting regular music events, including fado) and a cafe.
+</Description>
+      <Address>Rua Dr José Dias Sancho 61</Address>
+      <AddressUrl>https://www.google.com/maps?q=Rua%20Dr%20Jos%C3%A9%20Dias%20Sancho%2061</AddressUrl>
+      <WebPage>www.museu-sbras.com</WebPage>
+      <WebPageUrl>https://www.museu-sbras.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Attractions</PlaceType>
       <RegionType>Algarve</RegionType>
@@ -129,7 +134,9 @@ Guarding the entrance is a 3m-high bronze statue of King Sancho I.There's a snac
     <Place>
       <Name>Praia da Ilha de Tavira</Name>
       <Thumbimageuri>https://lp-cms-production.imgix.net/2019-06/6fd8dda9226fdeb6f0c54001d9cd68f2-ilha-da-tavira.jpg?auto=format&amp;amp;w=250&amp;amp;h=250&amp;amp;fit=crop&amp;amp;q=40</Thumbimageuri>
-      <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <FullImageUri>https://lp-cms-production.imgix.net/2019-06/6fd8dda9226fdeb6f0c54001d9cd68f2-ilha-da-tavira.jpg?auto=format&amp;amp;w=1920&amp;amp;h=640&amp;amp;fit=crop&amp;amp;crop=faces,edges&amp;amp;q=75</FullImageUri>
+      <Description>This huge white-sand beach at the island's eastern end, opposite Tavira, has operators for water sports (such as windsurfing and kitesurfing), beach bars and a campground in summer. Outside the peak months of July and August, it feels wonderfully remote and empty.
+</Description>
       <Like>false</Like>
       <PlaceType>Attractions</PlaceType>
       <RegionType>Algarve</RegionType>
@@ -138,6 +145,12 @@ Guarding the entrance is a 3m-high bronze statue of King Sancho I.There's a snac
       <Name>Monterosa Olive Oil</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>Hour-long tours at this gold medal–winning olive oil producer take you around part of the 20-hectare estate showing you the five different varieties of olive trees that are handpicked in autumn, and the Roman-era press in a granite mill where the fruit is ground to a paste before the oil is extracted and filtered, finishing with a tasting. Even if you're not doing a tour, you can stop by its onsite shop to buy oils to take home.
+</Description>
+      <Address>Horta do Felix, Moncarapacho</Address>
+      <AddressUrl>https://www.google.com/maps?q=Horta%20do%20Felix,%20Moncarapacho</AddressUrl>
+      <WebPage>www.monterosa-oliveoil.com</WebPage>
+      <WebPageUrl>https://www.monterosa-oliveoil.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Attractions</PlaceType>
       <RegionType>Algarve</RegionType>
@@ -146,6 +159,12 @@ Guarding the entrance is a 3m-high bronze statue of King Sancho I.There's a snac
       <Name>Nova Cortiça</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>On these fascinating behind-the-scenes cork factory tours, you'll learn about the tree's life cycle, harvesting and the manufacturing process, from drying to the production of wine and champagne corks. It also showcases other uses for the versatile material, such as clothing, footwear, bags and even furniture. Guided tours last 90 minutes and are in English and Portuguese.
+</Description>
+      <Address>Parque Industrial da Barracha</Address>
+      <AddressUrl>https://www.google.com/maps?q=Parque%20Industrial%20da%20Barracha</AddressUrl>
+      <WebPage>www.novacortica.pt</WebPage>
+      <WebPageUrl>https://www.novacortica.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Attractions</PlaceType>
       <RegionType>Algarve</RegionType>
@@ -154,6 +173,12 @@ Guarding the entrance is a 3m-high bronze statue of King Sancho I.There's a snac
       <Name>Fiesa</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>Fiesa is the world's biggest sand-sculpture contest. Artists are given 45,000 tonnes of sand to sculpt, and their truly amazing creations (up to 12m high and illuminated at night) can be admired throughout the season. It's 13km northwest of Albufeira, just off the N125 in the inland area of Pêra.
+</Description>
+      <Address>Pêra</Address>
+      <AddressUrl>https://www.google.com/maps?q=P%C3%AAra</AddressUrl>
+      <WebPage>www.fiesa.org</WebPage>
+      <WebPageUrl>https://www.fiesa.org</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Attractions</PlaceType>
       <RegionType>Algarve</RegionType>
@@ -162,6 +187,8 @@ Guarding the entrance is a 3m-high bronze statue of King Sancho I.There's a snac
       <Name>Praia da Falésia</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>One of the Algarve's most impressive beaches is this 6km-long strip of sand backed by stunning cliffs in several shades of ochre. Starting 8.5km east of Albufeira, the strand gets very crowded in summer, especially when the tide is in, but in low season it's all yours.
+</Description>
       <Like>false</Like>
       <PlaceType>Attractions</PlaceType>
       <RegionType>Algarve</RegionType>
@@ -169,7 +196,13 @@ Guarding the entrance is a 3m-high bronze statue of King Sancho I.There's a snac
     <Place>
       <Name>Milreu Ruins</Name>
       <Thumbimageuri>https://lp-cms-production.imgix.net/2019-06/a722205796e0a1185cba877f4c530aa9-milreu-ruins.jpg?auto=format&amp;amp;w=250&amp;amp;h=250&amp;amp;fit=crop&amp;amp;q=40</Thumbimageuri>
-      <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <FullImageUri>https://lp-cms-production.imgix.net/2019-06/a722205796e0a1185cba877f4c530aa9-milreu-ruins.jpg?auto=format&amp;amp;w=1920&amp;amp;h=640&amp;amp;fit=crop&amp;amp;crop=faces,edges&amp;amp;q=75</FullImageUri>
+      <Description>Situated 900m west of Estói, these Roman villa ruins are so large and grand they were originally thought to have been a town. The villa, inhabited from the 1st century AD, has the characteristic peristyle form, with a gallery of columns around a courtyard. The highlight is the temple devoted to a water deity, the fish mosaics and former central pool. At the entrance is a small museum with a scale model of the temple in its glory days.
+The fish mosaics in the bathing chambers (to the west of the villa's courtyard) provide a tantalising glimpse of the villa’s former glory. The remains of the bathing rooms also include the apodyterium (changing room; note the arched niches and benches for clothes and postbath massage) and the frigidarium, which had a marble basin to hold cold water for cooling off after a bath.Other luxuries included underground heating and marble sculptures (now displayed at Faro's Museu Municipal).In the 6th century the temple was converted into a church, and a small mausoleum was added, and in the 8th century it was converted into a mosque. In the 10th century it collapsed, possibly due to an earthquake, and the site was abandoned. In the 15th century, a farmhouse was constructed within the abandoned site (the house, much modified, is still there today).Faro–Estói buses stop at the site.</Description>
+      <Address>Rua de Faro</Address>
+      <AddressUrl>https://www.google.com/maps?q=Rua%20de%20Faro</AddressUrl>
+      <WebPage>www.monumentosdoalgarve.pt</WebPage>
+      <WebPageUrl>https://www.monumentosdoalgarve.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Attractions</PlaceType>
       <RegionType>Algarve</RegionType>
@@ -177,8 +210,15 @@ Guarding the entrance is a 3m-high bronze statue of King Sancho I.There's a snac
     <Place>
       <Name>Cabo de São Vicente</Name>
       <Thumbimageuri>https://lp-cms-production.imgix.net/2019-06/41722a5b63b8187663cfd5f1553908a4-cabo-de-sao-vicente.jpg?auto=format&amp;amp;w=250&amp;amp;h=250&amp;amp;fit=crop&amp;amp;q=40</Thumbimageuri>
-      <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
-      <Like>false</Like>
+      <FullImageUri>https://lp-cms-production.imgix.net/2019-06/41722a5b63b8187663cfd5f1553908a4-cabo-de-sao-vicente.jpg?auto=format&amp;w=1920&amp;h=640&amp;fit=crop&amp;crop=faces,edges&amp;q=75</FullImageUri>
+      <Description>Europe’s southwesternmost point is a barren headland 6km northwest of Sagres' town centre that was the last piece of home that Portuguese sailors once saw as they launched into the unknown. It's a spectacular spot: at sunset you can almost hear the hissing as the sun hits the sea. A red lighthouse houses a small but excellent museum showcasing Sagres' role in Portugal’s maritime history.
+
+The cape – a revered place even in the time of the Phoenicians and known to the Romans as Promontorium Sacrum – takes its present name from a Spanish priest martyred by the Romans. The old fortifications, trashed by Francis Drake in 1587, were later pulverised by the 1755 earthquake.
+
+Before reaching the lighthouse, you'll pass the ruined fortress Fortaleza do Beliche.</Description>
+      <Address>N258</Address>
+      <AddressUrl>https://www.google.com/maps?q=N258</AddressUrl>
+	  <Like>false</Like>
       <PlaceType>Attractions</PlaceType>
       <RegionType>Algarve</RegionType>
     </Place>
@@ -186,6 +226,10 @@ Guarding the entrance is a 3m-high bronze statue of King Sancho I.There's a snac
       <Name>Fortaleza de Sagres</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>Blank, hulking and forbidding, Sagres’ fortress offers breathtaking views over the sheer cliffs, and all along the coast to Cabo de São Vicente. Legend has it that this is where Prince Henry the Navigator established his navigation school. It's quite a large site, so allow at least an hour to see everything.
+Inside the gate is a huge, curious stone pattern that measures 43m in diameter. Named the rosa dos ventos (literally, a pictorial representation of a compass), this strange configuration is believed to be a mariner’s compass or a sundial of sorts. Excavated in 1921, the paving may date from Prince Henry’s time but is more likely to be from the 16th century.The precinct’s oldest buildings include a cistern tower to the east, a house and the small, whitewashed, 16th-century Igreja de Nossa Senhora da Graça, a simple barrel-vaulted structure with a gilded 17th-century altarpiece. Take a closer look at the tiled altar panels, which feature elephants and antelopes.Many of the gaps you see between buildings are the result of a 1960s spring clean of 17th- and 18th-century ruins that was organised to make way for a reconstruction (later aborted) that was to coincide with the 500th anniversary of Henry’s death.Its visitors centre contains a gift shop, an exhibition centre and a cafe.It's a great walk around the perimeter of the promontory; information boards (in English and Portuguese) shed light on the rich flora and fauna of the area. Don't miss the limestone crevices descending to the sea, or the labyrinth art installation by Portugal's famous sculptor-architect Pancho Guedes.Near the southern end of the promontory is a lighthouse. Death-defying anglers balance on the cliffs below the walls, hoping to land bream or sea bass.</Description>
+      <WebPage>www.monumentosdoalgarve.pt</WebPage>
+      <WebPageUrl>https://www.monumentosdoalgarve.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Attractions</PlaceType>
       <RegionType>Algarve</RegionType>
@@ -193,7 +237,9 @@ Guarding the entrance is a 3m-high bronze statue of King Sancho I.There's a snac
     <Place>
       <Name>Praia de Faro</Name>
       <Thumbimageuri>https://lp-cms-production.imgix.net/2019-06/fce5d53882c2d6dfe794684d9775dae6-praia-de-faro.jpg?auto=format&amp;amp;w=250&amp;amp;h=250&amp;amp;fit=crop&amp;amp;q=40</Thumbimageuri>
-      <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <FullImageUri>https://lp-cms-production.imgix.net/2019-06/fce5d53882c2d6dfe794684d9775dae6-praia-de-faro.jpg?auto=format&amp;amp;w=1920&amp;amp;h=640&amp;amp;fit=crop&amp;amp;crop=faces,edges&amp;amp;q=75</FullImageUri>
+      <Description>On the Ilha de Faro, 9km west of the centre, the town's beach has sweeping sand, windsurfing and kitesurfing operators, and a handful of cafes. It's crammed in high summer. Take bus 14 or 16 from the bus station (€2.30, 20 minutes, up to two per hour daily July to September, hourly Monday to Friday only October to June).
+</Description>
       <Like>false</Like>
       <PlaceType>Attractions</PlaceType>
       <RegionType>Algarve</RegionType>
@@ -202,6 +248,12 @@ Guarding the entrance is a 3m-high bronze statue of King Sancho I.There's a snac
       <Name>Castelo</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>Castro Marim's huge castle has an intriguing borderland history. Much of the area was destroyed in the 1755 earthquake, but the ruins of the main fort are still impressive. Inside the evocative, derelict castle walls stands a 14th-century church, the Igreja de Santiago, where Prince Henry the Navigator is said to have prayed. A small museum displays local artefacts dating back to the Iron Age. Most unforgettable are the views across the salt flats and into Spain.
+In the 13th century, Dom Afonso III built this castle over Moorish and Roman foundations in a dramatic and strategic position for spying on the Spanish frontier. In 1319 it became the first headquarters of the religious military order known as the Order of Christ, formerly the Knights Templar. Until they moved to Tomar in 1334, they used this castle to keep watch over the estuary of the Rio Guadiana and Spain.Most of the grand stretch of ruins today, however, dates from the 17th century, when Dom João IV ordered the addition of vast ramparts. At the same time, Forte de São Sebastião, a smaller fort (closed to the public), was built on a nearby hilltop.A medieval fair takes place in and around the castle over the last weekend in August.</Description>
+      <Address>Travessa do Castelo</Address>
+      <AddressUrl>https://www.google.com/maps?q=Travessa%20do%20Castelo</AddressUrl>
+      <WebPage>www.cm-castromarim.pt</WebPage>
+      <WebPageUrl>https://www.cm-castromarim.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Attractions</PlaceType>
       <RegionType>Algarve</RegionType>
@@ -278,6 +330,10 @@ Kids' dishes cost €8.</Description>
       <Name>A Eira do Mel</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>A rustic former farmhouse 9km north of Sagres is the atmospheric setting for José Pinheiro's lauded slow-food cooking. Seafood is landed in Sagres, with meats, vegetables and fruit sourced from local farms. Dishes such as octopus cataplana with sweet potatoes, spicy piri-piri Atlantic wild shrimp, rabbit in red wine, and javali are accompanied by regional wines.
+</Description>
+      <Address>Estrada do Castelejo, Vila do Bispo</Address>
+      <AddressUrl>https://www.google.com/maps?q=Estrada%20do%20Castelejo,%20Vila%20do%20Bispo</AddressUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Algarve</RegionType>
@@ -286,6 +342,12 @@ Kids' dishes cost €8.</Description>
       <Name>Restaurante O Barradas</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>The star choice for foodies is this converted farmhouse 4.5km south of Silves, which utilises sustainably sourced fish and organic meat and vegetables in creations like slow-cooked suckling pig, char-grilled octopus with sweet potato, and fava bean and chorizo stew. The owner is a winemaker, whose wares appear on the wine list alongside vintages from Portugal's finest wineries.
+</Description>
+      <Address>Palmeirinha</Address>
+      <AddressUrl>https://www.google.com/maps?q=Palmeirinha</AddressUrl>
+      <WebPage>www.obarradas.com</WebPage>
+      <WebPageUrl>https://www.obarradas.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Algarve</RegionType>
@@ -294,6 +356,10 @@ Kids' dishes cost €8.</Description>
       <Name>O Tonel</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>Contemporary Portuguese cuisine is complemented by a striking dining room of scarlet walls and azulejos. Begin with petiscos like chorizo sautéed in Medronho (local brandy) or clam-and-mackerel pâté served in a tin with crusty bread, before moving on to mains such as almond-crusted pork or carob-marinated lamb. Wines come from all over Portugal. Book ahead.
+</Description>
+      <Address>Rua Dr Augo Silva Carvalho 6</Address>
+      <AddressUrl>https://www.google.com/maps?q=Rua%20Dr%20Augo%20Silva%20Carvalho%206</AddressUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Algarve</RegionType>
@@ -302,6 +368,12 @@ Kids' dishes cost €8.</Description>
       <Name>Vila Joya Restaurant</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>Helmed by Austrian chef Dieter Koschina, this fine-dining restaurant in the Vila Joya resort was Portugal's first to gain two Michelin stars. Koschina draws on a variety of culinary influences and premium Portuguese produce to create exquisite dishes such as confit bacalhau with goat's-milk yoghurt and beetroot coulis, or roast goose liver with smoked eel and caviar.
+</Description>
+      <Address>Estrada da Galé</Address>
+      <AddressUrl>https://www.google.com/maps?q=Estrada%20da%20Gal%C3%A9</AddressUrl>
+      <WebPage>www.vilajoya.com</WebPage>
+      <WebPageUrl>https://www.vilajoya.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Algarve</RegionType>
@@ -310,6 +382,12 @@ Kids' dishes cost €8.</Description>
       <Name>Restaurante Madeirense</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>For an exotic take on Portuguese cuisine, this small Madeiran restaurant bangs down plates loaded with specialities you'll only get on the Island of Eternal Spring. Espada (scabbard fish), bolo de caco (potato bread) and pudim de maracuja (maracuja pudding) are just some of the treats on offer; round things off with a poncha (sugar-cane liqueur) or sweet Madeira wine.
+The interior is bedecked with Madeiran knick-knacks and the tables are dressed with the striking national folk cloth of Madeira (red with multicoloured stripes).</Description>
+      <Address>Rua 1 Dezembro 28</Address>
+      <AddressUrl>https://www.google.com/maps?q=Rua%201%20Dezembro%2028</AddressUrl>
+      <WebPage>www.facebook.com/restaurantemadeirensefamilia</WebPage>
+      <WebPageUrl>https://www.facebook.com/restaurantemadeirensefamilia</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Algarve</RegionType>
@@ -318,6 +396,12 @@ Kids' dishes cost €8.</Description>
       <Name>Estaminé</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>Built to look like a crab when viewed from above, this remote restaurant rises up on boardwalks from the Ilha da Barreta as its sole building. It's an entirely self-sufficient operation, using 100% solar power and desalinated water. Fresh-as-it-gets seafood dishes span Ria Formosa oysters, cracked crab and lobster to char-grilled prawns and fish, and aromatic stews.
+It's owned by Animaris, which operates the ferry service here.</Description>
+      <Address>Ilha da Barreta</Address>
+      <AddressUrl>https://www.google.com/maps?q=Ilha%20da%20Barreta</AddressUrl>
+      <WebPage>www.estamine.deserta.pt</WebPage>
+      <WebPageUrl>https://www.estamine.deserta.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Algarve</RegionType>
@@ -326,6 +410,12 @@ Kids' dishes cost €8.</Description>
       <Name>Pastelaria Rosa</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>Wrought-iron chairs fill the traditional blue-and-white tiled interior and pavement terrace at this atmospheric cafe. House-baked treats include bolos de arroz (orange rice-flour cakes) and folhados de maçã (apple and almond pastries); it also serves breakfast (fruit salad with yoghurt, cinnamon toast) and light lunches (sandwiches, salads and savoury pastries such as rissóis de carne with spicy minced beef).
+</Description>
+      <Address>Largo do Município</Address>
+      <AddressUrl>https://www.google.com/maps?q=Largo%20do%20Munic%C3%ADpio</AddressUrl>
+      <WebPage>www.darosa.pt</WebPage>
+      <WebPageUrl>https://www.darosa.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Algarve</RegionType>
@@ -334,6 +424,12 @@ Kids' dishes cost €8.</Description>
       <Name>Grand Beach Club</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>At the edge of the Atlantic and Rio Guadiana river mouth, with its own small beach (and a pool), Portugal's most southeasterly restaurant opens to a wraparound deck strewn with tables and sunloungers. Iberian black pork ribs with barbecue sauce, grilled steaks with green chimichurri sauce, gourmet pizzas, burgers on homemade brioche buns, organic salads and barbecued fish all feature.
+There's a small menu for kids.</Description>
+      <Address>Ponta da Areia</Address>
+      <AddressUrl>https://www.google.com/maps?q=Ponta%20da%20Areia</AddressUrl>
+      <WebPage>www.grandhousealgarve.com</WebPage>
+      <WebPageUrl>https://www.grandhousealgarve.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Algarve</RegionType>
@@ -342,6 +438,12 @@ Kids' dishes cost €8.</Description>
       <Name>Mó Veggie Bistro</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>A former wheat mill now houses this brilliant split-level bistro with raw timbers, comfy sofas and suspended lighting. All dishes are vegetarian and many are vegan. Menu highlights include Vietnamese spring rolls, sweet-potato hummus with beetroot, basil, mango and chia-seed salad, towering bean-patty burgers and open-faced toasties, plus cakes (some gluten-free). Yoga workshops and live music gigs regularly take place.
+</Description>
+      <Address>Rua João Dias Mendes 13</Address>
+      <AddressUrl>https://www.google.com/maps?q=Rua%20Jo%C3%A3o%20Dias%20Mendes%2013</AddressUrl>
+      <WebPage>www.facebook.com/MoVeggieBistro</WebPage>
+      <WebPageUrl>https://www.facebook.com/MoVeggieBistro</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Algarve</RegionType>
@@ -350,6 +452,12 @@ Kids' dishes cost €8.</Description>
       <Name>Luzzo Pizzeria</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>Tuti trufi (truffle oil and black-truffle shavings), siffredi (with ventricina spicy sausage, arugula and balsamic) and the house-speciality luzzo (portobello mushrooms, crispy bacon and caramelised pineapple) are just some of the enormous thin-crust pizzas pulled from the wood-fired oven at this fabulous spot. Dine in the plant-filled interior or pick up pizzas to take away.
+</Description>
+      <Address>Rua João Vaz Corte Real 28</Address>
+      <AddressUrl>https://www.google.com/maps?q=Rua%20Jo%C3%A3o%20Vaz%20Corte%20Real%2028</AddressUrl>
+      <WebPage>www.facebook.com/luzzotavira</WebPage>
+      <WebPageUrl>https://www.facebook.com/luzzotavira</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Algarve</RegionType>
@@ -358,6 +466,12 @@ Kids' dishes cost €8.</Description>
       <Name>Colheita Fresca</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>Produce from Loulé's magnificent Mercado Municipal is utilised in petiscos such as ostras (oysters) served with a squeeze of grapefruit, chouriço assado (flambéed chorizo) and moelas estufadas (garlic- and tomato-stuffed chicken gizzards), served in an arched-brick dining room and accompanied by Portuguese wines. Cash only.
+</Description>
+      <Address>Rua Dr Joaquim Nunes Saraiva</Address>
+      <AddressUrl>https://www.google.com/maps?q=Rua%20Dr%20Joaquim%20Nunes%20Saraiva</AddressUrl>
+      <WebPage>www.facebook.com/colheitafresca</WebPage>
+      <WebPageUrl>https://www.facebook.com/colheitafresca</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Algarve</RegionType>
@@ -366,6 +480,12 @@ Kids' dishes cost €8.</Description>
       <Name>Three Little Birds</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>Sagres' coolest cafe makes everything from scratch – tortillas, corn chips and brioche buns included – for its tacos, nachos and burgers (eg piri-piri chicken with bacon jam and grilled pineapple, or cod with lime aioli, avocado and cucumber salsa), all with veggie options. Drinks include 20 craft beers and gin-based cocktails. Live reggae, funk and soul plays on Saturdays in summer.
+</Description>
+      <Address>Rua do Mercado</Address>
+      <AddressUrl>https://www.google.com/maps?q=Rua%20do%20Mercado</AddressUrl>
+      <WebPage>www.three-little-birds.org</WebPage>
+      <WebPageUrl>https://www.three-little-birds.org</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Algarve</RegionType>
@@ -374,6 +494,12 @@ Kids' dishes cost €8.</Description>
       <Name>O Camilo</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>Perched above pretty Praia do Camilo, this sophisticated restaurant is renowned for its high-quality seafood dishes. Specialities include razor clams, fried squid, lobster and oysters in season, along with grilled fish. The 40-seat dining room is light, bright and airy, and the large 28-seat terrace overlooks the ocean. Bookings are a good idea any time and essential in high season.
+</Description>
+      <Address>Praia do Camilo</Address>
+      <AddressUrl>https://www.google.com/maps?q=Praia%20do%20Camilo</AddressUrl>
+      <WebPage>www.restaurantecamilo.pt</WebPage>
+      <WebPageUrl>https://www.restaurantecamilo.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Algarve</RegionType>
@@ -382,6 +508,12 @@ Kids' dishes cost €8.</Description>
       <Name>Faz Gostos</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>Sophisticated twists on Portuguese classics at this stylish restaurant in the old town might include xarém (maize porridge) with Ria Formosa clams, steamed sea bass with olive oil–poached potatoes, cornbread-topped cod, or chorizo-stuffed pork loin with fig sauce, depending on what's in season. Presentation is exquisite. The cellar has over 250 Portuguese wines.
+</Description>
+      <Address>Rua do Castelo 13</Address>
+      <AddressUrl>https://www.google.com/maps?q=Rua%20do%20Castelo%2013</AddressUrl>
+      <WebPage>www.fazgostos.com</WebPage>
+      <WebPageUrl>https://www.fazgostos.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Algarve</RegionType>
@@ -390,6 +522,12 @@ Kids' dishes cost €8.</Description>
       <Name>Tacho à Mesa</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>A white, modern interior is the stylish setting for first-rate traditional cooking using fresh produce purchased twice daily from the markets. Menu highlights include aromatic cataplanas, super-juicy bochechas de porco (pork cheeks) and other Algarvian-Alentejan dishes. Wines come from all over Portugal, with a few from Spain. Book ahead in summer.
+</Description>
+      <Address>Rua dos Lavadouros 46</Address>
+      <AddressUrl>https://www.google.com/maps?q=Rua%20dos%20Lavadouros%2046</AddressUrl>
+      <WebPage>www.facebook.com/tachoamesaolhao</WebPage>
+      <WebPageUrl>https://www.facebook.com/tachoamesaolhao</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Algarve</RegionType>
@@ -1040,6 +1178,12 @@ Woven baskets, handcrafted chopping boards, handmade cards and local artworks ar
       <Name>Mar d'Estórias</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>Portuguese handicrafts at this artisan emporium include ceramics, blankets, scarves and bags, along with stationery, cookbooks and music, while gourmet goods span olive oils, honey, cheeses, preserves, tinned fish, sweets, beers, wines and liqueurs. On the mezzanine, the in-house cafe serves petiscos and platters, as well as full meals; you can also dine on its panoramic roof terrace.
+</Description>
+      <Address>Rua Silva Lopes 30</Address>
+      <AddressUrl>https://www.google.com/maps?q=Rua%20Silva%20Lopes%2030</AddressUrl>
+      <WebPage>www.mardestorias.com</WebPage>
+      <WebPageUrl>https://www.mardestorias.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Algarve</RegionType>
@@ -1048,7 +1192,10 @@ Woven baskets, handcrafted chopping boards, handmade cards and local artworks ar
       <Name>Mercado Municipal</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
-      <Like>false</Like>
+      <Description>Loulé's most impressive piece of architectural heritage is its art-nouveau market, a 1908 revivalist neo-Arab confection with four cupolas at the four corners and Moorish features picked out in raspberry-red against cream-coloured walls. Inside you'll find a fish market, cheap cafes and local produce such as orange-blossom honey, fig 'cheese' (not cheese at all) and Cliff Richard's Algarve-produced wine.</Description>
+	  <Address>Praça da Republica</Address>
+      <AddressUrl>https://www.google.com/maps?q=Pra%C3%A7a%20da%20Republica</AddressUrl>
+	  <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Algarve</RegionType>
     </Place>
@@ -1056,6 +1203,12 @@ Woven baskets, handcrafted chopping boards, handmade cards and local artworks ar
       <Name>Chocolates de Beatriz</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>Chocolates made in Odemira in the neighbouring Alentejo region are enticingly displayed in glass cabinets at this little shop. Dark, milk and white chocolates have fillings such as Portuguese-harvested sea salt, fig paste, medronho (strawberry-tree liqueur) or Algarve oranges. Walk through and you'll find a tiny cafe where you can sit down for a hot chocolate and treats on site.
+</Description>
+      <Address>Rua Veríssimo de Almeida 5</Address>
+      <AddressUrl>https://www.google.com/maps?q=Rua%20Ver%C3%ADssimo%20de%20Almeida%205</AddressUrl>
+      <WebPage>www.chocolatesdebeatriz.com</WebPage>
+      <WebPageUrl>https://www.chocolatesdebeatriz.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Algarve</RegionType>
@@ -1064,6 +1217,12 @@ Woven baskets, handcrafted chopping boards, handmade cards and local artworks ar
       <Name>Algarve Rock</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>The Algarve's first craft brewery opened in 2018, producing organic, preservative-free, vegan brews inspired by the region, such as piri-piri pilsner and carob stout. It's located in an industrial estate 6.5km northwest of Faro. At the time of writing, tours and tastings (per person €25) were for groups only (call to confirm), but you can buy direct from the brewery.
+</Description>
+      <Address>Unidade B, Parq Vale da Venda</Address>
+      <AddressUrl>https://www.google.com/maps?q=Unidade%20B,%20Parq%20Vale%20da%20Venda</AddressUrl>
+      <WebPage>www.algarverock.com</WebPage>
+      <WebPageUrl>https://www.algarverock.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Algarve</RegionType>
@@ -1072,6 +1231,10 @@ Woven baskets, handcrafted chopping boards, handmade cards and local artworks ar
       <Name>Casa dos Arcos</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>Carpenter José Leonardo Salvador has been crafting traditional Monchique chairs aka 'scissor chairs' from alder (a type of birch wood) since the 1960s, following on from his father and grandfather. Photographs of his chairs in situ all over the world line the walls of his shop.
+</Description>
+      <Address>Rua da Estrada Velha</Address>
+      <AddressUrl>https://www.google.com/maps?q=Rua%20da%20Estrada%20Velha</AddressUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Algarve</RegionType>
@@ -1080,6 +1243,10 @@ Woven baskets, handcrafted chopping boards, handmade cards and local artworks ar
       <Name>Mercados Municipais</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>By the water, these two noble centenarian red-brick buildings are excellent examples of industrial architecture and house picturesque traditional fruit and fish markets that are worth a look at any time but are especially appealing on a Saturday morning. A string of simple seafood stalls and cafes makes them an atmospheric spot for a bite with water views.
+</Description>
+      <Address>Avenida 5 de Outubro</Address>
+      <AddressUrl>https://www.google.com/maps?q=Avenida%205%20de%20Outubro</AddressUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Algarve</RegionType>
@@ -1088,6 +1255,12 @@ Woven baskets, handcrafted chopping boards, handmade cards and local artworks ar
       <Name>Estudio Destra</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>In a white-washed building, Roger Metcalfe's ceramic's studio specialises in panels of beautiful azulejos (hand-painted tiles), lamp bases, bowls, vases and more. Also here is Portuguese jeweller, Catarina Lopes, who creates stylised pieces such as earrings inspired by carob pods or bracelets reflecting almond tree leaves.
+</Description>
+      <Address>Largo Jerónimo Osório</Address>
+      <AddressUrl>https://www.google.com/maps?q=Largo%20Jer%C3%B3nimo%20Os%C3%B3rio</AddressUrl>
+      <WebPage>www.estudio-destra.com</WebPage>
+      <WebPageUrl>https://www.estudio-destra.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Algarve</RegionType>
@@ -1096,6 +1269,12 @@ Woven baskets, handcrafted chopping boards, handmade cards and local artworks ar
       <Name>Loja Obrigado</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>Inside a landmark building covered in textured palm-green tiles, this little shop sells local crafts including ceramic bowls, vases, tiles, wall hangings and adorable wooden toys and games made by the Fábrica de Brinquedos workshop in the Serra do Caldeirão hills.
+</Description>
+      <Address>Praça Luís de Camões 3</Address>
+      <AddressUrl>https://www.google.com/maps?q=Pra%C3%A7a%20Lu%C3%ADs%20de%20Cam%C3%B5es%203</AddressUrl>
+      <WebPage>www.facebook.com/loja.obrigado</WebPage>
+      <WebPageUrl>https://www.facebook.com/loja.obrigado</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Algarve</RegionType>
@@ -1104,6 +1283,12 @@ Woven baskets, handcrafted chopping boards, handmade cards and local artworks ar
       <Name>Leonel Telo</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>Watch potter Leonel at work in his atelier while you browse his bright, quality ceramics (tableware, tile friezes, lampshades, wall hangings and fish sculptures). The studio adjoins Leonel's courtyard garden, filled with plants in pots he's crafted on site.
+</Description>
+      <Address>Rua do Corro 2</Address>
+      <AddressUrl>https://www.google.com/maps?q=Rua%20do%20Corro%202</AddressUrl>
+      <WebPage>www.facebook.com/leonelteloatelierceramica</WebPage>
+      <WebPageUrl>https://www.facebook.com/leonelteloatelierceramica</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Algarve</RegionType>
@@ -1112,6 +1297,12 @@ Woven baskets, handcrafted chopping boards, handmade cards and local artworks ar
       <Name>Mercado Municipal</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>Lagos' covered market is an intriguing place to wander, and a great spot to stock up on fresh produce and super-fresh seafood.
+</Description>
+      <Address>Avenida dos Descobrimentos</Address>
+      <AddressUrl>https://www.google.com/maps?q=Avenida%20dos%20Descobrimentos</AddressUrl>
+      <WebPage>www.cm-lagos.pt</WebPage>
+      <WebPageUrl>https://www.cm-lagos.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Algarve</RegionType>
@@ -1120,6 +1311,12 @@ Woven baskets, handcrafted chopping boards, handmade cards and local artworks ar
       <Name>Mercado Municipal de Faro</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>Faro's modern covered market building makes a great place to wander, people-watch, buy fresh produce, sit down on a terrace with a coffee or have lunch at one of several several restaurants here, such as O Palhacinho.
+</Description>
+      <Address>Largo Dr Francisco Sá Carneiro</Address>
+      <AddressUrl>https://www.google.com/maps?q=Largo%20Dr%20Francisco%20S%C3%A1%20Carneiro</AddressUrl>
+      <WebPage>www.mercadomunicipaldefaro.pt</WebPage>
+      <WebPageUrl>https://www.mercadomunicipaldefaro.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Algarve</RegionType>
@@ -1128,6 +1325,10 @@ Woven baskets, handcrafted chopping boards, handmade cards and local artworks ar
       <Name>Mercado Municipal</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>Located near the bridge, the small covered market is a good place to buy fresh fruit and veggies, cured meats and locally caught seafood.
+</Description>
+      <Address>Rua 25 de Abril</Address>
+      <AddressUrl>https://www.google.com/maps?q=Rua%2025%20de%20Abril</AddressUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Algarve</RegionType>
@@ -1136,6 +1337,12 @@ Woven baskets, handcrafted chopping boards, handmade cards and local artworks ar
       <Name>Mercado Municipal</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>On the northern banks of the river, Silves' municipal market has stalls selling fresh fish, meats, cheeses and local farm produce.
+</Description>
+      <Address>Rua José Estêvão</Address>
+      <AddressUrl>https://www.google.com/maps?q=Rua%20Jos%C3%A9%20Est%C3%AAv%C3%A3o</AddressUrl>
+      <WebPage>www.cm-silves.pt</WebPage>
+      <WebPageUrl>https://www.cm-silves.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Algarve</RegionType>
@@ -1144,6 +1351,12 @@ Woven baskets, handcrafted chopping boards, handmade cards and local artworks ar
       <Name>Garrafeira Soares</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>Opposite the market building, this outlet of the Algarve liquor chain has a good selection of Portuguese wines, port and spirits.
+</Description>
+      <Address>Rua Dr José Pires Padinha 66</Address>
+      <AddressUrl>https://www.google.com/maps?q=Rua%20Dr%20Jos%C3%A9%20Pires%20Padinha%2066</AddressUrl>
+      <WebPage>www.garrafeirasoares.pt</WebPage>
+      <WebPageUrl>https://www.garrafeirasoares.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Algarve</RegionType>
@@ -1152,6 +1365,12 @@ Woven baskets, handcrafted chopping boards, handmade cards and local artworks ar
       <Name>Mercado Municipal</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>Tavira's hangar-like modern food market near the bridge at the eastern edge of town sells fruit, vegetables, meat and fish.
+</Description>
+      <Address>Av Dom Manuel I</Address>
+      <AddressUrl>https://www.google.com/maps?q=Av%20Dom%20Manuel%20I</AddressUrl>
+      <WebPage>www.cm-tavira.pt</WebPage>
+      <WebPageUrl>https://www.cm-tavira.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Algarve</RegionType>
@@ -1160,6 +1379,10 @@ Woven baskets, handcrafted chopping boards, handmade cards and local artworks ar
       <Name>Owl Story</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>Run by a friendly British couple, Owl Story has an excellent supply of second-hand books in English.
+</Description>
+      <Address>Rua Marreiros Neto 67</Address>
+      <AddressUrl>https://www.google.com/maps?q=Rua%20Marreiros%20Neto%2067</AddressUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Algarve</RegionType>
@@ -1168,6 +1391,12 @@ Woven baskets, handcrafted chopping boards, handmade cards and local artworks ar
       <Name>Mercado Municipal 25 de Abril</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>Sagres' municipal market has stalls selling seafood along with fruit, vegetables and meat.
+</Description>
+      <Address>Rua do Mercado</Address>
+      <AddressUrl>https://www.google.com/maps?q=Rua%20do%20Mercado</AddressUrl>
+      <WebPage>www.cm-viladobispo.pt</WebPage>
+      <WebPageUrl>https://www.cm-viladobispo.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Algarve</RegionType>
@@ -1232,6 +1461,10 @@ Excellent facilities for kids include a paddling pool, baby cots and pull-out so
       <Name>Allons-y Guesthouse</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>The high point (in all senses) of this town-centre guesthouse is its top-level terrace overlooking Loulé's rooftops and castle, with potted plants and a pergola-shaded area where homemade breakfasts are served. Charming guestrooms have high ceilings, antique-style furniture and herringbone floors; all are en suite except one, which has a private but external bathroom.
+Cots are available for babies.</Description>
+      <Address>Rua de São Domingos 13</Address>
+      <AddressUrl>https://www.google.com/maps?q=Rua%20de%20S%C3%A3o%20Domingos%2013</AddressUrl>
       <Like>false</Like>
       <PlaceType>Hotels</PlaceType>
       <RegionType>Algarve</RegionType>
@@ -1240,6 +1473,12 @@ Excellent facilities for kids include a paddling pool, baby cots and pull-out so
       <Name>Pousada do Palácio de Estoi</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>Built between the 1840s and 1909, this sumptuous rococo-style palace with a coral-pink facade is set in formal Versailles-style gardens. Nonguests can visit its ornately frescoed drawing rooms opening to a terrace. Its 63 rooms are in a modern wing integrated into the hillside, topped by grass-covered roofs. There's a spa, indoor and outdoor pools, and an upmarket Portuguese/European restaurant.
+</Description>
+      <Address>Rua São José</Address>
+      <AddressUrl>https://www.google.com/maps?q=Rua%20S%C3%A3o%20Jos%C3%A9</AddressUrl>
+      <WebPage>www.pousadas.pt</WebPage>
+      <WebPageUrl>https://www.pousadas.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Hotels</PlaceType>
       <RegionType>Algarve</RegionType>
@@ -1248,6 +1487,12 @@ Excellent facilities for kids include a paddling pool, baby cots and pull-out so
       <Name>O Castelo</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>Right on the beach, this guesthouse is gleamingly maintained. Most of the 12 rooms with colourful, contemporary striped bed linens have a terrace or balcony with sea (and sunrise) views, and can accommodate an extra bed. The family room, with a double bed and two singles, also has a kitchenette.
+Breakfast (€12.50) is served on a sea-facing terrace.</Description>
+      <Address>Rua do Casino 59</Address>
+      <AddressUrl>https://www.google.com/maps?q=Rua%20do%20Casino%2059</AddressUrl>
+      <WebPage>www.ocastelo.net</WebPage>
+      <WebPageUrl>https://www.ocastelo.net</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Hotels</PlaceType>
       <RegionType>Algarve</RegionType>
@@ -1256,6 +1501,12 @@ Excellent facilities for kids include a paddling pool, baby cots and pull-out so
       <Name>Lagos Atlantic Hotel</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>Most of the spacious rooms at this pristine, stylish hotel, which opened in 2018, face south and open to balconies overlooking the pool. Family rooms have pull-out sofa beds; kids under 12 stay free. Handy amenities include shaded lock-up parking and a barbecue area.
+It's peacefully located 1.7km southwest of town and 500m uphill from the long, family-friendly beach, Praia de Porto de Mós.</Description>
+      <Address>Estrada do Monte Carapeto 9</Address>
+      <AddressUrl>https://www.google.com/maps?q=Estrada%20do%20Monte%20Carapeto%209</AddressUrl>
+      <WebPage>www.facebook.com/lagos.atlantic.hotel</WebPage>
+      <WebPageUrl>https://www.facebook.com/lagos.atlantic.hotel</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Hotels</PlaceType>
       <RegionType>Algarve</RegionType>
@@ -1264,6 +1515,12 @@ Excellent facilities for kids include a paddling pool, baby cots and pull-out so
       <Name>Casa d'Alagoa</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>A renovated mansion on a pretty square houses this cool, laid-back hostel. Great facilities include a lounge with long, sociable tables and beanbags, an upstairs terrace, barbecue and communal kitchen, plus on-site bike hire. There's a range of clean, spacious dorms (larger dorms have balconies) and en suite doubles.
+</Description>
+      <Address>Praça Alexandre Herculano 27</Address>
+      <AddressUrl>https://www.google.com/maps?q=Pra%C3%A7a%20Alexandre%20Herculano%2027</AddressUrl>
+      <WebPage>www.farohostel.com</WebPage>
+      <WebPageUrl>https://www.farohostel.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Hotels</PlaceType>
       <RegionType>Algarve</RegionType>
@@ -1272,6 +1529,12 @@ Excellent facilities for kids include a paddling pool, baby cots and pull-out so
       <Name>Quinta da Lua</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>Orange and carob groves surround this tranquil converted manor house 6km west of Tavira. Palms shade the large saltwater swimming pool, set amid extensive gardens aromatically planted with rosemary, lavender and olive trees. Some of its eight bright, stylish rooms have contemporary, cotton-canopied four-poster beds. Breakfast is served poolside in fine weather. From June to September, there's a minimum three-night stay.
+</Description>
+      <Address>Bernardinheiro</Address>
+      <AddressUrl>https://www.google.com/maps?q=Bernardinheiro</AddressUrl>
+      <WebPage>www.quintadalua.com.pt</WebPage>
+      <WebPageUrl>https://www.quintadalua.com.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Hotels</PlaceType>
       <RegionType>Algarve</RegionType>
@@ -1280,6 +1543,12 @@ Excellent facilities for kids include a paddling pool, baby cots and pull-out so
       <Name>Casa Fajara</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>A secluded hideaway, whitewashed boutique property Casa Fajara provides real relaxation. Immaculate rooms vary in size and outlook; all have balconies and some have kitchenettes. Family rooms sleep four. First-rate facilities include a pool lined by timber sunloungers and a lawn tennis court. From the turn-off to Praia da Bordeira, it's 750m in the opposite (eastern) direction to the beach.
+</Description>
+      <Address>Urbanização Quinta da Barrada 6</Address>
+      <AddressUrl>https://www.google.com/maps?q=Urbaniza%C3%A7%C3%A3o%20Quinta%20da%20Barrada%206</AddressUrl>
+      <WebPage>www.casafajara.com</WebPage>
+      <WebPageUrl>https://www.casafajara.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Hotels</PlaceType>
       <RegionType>Algarve</RegionType>
@@ -1288,7 +1557,12 @@ Excellent facilities for kids include a paddling pool, baby cots and pull-out so
       <Name>Pousada do Infante</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
-      <Like>false</Like>
+      <Description>On the promontory's clifftop, this modern pousada occupies a never-to-be-outbuilt position. All rooms and suites (with king-size beds and whirlpool baths) have balconies, but those at the front face the car park, so it's definitely worth paying extra for one overlooking the fortress and ocean to take in the dazzling sunsets and swimming pool (romantically floodlit at night).</Description>
+	  <Address>Rua Patrão António Faustino</Address>
+      <AddressUrl>https://www.google.com/maps?q=Rua%20Patr%C3%A3o%20Ant%C3%B3nio%20Faustino</AddressUrl>
+      <WebPage>www.pousadas.pt</WebPage>
+      <WebPageUrl>https://www.pousadas.pt</WebPageUrl>
+	  <Like>false</Like>
       <PlaceType>Hotels</PlaceType>
       <RegionType>Algarve</RegionType>
     </Place>
@@ -1296,6 +1570,12 @@ Excellent facilities for kids include a paddling pool, baby cots and pull-out so
       <Name>Pousada Convento de Tavira</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>Dating from the 16th century, this landmark sunflower-yellow former convent near the Castelo is now an upmarket hotel with streamlined rooms featuring splashes of poppy-red, an outdoor pool, organic spa and a restaurant serving contemporary regional cuisine at both lunch and dinner. Ask staff to show you the excavations that have revealed the remains of Moorish-era houses.
+</Description>
+      <Address>Rua Dom Paio Peres Correia</Address>
+      <AddressUrl>https://www.google.com/maps?q=Rua%20Dom%20Paio%20Peres%20Correia</AddressUrl>
+      <WebPage>www.pousadas.pt</WebPage>
+      <WebPageUrl>https://www.pousadas.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Hotels</PlaceType>
       <RegionType>Algarve</RegionType>
@@ -1304,6 +1584,12 @@ Excellent facilities for kids include a paddling pool, baby cots and pull-out so
       <Name>Vilafoîa</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>Situated 2.5km southwest of town, this rural hotel has an enchanting location in a hillside cork grove, with splendid views extending from the contemporary rooms' balconies or terraces south over the Algarvian coast. A couple of cottages 50m up the hill have kitchenettes. The saltwater pool also overlooks the coast. Heating is provided by solar power.
+</Description>
+      <Address>Corte Pereiro Apartado 241</Address>
+      <AddressUrl>https://www.google.com/maps?q=Corte%20Pereiro%20Apartado%20241</AddressUrl>
+      <WebPage>www.vilafoia.com</WebPage>
+      <WebPageUrl>https://www.vilafoia.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Hotels</PlaceType>
       <RegionType>Algarve</RegionType>
@@ -1312,6 +1598,12 @@ Excellent facilities for kids include a paddling pool, baby cots and pull-out so
       <Name>Loulé Jardim Hotel</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>Overlooking a pretty square, this late-19th-century building has 52 spacious, airy rooms in contemporary creams and beiges. Book ahead for the suite with a large private terrace, which requires a two-night minimum stay. There's a small saltwater pool with sunloungers, and breakfast, served in a glass-roofed atrium, is a substantial affair.
+</Description>
+      <Address>Praça Manuel de Arriaga 25</Address>
+      <AddressUrl>https://www.google.com/maps?q=Pra%C3%A7a%20Manuel%20de%20Arriaga%2025</AddressUrl>
+      <WebPage>www.loulejardimhotel.com</WebPage>
+      <WebPageUrl>https://www.loulejardimhotel.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Hotels</PlaceType>
       <RegionType>Algarve</RegionType>
@@ -1320,6 +1612,12 @@ Excellent facilities for kids include a paddling pool, baby cots and pull-out so
       <Name>Vila Joya</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>Just 8km west of Albufeira, yet a planet away in every respect, luxurious Vila Joya is right on the beachfront near Praia da Galé. Pool areas, lush green lawns, views of the sea and a spa with a sauna, steam bath, outdoor Jacuzzi and beauty treatment rooms create an ultrarelaxing environment. Its restaurant has two Michelin stars.
+</Description>
+      <Address>Estrada da Galé</Address>
+      <AddressUrl>https://www.google.com/maps?q=Estrada%20da%20Gal%C3%A9</AddressUrl>
+      <WebPage>www.vilajoya.com</WebPage>
+      <WebPageUrl>https://www.vilajoya.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Hotels</PlaceType>
       <RegionType>Algarve</RegionType>
@@ -1328,6 +1626,12 @@ Excellent facilities for kids include a paddling pool, baby cots and pull-out so
       <Name>Termas de Monchique Hotels</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>All four hotels in the Termas de Monchique complex have the same room rates. There are 105 rooms in total; suites come with balconies. You can book weekend or week-long packages that include spa treatments, with half- and full-board options at the hotels' restaurants, which range from casual, health-conscious dining to high-end gastronomy. Prices are cheaper in low season.
+Situated next to the Termas de Monchique spa, Hotel Termal is the oldest, biggest (and least modern) of the spa's four hotels. Next to the spa’s main reception, Hotel Central has 13 beautifully furnished rooms. Estalagem Dom Lourenço is the most luxurious option, but for style, Hotel Dom Carlos is the newest and most contemporary.</Description>
+      <Address>Rua de Caldas de Monchique</Address>
+      <AddressUrl>https://www.google.com/maps?q=Rua%20de%20Caldas%20de%20Monchique</AddressUrl>
+      <WebPage>www.monchiquetermas.com</WebPage>
+      <WebPageUrl>https://www.monchiquetermas.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Hotels</PlaceType>
       <RegionType>Algarve</RegionType>
@@ -1336,6 +1640,12 @@ Excellent facilities for kids include a paddling pool, baby cots and pull-out so
       <Name>Calçada Guesthouse</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>On a cobbled laneway in the town centre, this whitewashed guesthouse's six bedrooms are individually styled with colourful bedspreads and details like maps on the walls. Two have small wrought-iron balconies. Unwind in the hammock overlooking Tavira's rooftops on the sunny roof terrace. Minimum stay is four nights June to September, two nights March to May and in October.
+Eco initiatives include solar panels, heat pumps, rainwater collection and drought-proof garden plants.</Description>
+      <Address>Calçada de Dona Ana 12</Address>
+      <AddressUrl>https://www.google.com/maps?q=Cal%C3%A7ada%20de%20Dona%20Ana%2012</AddressUrl>
+      <WebPage>www.calcadaguesthouse.com</WebPage>
+      <WebPageUrl>https://www.calcadaguesthouse.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Hotels</PlaceType>
       <RegionType>Algarve</RegionType>
@@ -1344,6 +1654,12 @@ Excellent facilities for kids include a paddling pool, baby cots and pull-out so
       <Name>Duas Quintas</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>Set amid 6 hectares of orange groves, with views over the rolling hills from the terrace, this restored farmhouse has six partially antique-furnished rooms (including a spacious three-person studio with a kitchenette and washing machine), a communal lounge room, terraces and landscaped natural pool. Cots and high chairs are available for tots. It's 6km northeast of Silves along the N124.
+There are big discounts for staying a week or more.</Description>
+      <Address>Santo Estevão</Address>
+      <AddressUrl>https://www.google.com/maps?q=Santo%20Estev%C3%A3o</AddressUrl>
+      <WebPage>www.duasquintas.com</WebPage>
+      <WebPageUrl>https://www.duasquintas.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Hotels</PlaceType>
       <RegionType>Algarve</RegionType>
@@ -1352,6 +1668,12 @@ Excellent facilities for kids include a paddling pool, baby cots and pull-out so
       <Name>Pousada da Juventude</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>Brilliantly situated 900m east of Praia da Arrifana, this hostel has a striking grey-and-yellow colour scheme incorporating designer plastic furniture such as surfboard-shaped coffee tables, and light, bright rooms (some with private bathrooms, air conditioning and/or sea views). Great facilities include a sunny ocean-view terrace, above-ground pool, a storeroom for surf gear, and a washing and drying room.
+</Description>
+      <Address>Urbanização Vale da Telha, Praia da Arrifana</Address>
+      <AddressUrl>https://www.google.com/maps?q=Urbaniza%C3%A7%C3%A3o%20Vale%20da%20Telha,%20Praia%20da%20Arrifana</AddressUrl>
+      <WebPage>www.pousadasjuventude.pt</WebPage>
+      <WebPageUrl>https://www.pousadasjuventude.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Hotels</PlaceType>
       <RegionType>Algarve</RegionType>

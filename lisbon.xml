@@ -304,6 +304,12 @@ Follow the lead of locals and come for a browse in the morning followed by lunch
       <Name>Alma</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>Two-Michelin–starred Henrique Sá Pessoa's flagship Alma is one of Portugal's destination restaurants and, in our humble opinion, Lisbon's best gourmet dining experience. The casual space exudes understated style amid the original stone flooring and gorgeous hardwood tables, but it's Pessoa's outrageously good nouveau Portuguese cuisine that draws the foodie flock from far and wide.
+Seasonal menus focus on the freshest Iberian flavours possible. Standout dishes include charred red peppers in an exquisite red-pepper coulis and suckling-pig confit that will bring you to your knees in unadulterated culinary joy. Portions are bigger than average at this level and the sommelier isn't afraid to pick bold, unorthodox wines to round out your evening.</Description>
+      <Address>Rua Anchieta 15</Address>
+      <AddressUrl>https://www.google.com/maps?q=Rua%20Anchieta%2015</AddressUrl>
+      <WebPage>www.almalisboa.pt</WebPage>
+      <WebPageUrl>https://www.almalisboa.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -312,6 +318,12 @@ Follow the lead of locals and come for a browse in the morning followed by lunch
       <Name>Feitoria</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>A defining dining experience awaits at chef João Rodrigues' slick, contemporary, Michelin-starred restaurant overlooking the riverfront. Rich textures and clean, bright flavours dominate throughout three tasting menus, which showcase Portugal's rich and vibrant bounty. Pigeon with wild mushrooms, foie gras and truffles, Algarve scarlet shrimp and Iberian pork neck exhilarate with every bite.
+From the beginning (excellent bread with the Douro's Doña Berta olive oil), through to engaging wine choices and a few surprises along the way, this is where your palette meets paradise. Those splurging on tasting menus receive a waxed-sealed menu of their evening signed by the chef – a nice touch.</Description>
+      <Address>Altis Belém Hotel. Doca do Bom Sucesso</Address>
+      <AddressUrl>https://www.google.com/maps?q=Altis%20Bel%C3%A9m%20Hotel.%20Doca%20do%20Bom%20Sucesso</AddressUrl>
+      <WebPage>www.restaurantefeitoria.com</WebPage>
+      <WebPageUrl>https://www.restaurantefeitoria.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Restaurants</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -937,6 +949,11 @@ Portugal's most famous fado singer, Mariza, brought us here in 2005. It's legit.
       <Name>Senhor Fado</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+	  <Description>Small and lantern-lit, this is a cosy spot for fado vadio (street fado). Fadista Ana Marina and guitarist Duarte Santos make a great double act.</Description>
+	  <Address>Rua dos Remédios 176</Address>
+	  <AddressUrl>https://www.google.com/maps?q=Rua%20dos%20Rem%C3%A9dios%20176</AddressUrl>
+	  <WebPage>www.sr-fado.com</WebPage>
+	  <WebPageUrl>www.sr-fado.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Entertainment</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -945,6 +962,13 @@ Portugal's most famous fado singer, Mariza, brought us here in 2005. It's legit.
       <Name>Fundação Calouste Gulbenkian</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>Home to the Gulbenkian Orchestra, this classical-music heavyweight stages first-rate concerts and ballets.
+
+</Description>
+      <Address>Av de Berna 45A</Address>
+      <AddressUrl>https://www.google.com/maps?q=Av%20de%20Berna%2045A</AddressUrl>
+      <WebPage>www.gulbenkian.pt</WebPage>
+      <WebPageUrl>https://www.gulbenkian.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Entertainment</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -952,7 +976,13 @@ Portugal's most famous fado singer, Mariza, brought us here in 2005. It's legit.
     <Place>
       <Name>Cinema Ideal</Name>
       <Thumbimageuri>https://lp-cms-production.imgix.net/2019-06/0a43bd14e3dc6ad4ab5d2a378be9a4f5-lpl-cinema-ideal1.jpg?auto=format&amp;amp;w=250&amp;amp;h=250&amp;amp;fit=crop&amp;amp;q=40</Thumbimageuri>
-      <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <FullImageUri>https://lp-cms-production.imgix.net/2019-06/0a43bd14e3dc6ad4ab5d2a378be9a4f5-lpl-cinema-ideal1.jpg?auto=format&amp;amp;w=1920&amp;amp;h=640&amp;amp;fit=crop&amp;amp;crop=faces,edges&amp;amp;q=75</FullImageUri>
+      <Description>Opened in 1904, this small neighbourhood cinema was last refurbished in the 1950s and keeps much of the same atmosphere of a classical movie theatre. The programming changes every week and focuses mostly on independent films or small festival cycles. Next door, there's a bookstore, record shop, and a cafeteria serving mostly salads and sandwiches.
+</Description>
+      <Address>Rua do Loreto 15-17</Address>
+      <AddressUrl>https://www.google.com/maps?q=Rua%20do%20Loreto%2015-17</AddressUrl>
+      <WebPage>www.cinemaideal.pt</WebPage>
+      <WebPageUrl>https://www.cinemaideal.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Entertainment</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -960,7 +990,13 @@ Portugal's most famous fado singer, Mariza, brought us here in 2005. It's legit.
     <Place>
       <Name>Clube de Fado</Name>
       <Thumbimageuri>https://lp-cms-production.imgix.net/2019-06/9d3168baa943ed708daaf56a51b3ea27-clube-de-fado.jpg?auto=format&amp;amp;w=250&amp;amp;h=250&amp;amp;fit=crop&amp;amp;q=40</Thumbimageuri>
-      <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <FullImageUri>https://lp-cms-production.imgix.net/2019-06/9d3168baa943ed708daaf56a51b3ea27-clube-de-fado.jpg?auto=format&amp;amp;w=1920&amp;amp;h=640&amp;amp;fit=crop&amp;amp;crop=faces,edges&amp;amp;q=75</FullImageUri>
+      <Description>Clube de Fado hosts the cream of the fado crop in vaulted, dimly lit surrounds. Big-name fadistas performing here include Cuca Roseta and Maria Ana Bobone, alongside celebrated guitarists such as owner Mario Pacheco. The food is less outstanding, so come for drinks, which is allowed after 10.30pm. Fado starts at 9.15pm.
+</Description>
+      <Address>Rua de São João da Praça 92</Address>
+      <AddressUrl>https://www.google.com/maps?q=Rua%20de%20S%C3%A3o%20Jo%C3%A3o%20da%20Pra%C3%A7a%2092</AddressUrl>
+      <WebPage>www.clube-de-fado.com</WebPage>
+      <WebPageUrl>https://www.clube-de-fado.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Entertainment</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -969,6 +1005,12 @@ Portugal's most famous fado singer, Mariza, brought us here in 2005. It's legit.
       <Name>Teatro Nacional de São Carlos</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>Teatro Nacional de São Carlos is worth visiting just to see the sublime gold-and-red interior (email ahead for €5 guided tours), and it has opera, ballet and theatre seasons. The summertime Festival ao Largo features free outdoor concerts on the plaza facing the theatre.
+</Description>
+      <Address>Rua Serpa Pinto 9</Address>
+      <AddressUrl>https://www.google.com/maps?q=Rua%20Serpa%20Pinto%209</AddressUrl>
+      <WebPage>www.saocarlos.pt</WebPage>
+      <WebPageUrl>https://www.saocarlos.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Entertainment</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -977,6 +1019,10 @@ Portugal's most famous fado singer, Mariza, brought us here in 2005. It's legit.
       <Name>Tasca do Jaime</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>This low-key restaurant in Graça hosts authentic fado on weekends from about 4pm to 8pm. Decorated with azulejos and photos of prominent fadistas, it’s a tiny space, so arrive early to score a table, which are reserved for those eating and drinking (mains during fado are €9 to €15).
+</Description>
+      <Address>Rua da Graça 91</Address>
+      <AddressUrl>https://www.google.com/maps?q=Rua%20da%20Gra%C3%A7a%2091</AddressUrl>
       <Like>false</Like>
       <PlaceType>Entertainment</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -985,6 +1031,12 @@ Portugal's most famous fado singer, Mariza, brought us here in 2005. It's legit.
       <Name>Senhor Vinho</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>Fado star Maria da Fé owns this small place, welcoming first-rate fadistas (fado singers). Go for the fado (from 7pm) not the food, and feel free to refuse menu extras.
+'Oiça Lá Ó Senhor Vinho' is a song about the place from another fado star, Mariza – it's where she got her start.</Description>
+      <Address>Rua do Meio á Lapa 18</Address>
+      <AddressUrl>https://www.google.com/maps?q=Rua%20do%20Meio%20%C3%A1%20Lapa%2018</AddressUrl>
+      <WebPage>www.srvinho.com</WebPage>
+      <WebPageUrl>https://www.srvinho.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Entertainment</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -993,6 +1045,12 @@ Portugal's most famous fado singer, Mariza, brought us here in 2005. It's legit.
       <Name>Damas</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>Part restaurant, bar and alternative concert hall, Damas has given the cool kids a reason to climb the hill to Graça since its opening in 2015. From DJs spinning electronica to African and indie rock bands, there's always an eclectic mix of sound here and it's often free.
+</Description>
+      <Address>Rua do Operário 60</Address>
+      <AddressUrl>https://www.google.com/maps?q=Rua%20do%20Oper%C3%A1rio%2060</AddressUrl>
+      <WebPage>www.facebook.com/pg/DAMASLISBOA</WebPage>
+      <WebPageUrl>https://www.facebook.com/pg/DAMASLISBOA</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Entertainment</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1001,6 +1059,12 @@ Portugal's most famous fado singer, Mariza, brought us here in 2005. It's legit.
       <Name>Teatro Taborda</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>This cultural centre showcases contemporary dance, theatre and world music, and is the residence of experimental theatre company Teatro da Garagem. It also has spectacular views from its cafe (open 5pm to midnight Tuesday to Friday, from 3pm on weekends).
+</Description>
+      <Address>Costa do Castelo 75</Address>
+      <AddressUrl>https://www.google.com/maps?q=Costa%20do%20Castelo%2075</AddressUrl>
+      <WebPage>www.teatrodagaragem.com</WebPage>
+      <WebPageUrl>https://www.teatrodagaragem.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Entertainment</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1009,6 +1073,12 @@ Portugal's most famous fado singer, Mariza, brought us here in 2005. It's legit.
       <Name>Centro Cultural de Belém</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>The CCB presents a diverse program spanning experimental jazz, contemporary ballet, boundary-crossing plays and performances by the Portuguese Chamber Orchestra. Buy tickets at the box office (open 11am to 8pm).
+</Description>
+      <Address>Praça do Império</Address>
+      <AddressUrl>https://www.google.com/maps?q=Pra%C3%A7a%20do%20Imp%C3%A9rio</AddressUrl>
+      <WebPage>www.ccb.pt</WebPage>
+      <WebPageUrl>https://www.ccb.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Entertainment</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1017,6 +1087,12 @@ Portugal's most famous fado singer, Mariza, brought us here in 2005. It's legit.
       <Name>Zé dos Bois</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>Focusing on tomorrow’s performing-arts and music trends, Zé dos Bois is an experimental venue with a graffitied courtyard and an eclectic line-up of theatre, film, visual arts and live music.
+</Description>
+      <Address>Rua da Barroca 59</Address>
+      <AddressUrl>https://www.google.com/maps?q=Rua%20da%20Barroca%2059</AddressUrl>
+      <WebPage>www.zedosbois.org</WebPage>
+      <WebPageUrl>https://www.zedosbois.org</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Entertainment</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1285,6 +1361,12 @@ On occasion it does a mean avocado on rye toast with spinach and hard-boiled egg
       <Name>Duque Brewpub</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>Lisbon's inaugural brewpub features 12 taps of Portuguese-only craft brews, a few of which are dedicated to on-site suds (under the banner of Cerveja Aroeira), brewed in true craft-beer style: no two batches are the same. Additional taps feature invitees such as Dois Corvos, Musa and Letra.
+Take a load off with a hoppy IPA at the pleasant sidewalk seating or hang out in the cosy indoor space, where the tunes pop seamlessly between early '80s Depeche Mode to Morrissey to sexy modern fado from Gisela João.</Description>
+      <Address>Duques da Calçada 49</Address>
+      <AddressUrl>https://www.google.com/maps?q=Duques%20da%20Cal%C3%A7ada%2049</AddressUrl>
+      <WebPage>www.duquebrewpub.com</WebPage>
+      <WebPageUrl>https://www.duquebrewpub.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Nightlife</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1405,6 +1487,12 @@ There are other outlets in the Mercado da Ribeira and at Rua da Conceição 20/2
       <Name>Manteigaria Silva</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>Specialising in the best of the best and in business for more than a century, Manteigaria Silva does a brisk trade in staunchly curated Portuguese ham, cheese, wine and bacalhau.
+</Description>
+      <Address>Rua Dom Antão de Almada 1D</Address>
+      <AddressUrl>https://www.google.com/maps?q=Rua%20Dom%20Ant%C3%A3o%20de%20Almada%201D</AddressUrl>
+      <WebPage>www.manteigariasilva.pt</WebPage>
+      <WebPageUrl>https://www.manteigariasilva.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1412,7 +1500,13 @@ There are other outlets in the Mercado da Ribeira and at Rua da Conceição 20/2
     <Place>
       <Name>Underdogs Public Art Store</Name>
       <Thumbimageuri>https://lp-cms-production.imgix.net/2019-06/b122c76935db9d1fe64317a7c9e17eaa-lpl-montana-lisboa-cafe1.jpg?auto=format&amp;amp;w=250&amp;amp;h=250&amp;amp;fit=crop&amp;amp;q=40</Thumbimageuri>
-      <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <FullImageUri>https://lp-cms-production.imgix.net/2019-06/b122c76935db9d1fe64317a7c9e17eaa-lpl-montana-lisboa-cafe1.jpg?auto=format&amp;amp;w=1920&amp;amp;h=640&amp;amp;fit=crop&amp;amp;crop=faces,edges&amp;amp;q=75</FullImageUri>
+      <Description>Witness the strength of street knowledge at this part gallery, part Montana-street-art paint store and cafe behind Cais do Sodré. Underdogs specialises in high-profile public art and offers Lisbon's best public-art tours on a sporadic, by-appointment-only basis (tours from €35). Good coffee is available, too.
+All tours must be prebooked in person or by email.</Description>
+      <Address>Rua da Cintura do Porto de Lisboa, Armazém A</Address>
+      <AddressUrl>https://www.google.com/maps?q=Rua%20da%20Cintura%20do%20Porto%20de%20Lisboa,%20Armaz%C3%A9m%20A</AddressUrl>
+      <WebPage>www.under-dogs.net</WebPage>
+      <WebPageUrl>https://www.under-dogs.net</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1420,7 +1514,13 @@ There are other outlets in the Mercado da Ribeira and at Rua da Conceição 20/2
     <Place>
       <Name>Apaixonarte</Name>
       <Thumbimageuri>https://lp-cms-production.imgix.net/2019-06/d27234f6f346ddb7e2e2e068584478f6-lpl-apaixonarte1.jpg?auto=format&amp;amp;w=250&amp;amp;h=250&amp;amp;fit=crop&amp;amp;q=40</Thumbimageuri>
-      <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <FullImageUri>https://lp-cms-production.imgix.net/2019-06/d27234f6f346ddb7e2e2e068584478f6-lpl-apaixonarte1.jpg?auto=format&amp;amp;w=1920&amp;amp;h=640&amp;amp;fit=crop&amp;amp;crop=faces,edges&amp;amp;q=75</FullImageUri>
+      <Description>This corner design store sells only Portuguese-made home decor pieces and fashion accessories. Once a month the shop also welcomes art exhibits by local artists. Soaps, prints and small decoration items make popular souvenirs.
+</Description>
+      <Address>Rua Poiais de São Bento 57</Address>
+      <AddressUrl>https://www.google.com/maps?q=Rua%20Poiais%20de%20S%C3%A3o%20Bento%2057</AddressUrl>
+      <WebPage>www.apaixonarte.com</WebPage>
+      <WebPageUrl>https://www.apaixonarte.com</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1429,6 +1529,12 @@ There are other outlets in the Mercado da Ribeira and at Rua da Conceição 20/2
       <Name>Comida Independente</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>This sustainably focused market has a lot going for it: free-range, preservative-free charcuterie from the Algarve, Vinhais and elsewhere; a 160-strong wine inventory, 80% of which are natural; organic medronho (Portuguese fruit brandy); gourmet Pudim abade de Priscos from Braga (a decadent flan swarming with egg yolk, sugar, 20-year-old port and cured ham); and gorgeous Caldas da Rainha ceramics.
+Everything has been painstakingly curated direct from some of Portugal's most interesting producers. It's a fantastic spot to sit down with a natural wine and cheese plate (€12 for one person, €22 for two) and shoot the breeze with the passionate owners and staff.</Description>
+      <Address>Rua Cais do Tojo 28</Address>
+      <AddressUrl>https://www.google.com/maps?q=Rua%20Cais%20do%20Tojo%2028</AddressUrl>
+      <WebPage>www.comidaindependente.pt</WebPage>
+      <WebPageUrl>https://www.comidaindependente.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1437,6 +1543,12 @@ There are other outlets in the Mercado da Ribeira and at Rua da Conceição 20/2
       <Name>O Voo da Andorinha</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>Candy-bright beads, hand-stitched swallows, embroidered accessories and quirky furnishings made with recycled castaways such as cassette tapes, floppy discs, computer keys and old vinyl – you’ll find all of this and more at this adorable boutique representing some 50 Lisbon-area artists near the cathedral.
+It shares space with Joana Candeias (backpacks), Amores de Tóquio (Asian-influenced women's clothing) and Adonis Jewellery (contemporary ornaments inspired by Lego pieces, flowers, sewing needles etc).</Description>
+      <Address>Rua do Barão 22</Address>
+      <AddressUrl>https://www.google.com/maps?q=Rua%20do%20Bar%C3%A3o%2022</AddressUrl>
+      <WebPage>www.facebook.com/ovoodaandorinha</WebPage>
+      <WebPageUrl>https://www.facebook.com/ovoodaandorinha</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1445,6 +1557,12 @@ There are other outlets in the Mercado da Ribeira and at Rua da Conceição 20/2
       <Name>Claus Porto</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>The amazing flagship store is in Porto, but Claus Porto, one of Portugal's most iconic brands, has its own evocative retro Lisbon boutique here as well. The painstakingly vintage art-deco and belle-époque-style packaging for the luxury soaps, lotions, room diffusers and notebooks are all original – resurrected from the brand's design archives.
+For men, spend more than €50 and there's a free shave in the deal, taken in the shaving salon below.</Description>
+      <Address>Rua da Misericórdia 135</Address>
+      <AddressUrl>https://www.google.com/maps?q=Rua%20da%20Miseric%C3%B3rdia%20135</AddressUrl>
+      <WebPage>www.clausporto.com/pt</WebPage>
+      <WebPageUrl>https://www.clausporto.com/pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1453,6 +1571,12 @@ There are other outlets in the Mercado da Ribeira and at Rua da Conceição 20/2
       <Name>Verso Branco</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>'Free verse' is the name of this split-level design store, where Fernando has a story for every object. The high-ceilinged space showcases Portuguese contemporary arts, crafts and furnishings, from Burel's quality wool creations to limited-edition La.Ga bags by designer Jorge Moita – the beautifully crafted bags made from Tyvek weigh just 40g and can hold 55kg.
+</Description>
+      <Address>Rua da Boavista 132-134</Address>
+      <AddressUrl>https://www.google.com/maps?q=Rua%20da%20Boavista%20132-134</AddressUrl>
+      <WebPage>www.versobranco.pt</WebPage>
+      <WebPageUrl>https://www.versobranco.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1461,6 +1585,12 @@ There are other outlets in the Mercado da Ribeira and at Rua da Conceição 20/2
       <Name>Retrox</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>Stylish Brazilian Josiane Lima has assembled a collection of vintage kitsch from the '50s to the '70s, from Portugal and abroad, at this hip Intendente shop. The ever-changing bounty might feature Abba 45s, West German scales, Cuban cigar boxes, framed 1940 Comboios de Portugal train schedules or old-school Japanese Super 8 cameras.
+</Description>
+      <Address>Rua dos Anjos 4C</Address>
+      <AddressUrl>https://www.google.com/maps?q=Rua%20dos%20Anjos%204C</AddressUrl>
+      <WebPage>www.facebook.com/retroxcoisasvintage</WebPage>
+      <WebPageUrl>https://www.facebook.com/retroxcoisasvintage</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1469,6 +1599,12 @@ There are other outlets in the Mercado da Ribeira and at Rua da Conceição 20/2
       <Name>Santos Ofícios</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>If you have always fancied a hand-embroidered fado shawl, check out this brick-vaulted store. Santos is a must-shop for Portuguese folk art, including Madeira lace, barro negro glazed earthenware from Molelos and miniature matchstick art from André Monteiro, among other high-quality, non-kitschy wares.
+</Description>
+      <Address>Rua da Madalena 87</Address>
+      <AddressUrl>https://www.google.com/maps?q=Rua%20da%20Madalena%2087</AddressUrl>
+      <WebPage>www.santosoficios-artesanato.pt</WebPage>
+      <WebPageUrl>https://www.santosoficios-artesanato.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1477,6 +1613,12 @@ There are other outlets in the Mercado da Ribeira and at Rua da Conceição 20/2
       <Name>Sky Walker</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>This small, hipster men's boutique is a well-curated hot spot for picking up slimming Bellroy wallets from Australia, adult backpacks from Herschel Supply Co and Fjällräven, cool hats from Penfield and Komono sunglasses, as well as a stylish selection of sneakers, jackets, tees and accessories.
+</Description>
+      <Address>Rua do Norte 12</Address>
+      <AddressUrl>https://www.google.com/maps?q=Rua%20do%20Norte%2012</AddressUrl>
+      <WebPage>www.facebook.com/skywalkerlx</WebPage>
+      <WebPageUrl>https://www.facebook.com/skywalkerlx</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1485,6 +1627,12 @@ There are other outlets in the Mercado da Ribeira and at Rua da Conceição 20/2
       <Name>Napoleão</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>Of the two Napoleão shops on this corner, this friendly, English-speaking cellar specialises in Portuguese-only wines, ports and spirits. There are hundreds of bottles to choose from (as well as other home-grown gourmet products) and it ships worldwide.
+</Description>
+      <Address>Rua dos Fanqueiros 70</Address>
+      <AddressUrl>https://www.google.com/maps?q=Rua%20dos%20Fanqueiros%2070</AddressUrl>
+      <WebPage>www.napoleao.co.pt</WebPage>
+      <WebPageUrl>https://www.napoleao.co.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Lisbon</RegionType>
@@ -1493,6 +1641,12 @@ There are other outlets in the Mercado da Ribeira and at Rua da Conceição 20/2
       <Name>Cork &amp;amp; Company</Name>
       <Thumbimageuri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</Thumbimageuri>
       <FullImageUri>https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30623.jpg?w=1380&amp;t=st=1688095853~exp=1688096453~hmac=4e5ae3394a415e88b139bb2e188c16cfb9c241ce7c4babb16eb8b3f601004091</FullImageUri>
+      <Description>At this elegantly designed shop, you'll find cork put to surprisingly imaginative uses, with well-made and sustainable cork handbags, pens, wallets, journals, candleholders, hats, scarves, place mats, umbrellas, iPhone covers and even chaise longues!
+</Description>
+      <Address>Rua das Salgadeiras 10</Address>
+      <AddressUrl>https://www.google.com/maps?q=Rua%20das%20Salgadeiras%2010</AddressUrl>
+      <WebPage>www.corkandcompany.pt</WebPage>
+      <WebPageUrl>https://www.corkandcompany.pt</WebPageUrl>
       <Like>false</Like>
       <PlaceType>Shopping</PlaceType>
       <RegionType>Lisbon</RegionType>
